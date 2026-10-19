@@ -1,0 +1,274 @@
+{
+ "_embedded": {
+  "events": [
+   {
+    "name": "San Diego Symphony: Halloween Spooktacular",
+    "url": "https://www.ticketmaster.com/event/X467304",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-25",
+      "localTime": "19:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Classical"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "The Rady Shell at Jacobs Park",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Padres vs Dodgers",
+    "url": "https://www.ticketmaster.com/event/X609492",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-21",
+      "localTime": "18:40:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Sports"
+      },
+      "genre": {
+       "name": "Baseball"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Petco Park",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Parking: Padres vs Dodgers",
+    "url": "https://www.ticketmaster.com/event/X603944",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-21",
+      "localTime": "16:40:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Miscellaneous"
+      },
+      "genre": {
+       "name": "Undefined"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Petco Park",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Disney On Ice",
+    "url": "https://www.ticketmaster.com/event/X212190",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-30",
+      "localTime": "19:00:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Family"
+      },
+      "genre": {
+       "name": "Ice Shows"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Pechanga Arena",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Hamilton",
+    "url": "https://www.ticketmaster.com/event/X812345",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-28",
+      "localTime": "19:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "name": "Theatre"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "San Diego Civic Theatre",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Cancelled Rock Show",
+    "url": "https://www.ticketmaster.com/event/X329258",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-26",
+      "localTime": "20:00:00"
+     },
+     "status": {
+      "code": "cancelled"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Rock"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "House of Blues",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Halloween Spooktacular",
+    "url": "https://www.ticketmaster.com/event/X831405",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-25",
+      "localTime": "19:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Classical"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "The Rady Shell",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Jazz at the Athenaeum",
+    "url": "https://www.ticketmaster.com/event/X798921",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-23",
+      "localTime": "19:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Jazz"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Athenaeum Music & Arts Library",
+       "city": {
+        "name": "La Jolla"
+       }
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "page": {
+  "number": 0,
+  "totalPages": 1
+ }
+}

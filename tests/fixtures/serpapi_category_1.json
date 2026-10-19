@@ -1,0 +1,73 @@
+{
+ "events_results": [
+  {
+   "title": "Pumpkin Patch at Bates Nut Farm",
+   "date": {
+    "start_date": "Oct 20",
+    "when": "Mon, Oct 20 \u2013 Fri, Oct 31"
+   },
+   "address": [
+    "Bates Nut Farm, 15954 Woods Valley Rd",
+    "Valley Center, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Hayrides, petting zoo, pumpkins.",
+   "venue": {
+    "name": "Bates Nut Farm"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Fleet Science Center: Science Night",
+   "date": {
+    "start_date": "Oct 24",
+    "when": "Fri, Oct 24, 6 \u2013 9 PM"
+   },
+   "address": [
+    "Fleet Science Center, 1875 El Prado",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "",
+   "venue": {
+    "name": "Fleet Science Center"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "D\u00eda de los Muertos Festival",
+   "date": {
+    "start_date": "Oct 25",
+    "when": "Sat, Oct 25, 10 AM \u2013 6 PM"
+   },
+   "address": [
+    "Old Town San Diego, 4002 Wallace St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Altars, music, face painting for the whole family.",
+   "venue": {
+    "name": "Old Town San Diego"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+name: Update San Diego events
+
+on:
+  schedule:
+    - cron: "23 12 * * *"     # daily, ~5:20am Pacific (4:20am in winter)
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Search this interest category today instead of the rotation (optional)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write      # lets the keep-alive step reset GitHub's 60-day inactivity timer
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch events
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+          CATEGORY: ${{ github.event.inputs.category }}
+        run: |
+          if [ -n "$CATEGORY" ]; then
+            python fetch_events.py --category "$CATEGORY"
+          else
+            python fetch_events.py
+          fi
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update San Diego events"
+            git push
+          fi
+
+      - name: Keep schedule alive
+        # GitHub disables scheduled workflows after 60 days of repo inactivity. Re-enabling the
+        # workflow on every run resets that timer, so the daily schedule never lapses.
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable update.yml || echo "Could not re-enable (harmless)."
