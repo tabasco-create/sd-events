@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>San Diego Events</title>
+<meta name="robots" content="noindex">
+<style>
+  :root{--bg:#fff;--fg:#222;--muted:#666;--card:#f5f6f8;--line:#dde0e5;--accent:#1a4d8f;--ok:#1b7a3d;--bad:#b3261e;--warn:#8a5a00}
+  @media (prefers-color-scheme:dark){:root{--bg:#15171a;--fg:#e8e9eb;--muted:#9aa0a6;--card:#202327;--line:#34383d;--accent:#6ea8ff;--ok:#5fd08a;--bad:#ff8a80;--warn:#f2c46d}}
+  *{box-sizing:border-box}
+  body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:760px;margin:2rem auto;padding:0 1rem 3rem;line-height:1.5;color:var(--fg);background:var(--bg)}
+  h1{margin-bottom:.25rem} h2{margin:2rem 0 .5rem;font-size:1.25rem}
+  a{color:var(--accent)}
+  small,.muted{color:var(--muted)}
+  .status{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem;margin:1.2rem 0}
+  .status div{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;padding:.15rem 0}
+  .ok{color:var(--ok)} .bad{color:var(--bad)} .warn{color:var(--warn)}
+  .chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.6rem 0 1rem}
+  .chips button{font:inherit;font-size:.875rem;padding:.3rem .75rem;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer}
+  .chips button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+  .day{margin:1.2rem 0 .3rem;font-weight:700;border-bottom:1px solid var(--line);padding-bottom:.2rem}
+  .ev{display:grid;grid-template-columns:5.5rem 1fr;gap:.1rem .8rem;padding:.45rem 0;border-bottom:1px dashed var(--line)}
+  .ev .when{color:var(--muted);font-variant-numeric:tabular-nums}
+  .ev .meta{color:var(--muted);font-size:.875rem}
+  .tag{display:inline-block;font-size:.75rem;border:1px solid var(--line);border-radius:4px;padding:0 .35rem;margin:.15rem .3rem 0 0;color:var(--muted)}
+  @media (max-width:520px){.ev{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<h1>San Diego Events</h1>
+<p>Upcoming events filtered to our interests, updated each morning. Shown on the
+<a href="https://tabasco.dev">tabasco.dev</a> homepage. Data: <a href="events.json">events.json</a>.</p>
+
+<div class="status" id="status"><div><span>Loading…</span></div></div>
+
+<h2>Upcoming</h2>
+<div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+<div id="list"></div>
+
+<script>
+(async () => {
+  const $ = (s) => document.querySelector(s);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  let data;
+  try {
+    data = await (await fetch("events.json", { cache: "no-store" })).json();
+  } catch {
+    $("#status").innerHTML = '<div><span class="bad">Couldn\'t load events.json</span></div>';
+    return;
+  }
+
+  const ago = (iso) => {
+    if (!iso) return "never";
+    const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+    if (m < 60) return `${m} min ago`;
+    const h = Math.round(m / 60);
+    return h < 48 ? `${h} hr ago` : `${Math.round(h / 24)} days ago`;
+  };
+  const row = (label, value, cls) => { const d = el("div"); d.append(el("span", null, label), el("span", cls || null, value)); return d; };
+  const g = data.status.google || {}, t = data.status.ticketmaster || {};
+  const gText = g.ok
+    ? `OK · today's category: ${g.category} · ${g.searches_used} searches · ${g.found} events` +
+      (g.searches_left_before != null ? ` · ${g.searches_left_before - g.searches_used} left this month` : "")
+    : (g.error ? `Error: ${g.error}` : g.note || "not run");
+  const tText = t.ok ? `OK · ${t.found} events (${t.dropped_no_interest} skipped, no matching interest)` : (t.error ? `Error: ${t.error}` : t.note || "not run");
+  const st = $("#status"); st.textContent = "";
+  st.append(
+    row("Last updated", ago(data.updated), data.updated && Date.now() - new Date(data.updated) < 36e5 * 36 ? "ok" : "bad"),
+    row("Google Events (SerpApi)", gText, g.ok ? "ok" : (g.error ? "bad" : "warn")),
+    row("Ticketmaster", tText, t.ok ? "ok" : (t.error ? "bad" : "warn")),
+    row("Events saved", String(data.events.length)),
+  );
+
+  let filter = "All";
+  const chips = $("#chips");
+  const present = new Set(data.events.flatMap((e) => e.tags));
+  ["All", ...data.categories.filter((c) => present.has(c))].forEach((c) => {
+    const b = el("button", null, c); b.type = "button";
+    b.setAttribute("aria-pressed", c === filter);
+    b.onclick = () => { filter = c; chips.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b)); draw(); };
+    chips.append(b);
+  });
+
+  const fmtDay = (iso) => new Date(iso + "T12:00:00").toLocaleDateString("en-US", { weekday: "long", month: "short", day: "numeric" });
+  const fmtTime = (hm) => { if (!hm) return "All day"; let [h, m] = hm.split(":").map(Number); return `${h % 12 || 12}${m ? ":" + String(m).padStart(2, "0") : ""} ${h < 12 ? "am" : "pm"}`; };
+  const safe = (u) => /^https?:\/\//.test(u || "") ? u : null;
+
+  function draw() {
+    const list = $("#list"); list.textContent = "";
+    let day = null;
+    const shown = data.events.filter((e) => filter === "All" || e.tags.includes(filter));
+    if (!shown.length) list.append(el("p", "muted", "Nothing upcoming in this category."));
+    for (const e of shown) {
+      if (e.date !== day) { day = e.date; list.append(el("div", "day", fmtDay(day))); }
+      const r = el("div", "ev");
+      r.append(el("div", "when", e.end_date ? `to ${fmtDay(e.end_date).split(",")[1]}` : fmtTime(e.time)));
+      const body = el("div");
+      const url = safe(e.url);
+      const title = url ? el("a", null, e.title) : el("strong", null, e.title);
+      if (url) { title.href = url; title.rel = "noopener"; }
+      body.append(title, el("div", "meta", [e.venue, e.source].filter(Boolean).join(" · ")));
+      e.tags.forEach((tg) => body.append(el("span", "tag", tg)));
+      r.append(body); list.append(r);
+    }
+  }
+  draw();
+})();
+</script>
+</body>
+</html>

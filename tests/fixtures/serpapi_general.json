@@ -1,0 +1,233 @@
+{
+ "events_results": [
+  {
+   "title": "D\u00eda de los Muertos Festival",
+   "date": {
+    "start_date": "Oct 25",
+    "when": "Sat, Oct 25, 10 AM \u2013 6 PM"
+   },
+   "address": [
+    "Old Town San Diego, 4002 Wallace St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Altars, music, face painting for the whole family.",
+   "venue": {
+    "name": "Old Town San Diego"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Pacific Beach Farmers Market",
+   "date": {
+    "start_date": "Oct 21",
+    "when": "Tue, Oct 21, 2 \u2013 7 PM"
+   },
+   "address": [
+    "Bayard St & Garnet Ave",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Weekly farmers market with food trucks.",
+   "venue": {
+    "name": "Bayard St & Garnet Ave"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Intro to Python Meetup",
+   "date": {
+    "start_date": "Oct 22",
+    "when": "Wed, Oct 22, 6:30 \u2013 8:30 PM"
+   },
+   "address": [
+    "Downtown Works, 550 W B St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Hands-on coding night for beginners.",
+   "venue": {
+    "name": "Downtown Works"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Marketing Growth Webinar",
+   "date": {
+    "start_date": "Oct 22",
+    "when": "Wed, Oct 22, 10 \u2013 11 AM"
+   },
+   "address": [
+    "Online"
+   ],
+   "link": "https://example.com/e",
+   "description": "A virtual webinar on Zoom.",
+   "venue": {
+    "name": "Online"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Brunch & Mimosas Bottomless",
+   "date": {
+    "start_date": "Oct 26",
+    "when": "Sun, Oct 26, 10 AM \u2013 2 PM"
+   },
+   "address": [
+    "The Local, 1065 4th Ave",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Bottomless brunch.",
+   "venue": {
+    "name": "The Local"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Tijuana Night Market",
+   "date": {
+    "start_date": "Oct 24",
+    "when": "Fri, Oct 24, 6 \u2013 11 PM"
+   },
+   "address": [
+    "Av. Revoluci\u00f3n",
+    "Tijuana, B.C., Mexico"
+   ],
+   "link": "https://example.com/e",
+   "description": "Night market.",
+   "venue": {
+    "name": "Av. Revoluci\u00f3n"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Halloween Trunk or Treat",
+   "date": {
+    "start_date": "Oct 31",
+    "when": "Fri, Oct 31, 5 \u2013 8 PM"
+   },
+   "address": [
+    "Mission Bay Park",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "",
+   "venue": {
+    "name": "Mission Bay Park"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Brewery Tour: North Park",
+   "date": {
+    "start_date": "Oct 25",
+    "when": "Sat, Oct 25, 1 \u2013 5 PM"
+   },
+   "address": [
+    "North Park Beer Co, 3038 University Ave",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Craft beer tasting walk.",
+   "venue": {
+    "name": "North Park Beer Co"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Networking Mixer for Realtors",
+   "date": {
+    "start_date": "Oct 23",
+    "when": "Thu, Oct 23, 5 \u2013 7 PM"
+   },
+   "address": [
+    "Hotel del Coronado",
+    "Coronado, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "",
+   "venue": {
+    "name": "Hotel del Coronado"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "San Diego Fall Home Show",
+   "date": {
+    "start_date": "Oct 24",
+    "when": "Oct 24 \u2013 26"
+   },
+   "address": [
+    "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd",
+    "Del Mar, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "",
+   "venue": {
+    "name": "Del Mar Fairgrounds"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  }
+ ]
+}

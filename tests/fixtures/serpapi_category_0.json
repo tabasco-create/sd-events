@@ -1,0 +1,234 @@
+{
+ "events_results": [
+  {
+   "title": "Kids Story Time at the Library #2",
+   "date": {
+    "start_date": "Oct 22",
+    "when": "Wed, Oct 22, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #3",
+   "date": {
+    "start_date": "Oct 23",
+    "when": "Thu, Oct 23, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #4",
+   "date": {
+    "start_date": "Oct 24",
+    "when": "Fri, Oct 24, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #5",
+   "date": {
+    "start_date": "Oct 25",
+    "when": "Sat, Oct 25, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #6",
+   "date": {
+    "start_date": "Oct 26",
+    "when": "Sun, Oct 26, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #7",
+   "date": {
+    "start_date": "Oct 27",
+    "when": "Mon, Oct 27, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #8",
+   "date": {
+    "start_date": "Oct 20",
+    "when": "Mon, Oct 20, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #9",
+   "date": {
+    "start_date": "Oct 21",
+    "when": "Tue, Oct 21, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #10",
+   "date": {
+    "start_date": "Oct 22",
+    "when": "Wed, Oct 22, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  },
+  {
+   "title": "Kids Story Time at the Library #11",
+   "date": {
+    "start_date": "Oct 23",
+    "when": "Thu, Oct 23, 10:30 \u2013 11:15 AM"
+   },
+   "address": [
+    "Pacific Beach Library, 4275 Cass St",
+    "San Diego, CA"
+   ],
+   "link": "https://example.com/e",
+   "description": "Stories and songs for toddlers.",
+   "venue": {
+    "name": "Pacific Beach Library"
+   },
+   "ticket_info": [
+    {
+     "source": "Example",
+     "link": "https://example.com/e",
+     "link_type": "tickets"
+    }
+   ]
+  }
+ ]
+}
