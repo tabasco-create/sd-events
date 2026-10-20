@@ -56,7 +56,7 @@ INTERESTS = {
         "words": [
             r"kids?", r"family", r"families", r"children'?s?", r"toddlers?", r"story ?time",
             r"pumpkin patch(es)?", r"trick[- ]or[- ]treat(ing)?", r"trunk[- ]or[- ]treat",
-            r"halloween", r"petting zoo", r"puppets?", r"zoo", r"safari park", r"legoland",
+            r"petting zoo", r"puppets?", r"zoo", r"safari park", r"legoland",
             r"aquarium", r"fleet science", r"scouts?", r"carnival", r"county fair",
             r"science (fair|festival|night)", r"holiday lights", r"tree lighting",
         ],
@@ -65,7 +65,7 @@ INTERESTS = {
         "query": "outdoor beach hiking and nature events in San Diego",
         "words": [
             r"hik(e|es|ing)", r"beach", r"surf(ing)?", r"kayak(ing)?", r"paddle ?board(ing)?",
-            r"tide ?pools?", r"nature", r"trails?", r"botanic(al)? gardens?", r"camp(ing|out)",
+            r"tide ?pools?", r"nature walks?", r"trail (runs?|walks?|work)", r"botanic(al)? gardens?", r"camp(ing|out)",
             r"whale watch(ing)?", r"(beach |park |coastal )?clean[- ]?up", r"bird(ing| walk)",
             r"ranger", r"bike ride", r"cycling", r"fun run", r"5k", r"10k", r"half marathon",
             r"star party", r"astronomy", r"sailing", r"snorkel(ing)?", r"fishing",
@@ -136,6 +136,7 @@ EXCLUDE = [
     # Ticketmaster lists add-ons as their own "events"
     r"parking", r"vip (package|upgrade|experience)", r"premium seating", r"suite", r"upgrade",
     r"gift card", r"season tickets?",
+    r"speed dating", r"singles", r"date night",
 ]
 
 # ---- Budget and range -----------------------------------------------------
@@ -395,7 +396,9 @@ def from_ticketmaster(r):
         "venue": clean(v.get("name"), 80),
         "where": clean(", ".join(x for x in [v.get("name"), city] if x), 160),
         "url": safe_url(r.get("url")),
-        "text": clean(" ".join(descr + [r.get("info") or ""]), 400),
+        # Genres only. Ticketmaster's "info" is venue boilerplate ("beer and wine
+        # available", "family seating") that would tag every concert as something else.
+        "text": clean(" ".join(descr), 400),
         "source": "Ticketmaster",
         "hint": hint,
         "cancelled": status in ("cancelled", "canceled"),
@@ -423,8 +426,9 @@ PLACE_NAMES_RE = re.compile(
 
 
 def tags_for(e, query_category=None):
-    # Neighborhood names ("Pacific Beach Library") aren't beach events.
-    hay = PLACE_NAMES_RE.sub(" ", " ".join([e["title"], e["text"], e["venue"]]))
+    # Title and description only: venue names mislead ("Epstein Family Amphitheater"
+    # isn't a family event), and so do neighborhood names ("Pacific Beach Library").
+    hay = PLACE_NAMES_RE.sub(" ", f"{e['title']} {e['text']}")
     tags = [name for name, rx in INTEREST_RES.items() if rx.search(hay)]
     for extra in list(e.get("hint") or []) + ([query_category] if query_category else []):
         if extra in INTERESTS and extra not in tags:
@@ -478,7 +482,10 @@ def merge(saved, found, today, now_iso):
             "first_seen": now_iso,
             "last_seen": now_iso,
         }
-        if old:
+        if old and old.get("source") == "Ticketmaster" and e["source"] == "Ticketmaster":
+            # Ticketmaster re-lists everything daily, so its newest tags simply win.
+            rec["first_seen"] = old.get("first_seen", now_iso)
+        elif old:
             rec["first_seen"] = old.get("first_seen", now_iso)
             # Combine what both sources know: Ticketmaster has reliable times/links,
             # Google has better descriptions (already used for tags).
