@@ -178,21 +178,6 @@
    "last_seen": "2026-10-19T17:11:21-07:00"
   },
   {
-   "id": "0283866df654",
-   "title": "Midweek Date Night in Hillcrest | Cityswoon | Ages 32-44",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Cork & Stem",
-   "url": "https://www.eventbrite.com/e/1994282359221?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-19T17:11:21-07:00"
-  },
-  {
    "id": "3b2d8cdb85e8",
    "title": "New Constellations: It Comes In Waves Tour",
    "date": "2026-10-21",
@@ -208,21 +193,6 @@
    "last_seen": "2026-10-19T17:11:21-07:00"
   },
   {
-   "id": "81771251f6a9",
-   "title": "Speed Dating San Diego | CitySwoon® | 32-44 years | at Cork + Stem",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Cork & Stem",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-19T17:11:21-07:00"
-  },
-  {
    "id": "3714eca31697",
    "title": "Thee Sinseers w/ The Charities",
    "date": "2026-10-21",
@@ -231,7 +201,6 @@
    "venue": "Epstein Family Amphitheater",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZMqp",
    "tags": [
-    "Family & kids",
     "Live music"
    ],
    "source": "Ticketmaster",
@@ -322,8 +291,7 @@
    "venue": "Belly Up",
    "url": "https://www.ticketweb.com/event/brewers-ball-ft-marujah-belly-up-tickets/14336444",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
@@ -353,8 +321,7 @@
    "venue": "SOMA - Sidestage",
    "url": "https://www.ticketweb.com/event/ho99o9-n8noface-soma-sidestage-tickets/14209944",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
@@ -506,8 +473,7 @@
    "venue": "SOMA - Mainstage",
    "url": "https://www.ticketweb.com/event/mutate-presents-restricted-soma-mainstage-tickets/14191584",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
@@ -612,7 +578,6 @@
    "venue": "Humphreys Concerts By the Bay",
    "url": "https://www.ticketmaster.com/america-the-happy-trails-tour-san-diego-california-10-24-2026/event/0A006451FB55E3F7",
    "tags": [
-    "Beach & outdoors",
     "Live music"
    ],
    "source": "Ticketmaster",
@@ -1408,21 +1373,6 @@
    "last_seen": "2026-10-19T17:11:21-07:00"
   },
   {
-   "id": "5dd8c9061a4e",
-   "title": "DJ Date Night: 4 VR Challenges & Real DJ Gear — Kearny Mesa",
-   "date": "2026-10-31",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Cuts DJ Academy",
-   "url": "https://www.eventbrite.com/e/1999868107344?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-19T17:11:21-07:00"
-  },
-  {
    "id": "83cb23795855",
    "title": "UB40",
    "date": "2026-10-31",
@@ -1630,8 +1580,7 @@
    "venue": "SOMA - Sidestage",
    "url": "https://www.ticketweb.com/event/kurt-travis-soma-sidestage-tickets/15036383",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
@@ -1901,7 +1850,6 @@
    "venue": "Epstein Family Amphitheater",
    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAef_x",
    "tags": [
-    "Family & kids",
     "Live music"
    ],
    "source": "Ticketmaster",
@@ -1962,8 +1910,7 @@
    "venue": "SOMA - Mainstage",
    "url": "https://www.ticketweb.com/event/the-story-so-far-soma-mainstage-tickets/14270354",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
@@ -2414,8 +2361,7 @@
    "venue": "SOMA - Sidestage",
    "url": "https://www.ticketweb.com/event/father-of-peace-soma-sidestage-tickets/15034123",
    "tags": [
-    "Live music",
-    "Food & beer"
+    "Live music"
    ],
    "source": "Ticketmaster",
    "first_seen": "2026-10-19T17:11:21-07:00",
