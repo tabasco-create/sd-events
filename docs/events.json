@@ -1,0 +1,2486 @@
+{
+ "updated": "2026-10-19T17:11:21-07:00",
+ "checked": "2026-10-19T17:11:21-07:00",
+ "timezone": "America/Los_Angeles",
+ "categories": [
+  "Family & kids",
+  "Beach & outdoors",
+  "Live music",
+  "Food & beer",
+  "Makers & knives",
+  "Tech meetups",
+  "Arts & museums",
+  "Around town"
+ ],
+ "status": {
+  "google": {
+   "ok": true,
+   "category": "Beach & outdoors",
+   "searches_used": 2,
+   "found": 9,
+   "searches_left_before": 250
+  },
+  "ticketmaster": {
+   "ok": true,
+   "found": 174,
+   "dropped_no_interest": 44
+  }
+ },
+ "events": [
+  {
+   "id": "25673d70dc47",
+   "title": "Evanora Unlimited",
+   "date": "2026-10-19",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/evanora-unlimited-san-diego-california-10-19-2026/event/0A006524B8D0BCFD",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "958ed7e145b3",
+   "title": "MICO: Running From A Feeling Tour",
+   "date": "2026-10-19",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-san-diego-california-10-19-2026/event/0A0064ADACD38DDB",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "51239f33691d",
+   "title": "Vienna Royal Orchestra: Viva Mozart 270",
+   "date": "2026-10-19",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Jacobs Music Center",
+   "url": "https://www.ticketmaster.com/vienna-royal-orchestra-viva-mozart-270-san-diego-california-10-19-2026/event/0A0064CFDDD2AB9E",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "eda0cb50ec35",
+   "title": "The Core - Eric Clapton Tribute",
+   "date": "2026-10-19",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/the-core-eric-belly-up-tickets/14936963",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3fb2dc7de115",
+   "title": "Big Ass Truck w/ Chamber",
+   "date": "2026-10-20",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Corazon del Barrio",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJb_",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3f3b892cd4c1",
+   "title": "The Paradox",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/the-paradox-san-diego-california-10-20-2026/event/0A0064CB18B9CF67",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "cc3d44311921",
+   "title": "Melvins, Headsend",
+   "date": "2026-10-20",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/melvins-headsend-belly-up-tickets/14264734",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "7fef17e8c9df",
+   "title": "Protomartyr (21 and Over)",
+   "date": "2026-10-20",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAf",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6f30d93d0348",
+   "title": "Foster The People: Good Mourning Sunshine Tour",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Petco Park",
+   "url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-san-diego-california-10-21-2026/event/0A00649B965088D7",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "07014c64ac36",
+   "title": "Jenna Raine - Jeans, Boys & Jesus Tour",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/jenna-raine-jeans-boys-jesus-tour-san-diego-california-10-21-2026/event/0A0064BCC160AA11",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0283866df654",
+   "title": "Midweek Date Night in Hillcrest | Cityswoon | Ages 32-44",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Cork & Stem",
+   "url": "https://www.eventbrite.com/e/1994282359221?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3b2d8cdb85e8",
+   "title": "New Constellations: It Comes In Waves Tour",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/new-constellations-it-comes-in-waves-san-diego-california-10-21-2026/event/0A0064E16A802C21",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "81771251f6a9",
+   "title": "Speed Dating San Diego | CitySwoon® | 32-44 years | at Cork + Stem",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Cork & Stem",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3714eca31697",
+   "title": "Thee Sinseers w/ The Charities",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Epstein Family Amphitheater",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZMqp",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "47963058d07e",
+   "title": "WEEZER: The Gathering",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
+   "url": "https://www.ticketmaster.com/weezer-the-gathering-san-diego-california-10-21-2026/event/0A00646D8E69912C",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f787a85f4539",
+   "title": "Automatic - North America Tour '26 w/ Nuovo Testamento",
+   "date": "2026-10-21",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/automatic-north-america-belly-up-tickets/14203574",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0d90c215307e",
+   "title": "Hovvdy - 21+",
+   "date": "2026-10-22",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Jvpb",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "c87a50af691b",
+   "title": "Post Sex Nachos",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/post-sex-nachos-san-diego-california-10-22-2026/event/0A0064A6E5021BA5",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "118bfee8bb29",
+   "title": "She Wants Revenge",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/she-wants-revenge-san-diego-california-10-22-2026/event/0A0064A7C52FC4C5",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "498d1b41e2e2",
+   "title": "Brewers Ball ft. Marujah | Soulseller | Lesser Works | Hood",
+   "date": "2026-10-22",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/brewers-ball-ft-marujah-belly-up-tickets/14336444",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f7859d515a1f",
+   "title": "Chris Estrada",
+   "date": "2026-10-22",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xqx",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "b906343b9a98",
+   "title": "Ho99o9 & N8NOFACE - Sincerely___ The Void",
+   "date": "2026-10-22",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "SOMA - Sidestage",
+   "url": "https://www.ticketweb.com/event/ho99o9-n8noface-soma-sidestage-tickets/14209944",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "96efe0161f66",
+   "title": "Juanes North America Tour 2026",
+   "date": "2026-10-22",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Petco Park",
+   "url": "https://www.ticketmaster.com/juanes-north-america-tour-2026-san-diego-california-10-22-2026/event/0A00644BCA9E92AC",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4de26bbc9f47",
+   "title": "Swae Lee",
+   "date": "2026-10-22",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/swae-lee-nova-sd-tickets/14344284",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "16e037da3601",
+   "title": "San Diego Wine Tour - Expanded Adventure",
+   "date": "2026-10-23",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "San Pasqual Winery | Seaport Village",
+   "url": "https://myeggsplorer.com/event/6a87fd41-a6e1-48ee-a008-6d740c6d3cb2/san-diego-wine-tour-expanded-adventure",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "b0dccea38ff2",
+   "title": "Toga Party Band Happy Hour (21+ Event)",
+   "date": "2026-10-23",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Belly Up Tavern",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvda9",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3aca3a60fe96",
+   "title": "Dead Poet Society x Honey Revenge",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/dead-poet-society-x-honey-revenge-san-diego-california-10-23-2026/event/0A0064F7B8F99709",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "357a850410be",
+   "title": "Kyle Gordon",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/kyle-gordon-san-diego-california-10-23-2026/event/0A0064BCB84CA018",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "b587e3a01e9c",
+   "title": "Madeon presents Victory Live",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The Rady Shell at Jacobs Park",
+   "url": "https://www.ticketmaster.com/madeon-presents-victory-live-san-diego-california-10-23-2026/event/0A0064A40B897F48",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "003ee681ff58",
+   "title": "Megan Woods: The Truth tour",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "FAITH CHAPEL",
+   "url": "https://www.ticketmaster.com/megan-woods-the-truth-tour-spring-valley-california-10-23-2026/event/0A0064D887A640DC",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6c27bbed6f62",
+   "title": "San Diego Opera Presents: RIGOLETTO",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-23-2026/event/0A00650B92067EEA",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "2b0679dbf7db",
+   "title": "Mutate presents Restricted",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "SOMA - Mainstage",
+   "url": "https://www.ticketweb.com/event/mutate-presents-restricted-soma-mainstage-tickets/14191584",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e92c3b0ef221",
+   "title": "TEN - US Showcase Tour",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Humphreys Concerts By the Bay",
+   "url": "https://www.ticketmaster.com/ten-us-showcase-tour-san-diego-california-10-23-2026/event/0A0065139AD2B2C3",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "1fe44dfd3de9",
+   "title": "Chris Estrada",
+   "date": "2026-10-23",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xq0",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a828a1ebc1fd",
+   "title": "Kishi Bashi - Sonderlust 10th Anniversary Tour w/ Geographer",
+   "date": "2026-10-23",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/kishi-bashi-sonderlust-belly-up-tickets/14807593",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5602a3d4013b",
+   "title": "Snakehips",
+   "date": "2026-10-23",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/snakehips-nova-sd-tickets/15032333",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "292b75d47153",
+   "title": "Rocket From The Crypt - Scream, Frankenstein, Scream! Tour 2026",
+   "date": "2026-10-24",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/rocket-from-the-crypt-scream-frankenstein-san-diego-california-10-24-2026/event/0A0064F6C3D69FD4",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0169b56e8944",
+   "title": "The Wldlfe",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/the-wldlfe-san-diego-california-10-24-2026/event/0A0064D2EA5010A7",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "cb29e4488066",
+   "title": "America - The Happy Trails Tour",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Humphreys Concerts By the Bay",
+   "url": "https://www.ticketmaster.com/america-the-happy-trails-tour-san-diego-california-10-24-2026/event/0A006451FB55E3F7",
+   "tags": [
+    "Beach & outdoors",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f5d4ad956070",
+   "title": "City Ballet Of San Diego Presents: American Icons",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/city-ballet-of-san-diego-presents-san-diego-california-10-24-2026/event/0A00650DE84079D6",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "67159dcb2da8",
+   "title": "San Diego Opera Presents: RIGOLETTO",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-24-2026/event/0A00650B920C7EF6",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "14e1606b0852",
+   "title": "beabadoobee: The Powerlines Tour",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
+   "url": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-san-diego-california-10-24-2026/event/0A0064D4B7C08188",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3d5f59db0617",
+   "title": "Malcolm Todd: Do That Again Tour",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Petco Park",
+   "url": "https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-san-diego-california-10-24-2026/event/0A0064C3ACB68843",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "43c0cfce43cf",
+   "title": "Spooky Feels: A Halloween Indie Rock + Electronic Dance Party - 18+",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "url": "https://www.ticketmaster.com/spooky-feels-a-halloween-indie-rock-san-diego-california-10-24-2026/event/0B006530D5AE26AE",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "bc73367c0b00",
+   "title": "Switchfoot with Anberlin - Forever Now Tour",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Sound",
+   "url": "https://www.ticketmaster.com/switchfoot-with-anberlin-forever-now-tour-del-mar-california-10-24-2026/event/0A0064A4C985C8BA",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6dd7f3ff98c6",
+   "title": "WAR (21+ Event)",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up Tavern",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ7FE",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0277c7c1105f",
+   "title": "WAR - 50th Anniversary Greatest Hits Tour",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/war-50th-anniversary-belly-up-tickets/14262524",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "ae562daf8992",
+   "title": "City of the Sun (21 and Over)",
+   "date": "2026-10-24",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAp",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a93e773c935b",
+   "title": "Oingo Boingo Former Members w/ The Untouchables",
+   "date": "2026-10-24",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Music Box - San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xa07",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "30e8326aeda2",
+   "title": "Chris Estrada",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xqP",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a9f8446f5193",
+   "title": "Mitis w/ Nurko",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/mitis-w-nurko-nova-sd-tickets/14299514",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "43997c244dc7",
+   "title": "City Ballet Of San Diego Presents: American Icons",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/city-ballet-of-san-diego-presents-san-diego-california-10-25-2026/event/0A00650DE84579E4",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0e97d28d5967",
+   "title": "San Diego Opera Presents: RIGOLETTO",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-25-2026/event/0A00650B92117F02",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f1238d6cb7e1",
+   "title": "San Diego Referral Exchange — Meet, Connect & Collaborate",
+   "date": "2026-10-25",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Wine Girl San Diego",
+   "url": "https://www.eventbrite.com/e/2001455485234?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a7a11a784241",
+   "title": "Darryl Williams",
+   "date": "2026-10-25",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Humphreys Backstage Live",
+   "url": "https://www.ticketmaster.com/darryl-williams-san-diego-california-10-25-2026/event/0A006507080B75D0",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "70de6a55df3d",
+   "title": "Daley - US Tour",
+   "date": "2026-10-25",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/daley-us-tour-san-diego-california-10-25-2026/event/0A0064CB23A2E6EE",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5e0e4c9bf029",
+   "title": "Infinite Floyd - The Essential Hits",
+   "date": "2026-10-25",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/infinite-floyd-the-belly-up-tickets/14371654",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "abba78503555",
+   "title": "Mia Asano",
+   "date": "2026-10-25",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "SOMA - Sidestage",
+   "url": "https://www.ticketweb.com/event/mia-asano-soma-sidestage-tickets/14239744",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a8afefcc81ce",
+   "title": "Gorillaz - The Mountain Tour",
+   "date": "2026-10-25",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "url": "https://www.ticketmaster.com/gorillaz-the-mountain-tour-san-diego-california-10-25-2026/event/0A00645B1979EB74",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "9ca97d2ca844",
+   "title": "Ax and the Hatchetmen",
+   "date": "2026-10-25",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Music Box - San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70YvO",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5e6fa60da979",
+   "title": "Patrick Warburton",
+   "date": "2026-10-25",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up Tavern",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A703v-",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a49a2e96fae7",
+   "title": "YG: THE GENTLEMEN'S CLUB TOUR",
+   "date": "2026-10-25",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
+   "url": "https://www.ticketmaster.com/yg-the-gentlemens-club-tour-san-diego-california-10-25-2026/event/0A0064F02F3538F3",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4a9ff3213604",
+   "title": "BLESSING OFFOR - HEART SO REAL TOUR PT. 2",
+   "date": "2026-10-26",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/blessing-offor-heart-so-real-tour-san-diego-california-10-26-2026/event/0A0064F1B395A044",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "1c73c67a7dab",
+   "title": "Dr. Jekyll & Mr. Hyde (1920) Played by David Marsh",
+   "date": "2026-10-26",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/dr-jekyll-mr-hyde-1920-played-san-diego-california-10-26-2026/event/0A00646C9B97D90D",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "7a15e87c5c59",
+   "title": "Hayden Everett (21 and Over)",
+   "date": "2026-10-26",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJrZ",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "04eb67565cd1",
+   "title": "Michael Franti Trio - Heartstrings & Dynamite w/ The Wheeland Brothers (acoustic)",
+   "date": "2026-10-26",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4b6f9e743200",
+   "title": "Doja Cat - Tour Ma Vie World Tour",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
+   "url": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-san-diego-california-10-27-2026/event/0A00633B10646A91",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f403f0bf26dc",
+   "title": "Gary Clark Jr. with special guests Xavier Lynn",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Humphreys Concerts By the Bay",
+   "url": "https://www.ticketmaster.com/gary-clark-jr-with-special-guests-san-diego-california-10-27-2026/event/0A006462F4EE9AAA",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "62cbce21d2a3",
+   "title": "Patrick Wolf (21 and Over)",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwA9",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "641952ab4580",
+   "title": "Todd Rundgren: DAMNED IF I DO TOUR",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Sound",
+   "url": "https://www.ticketmaster.com/todd-rundgren-damned-if-i-do-del-mar-california-10-27-2026/event/0A0064E19C92648A",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5aea6ae94ee4",
+   "title": "Tom Jones: Come Gather Round Tour",
+   "date": "2026-10-27",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Rady Shell at Jacobs Park",
+   "url": "https://www.ticketmaster.com/tom-jones-come-gather-round-tour-san-diego-california-10-27-2026/event/0A0064B31A394E43",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "fc0d0a7064f2",
+   "title": "John Scofield, Oteil Burbridge, Larry Goldings, Adam Deitch",
+   "date": "2026-10-27",
+   "time": "21:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/john-scofield-oteil-burbridge-larry-belly-up-tickets/14800703",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "8812b145d360",
+   "title": "Austin Giorgio",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/austin-giorgio-san-diego-california-10-28-2026/event/0A0064CB2699EDEB",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "ff260651877b",
+   "title": "Howie Day, Matthew Phillips",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/howie-day-matthew-phillips-belly-up-tickets/15008973",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "057eeae2e7c1",
+   "title": "AZ Chike",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/az-chike-san-diego-california-10-29-2026/event/0A006518C25CA9BC",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4fda39845242",
+   "title": "Lila Downs - Dia de Muertos",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/lila-downs-dia-de-muertos-san-diego-california-10-29-2026/event/0A0064C482C2433A",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6248bfb07a65",
+   "title": "Lizzy & the Triggermen, Grey DeLisle & the Blue Ribbon Boys",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/lizzy-the-triggermen-grey-belly-up-tickets/15032413",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "bdd2098235d4",
+   "title": "Usama Siddiquee",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x17",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "02ff4423a626",
+   "title": "It's A 2000's (Halloween) Party: San Diego (18+ w/ ID)",
+   "date": "2026-10-29",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/its-a-2000s-halloween-party-san-san-diego-california-10-29-2026/event/0A006523CA3ECA4B",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "84350eb1f4d9",
+   "title": "Atomic Groove's Halloween Boo Bash Dance Party Happy Hour",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/atomic-grooves-halloween-boo-bash-belly-up-tickets/14999913",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3c6e23d53f50",
+   "title": "Knox",
+   "date": "2026-10-30",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/knox-san-diego-california-10-30-2026/event/0A0064EA509C1A77",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "117879dd4ca1",
+   "title": "Missio",
+   "date": "2026-10-30",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/missio-san-diego-california-10-30-2026/event/0A00650B8F9579D4",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "741c47c3b0ec",
+   "title": "Knocked Loose & Denzel Curry",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Petco Park",
+   "url": "https://www.ticketmaster.com/knocked-loose-denzel-curry-san-diego-california-10-30-2026/event/0A0064B65F291D73",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "09742b5abc10",
+   "title": "Usama Siddiquee",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x1d",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "9a6f6fb6bbc2",
+   "title": "Caifanes",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Cal Coast Credit Union Open Air Theatre at SDSU",
+   "url": "https://www.ticketmaster.com/caifanes-san-diego-california-10-30-2026/event/0A0064AEAAF78592",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "70561b611fa2",
+   "title": "Yandel - SINFÓNICO",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
+   "url": "https://www.ticketmaster.com/yandel-sinfonico-san-diego-california-10-30-2026/event/0A0064A28F5A6879",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "9de1419320f6",
+   "title": "Dead Man's Party Halloween BASH",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "ef8f1248ad92",
+   "title": "Theo Katzman",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Music Box - San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A703vt",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "49ff51c25609",
+   "title": "Chromeo (DJ Set)",
+   "date": "2026-10-30",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/chromeo-dj-set-nova-sd-tickets/15017693",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "70d0b9d02726",
+   "title": "Carter Faith - Cherry Valley Forever Tour",
+   "date": "2026-10-31",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/carter-faith-cherry-valley-forever-tour-san-diego-california-10-31-2026/event/0A0064F7AE4888A2",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "802c777c77ea",
+   "title": "Dax - The Anger Management Tour",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/dax-the-anger-management-tour-san-diego-california-10-31-2026/event/0A0064AF5CFA263A",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5dd8c9061a4e",
+   "title": "DJ Date Night: 4 VR Challenges & Real DJ Gear — Kearny Mesa",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Cuts DJ Academy",
+   "url": "https://www.eventbrite.com/e/1999868107344?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "83cb23795855",
+   "title": "UB40",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Cal Coast Credit Union Open Air Theatre at SDSU",
+   "url": "https://www.ticketmaster.com/ub40-san-diego-california-10-31-2026/event/0A006434DFDE8AA9",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f072d988ff9d",
+   "title": "Halloween Heat featuring 80's Heat, Bella Lux , DJ Senzø",
+   "date": "2026-10-31",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/halloween-heat-featuring-80s-heat-belly-up-tickets/15000673",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3c698b9487b6",
+   "title": "Hickies: Halloween (Terrace)",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/hickies-halloween-terrace-nova-sd-tickets/14350234",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "62ccdb95d8f9",
+   "title": "TWINSICK",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/twinsick-nova-sd-tickets/14287834",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e29a225e00e4",
+   "title": "Johnny Britt \"You Are Beautiful\" Tour",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Humphreys Backstage Live",
+   "url": "https://www.ticketmaster.com/johnny-britt-you-are-beautiful-tour-san-diego-california-11-01-2026/event/0A0065159E4494E2",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "61d05713b5ab",
+   "title": "Reggaeton Rave: Dia de Los Muertos",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/reggaeton-rave-dia-de-los-nova-sd-tickets/14346874",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "1dcd0fab15d8",
+   "title": "INOHA",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Music Box - San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PSZa",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "74c419b5b627",
+   "title": "INOHA - This Might Be Useful Tour w/ Buddha Trixie & Flight By Nothing",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "url": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6d985c741871",
+   "title": "Montell Fish - The Nest Tour",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/montell-fish-the-nest-tour-san-diego-california-11-01-2026/event/0A0065126D442E19",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "fdf90103c165",
+   "title": "Tusk: The Classic Fleetwood Mac Tribute",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/tusk-the-classic-fleetwood-mac-tribute-san-diego-california-11-01-2026/event/0A006497D3866BC7",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "9328625959a8",
+   "title": "The Haunt - \"The Ghost Tour\"",
+   "date": "2026-11-02",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/the-haunt-the-ghost-tour-san-diego-california-11-02-2026/event/0A0064F9CF209F3D",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "114f6575eb2e",
+   "title": "Medium Build Presents The King of Having Fun on Tour",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4fd58e17a085",
+   "title": "Spite",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/spite-san-diego-california-11-03-2026/event/0A0064EACE03C39F",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a7b25bb08350",
+   "title": "Kurt Travis",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "SOMA - Sidestage",
+   "url": "https://www.ticketweb.com/event/kurt-travis-soma-sidestage-tickets/15036383",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f079bc4ae8f9",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-03-2026/event/0A0064F8958465B2",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "637ccba98167",
+   "title": "Dan and Phil: Hard Launch World Tour",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/dan-and-phil-hard-launch-world-san-diego-california-11-03-2026/event/0A0064C2786C3F0B",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a056c6e8aedf",
+   "title": "Fitz and The Tantrums – Picking Up The Pieces In Its Entirety",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "368e12c43f36",
+   "title": "Yuki Chiba - First North American Headline Tour",
+   "date": "2026-11-03",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "url": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "98f5b0ae5289",
+   "title": "Clay Street Unit",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah",
+   "url": "https://www.ticketweb.com/event/clay-street-unit-casbah-tickets/14221724",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "9c5f86ccc3ec",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-04-2026/event/0A0064F8958965C4",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "7c7933f46467",
+   "title": "Fitz and The Tantrums - Greatest Hits Show",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "c3a13cfa2c4a",
+   "title": "bunii - BUNIIVERSITY TOUR",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "SOMA - Sidestage",
+   "url": "https://www.ticketweb.com/event/bunii-buniiversity-tour-soma-sidestage-tickets/15044773",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "2ee2cd0419db",
+   "title": "Lyle Lovett & His Small Large Band",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Sound",
+   "url": "https://www.ticketmaster.com/lyle-lovett-his-small-large-band-del-mar-california-11-04-2026/event/0A0064D663FB1991",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "7252f2447958",
+   "title": "Six60 - Right Here Right Now - North America 2026",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "url": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f944961d77fb",
+   "title": "Prince Daddy & the Hyena",
+   "date": "2026-11-05",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/prince-daddy-the-hyena-san-diego-california-11-05-2026/event/0A0064FFAD6BC81D",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "67b90baceed2",
+   "title": "Eelke Kleijn",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/eelke-kleijn-san-diego-california-11-05-2026/event/0A00652A84664450",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "19f2ffb4bf3c",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-05",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-05-2026/event/0A0064F8958E65C9",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e52733a454b1",
+   "title": "Dave Smith",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x16",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "d1437124d6c2",
+   "title": "Don McLean - Celebrating America’s 250th Birthday",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "c8a3f3476add",
+   "title": "HUGEL PRESENTS MAKE THE GIRLS DANCE",
+   "date": "2026-11-06",
+   "time": "15:00",
+   "end_date": null,
+   "venue": "The Rady Shell at Jacobs Park",
+   "url": "https://www.ticketmaster.com/hugel-presents-make-the-girls-dance-san-diego-california-11-06-2026/event/0A00652809C3AB63",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e1f26901e4d3",
+   "title": "Taylor Bickett",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/taylor-bickett-san-diego-california-11-06-2026/event/0A006495C59D1899",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f311cb798c09",
+   "title": "John Legend",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Epstein Family Amphitheater",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAef_x",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "d8bcd12bee04",
+   "title": "R&B ONLY LIVE - San Diego, CA",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.universe.com/events/r-b-only-live-san-diego-ca-tickets-LJVNZW?ref=ticketmaster",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "24ec3fa85202",
+   "title": "The Billy Joel Legacy - A Tribute Experience",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Sound",
+   "url": "https://www.ticketmaster.com/the-billy-joel-legacy-a-tribute-del-mar-california-11-06-2026/event/0A0064E8C3629CE4",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "54d78d13cc0b",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-06-2026/event/0A0064F8959365D5",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "7d482ae35c1a",
+   "title": "The Story So Far",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "SOMA - Mainstage",
+   "url": "https://www.ticketweb.com/event/the-story-so-far-soma-mainstage-tickets/14270354",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "49cb00e3cbc8",
+   "title": "DICE (21 and Over)",
+   "date": "2026-11-06",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAx",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f66405b970a4",
+   "title": "Dave Smith",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x1a",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "836f80b71169",
+   "title": "Los Originales De San Juan de Chuy Chaves",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Blue Agave Nightclub",
+   "url": "https://www.ticketmaster.com/los-originales-de-san-juan-de-san-diego-california-11-06-2026/event/0A006518E81ADC38",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "47fa0775a726",
+   "title": "Ozomatli, SeaPoodle",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/ozomatli-seapoodle-belly-up-tickets/14288554",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "291846b36ad0",
+   "title": "Paul Oakenfold + The Crystal Method - Mission Underground 2026 Tour w/ Liquid Todd",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "url": "https://www.ticketweb.com/event/paul-oakenfold-the-crystal-music-box-tickets/14267124",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "bdb61be46346",
+   "title": "Space Laces w/ PHRVA",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/space-laces-w-phrva-nova-sd-tickets/14286594",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "0bffe1f27334",
+   "title": "San Diego Food + Wine Festival",
+   "date": "2026-11-06",
+   "time": null,
+   "end_date": null,
+   "venue": "Embarcadero Marina Park North",
+   "url": "https://www.localwineevents.com/view/event/san-diego-food-wine-festival/988736",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "c838e74732eb",
+   "title": "San Diego Food and Wine Festival - Grand Tasting - Saturday",
+   "date": "2026-11-07",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Embarcadero Marina Park North",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3302e1b42703",
+   "title": "Dia de los DEFTONES",
+   "date": "2026-11-07",
+   "time": "15:35",
+   "end_date": null,
+   "venue": "Petco Park",
+   "url": "https://www.ticketmaster.com/dia-de-los-deftones-san-diego-california-11-07-2026/event/0A0064D597284BBD",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "3f23aa503245",
+   "title": "Josh Garrels with special guest Taylor Armstong",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/josh-garrels-with-special-guest-taylor-san-diego-california-11-07-2026/event/0A00646393B7474F",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a8e415e71c95",
+   "title": "Greg Freeman",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/greg-freeman-san-diego-california-11-07-2026/event/0A0064EFCC9DA21B",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "2ebc62e6d69a",
+   "title": "Dana Carvey",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Humphreys Concerts By the Bay",
+   "url": "https://www.ticketmaster.com/dana-carvey-san-diego-california-11-07-2026/event/0A006462F17E97A0",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "89d250f0fdaa",
+   "title": "The Surge: An Ode to Sinead O'Connor",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/the-surge-an-ode-to-sinead-san-diego-california-11-07-2026/event/0A0064D3E1D0A41D",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "fb16f06c48f5",
+   "title": "Mustache Harbor - Yacht Rock Forever! w/ Radio 80's",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/mustache-harbor-yacht-belly-up-tickets/14264904",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "ca2a502bcaff",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-07-2026/event/0A0064F8959765D8",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "abfb2f04b547",
+   "title": "Born Without Bones - 21+",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pyq8",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "a088bbe1381a",
+   "title": "Dave Smith",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x1F",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "d8603e655886",
+   "title": "Robby Hoffman: Live On Tour",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "url": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-07-2026/event/0B0064BB7F892D4D",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "8063beee1111",
+   "title": "Pedro Sampaio",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "url": "https://www.ticketweb.com/event/pedro-sampaio-nova-sd-tickets/15026253",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "b7524f76fef8",
+   "title": "San Diego Food and Wine Festival - Grand Fiesta - Sunday",
+   "date": "2026-11-08",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Embarcadero Marina Park North",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "6ace7c63d7d8",
+   "title": "Robby Hoffman: Live On Tour",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "url": "https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B00650BBBC45A23",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "be66094a2902",
+   "title": "Will Donato",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Humphreys Backstage Live",
+   "url": "https://www.ticketmaster.com/will-donato-san-diego-california-11-08-2026/event/0A006515B0A4AFF1",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "aa83369f4b2d",
+   "title": "The Outsiders (Touring)",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-08-2026/event/0A0064F895A265F0",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "156f23b5ef22",
+   "title": "Father Of Peace - MOVED TO SOMA STAGE",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/father-of-peace-moved-to-soma-san-diego-california-11-08-2026/event/0A0064D2E4B3F88D",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "f763eb015b76",
+   "title": "Kingston Rossdale",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Voodoo Room at the House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/kingston-rossdale-san-diego-california-11-08-2026/event/0A00653CACF293B0",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "4795dbdb534d",
+   "title": "SOB X RBE",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "url": "https://www.ticketmaster.com/sob-x-rbe-san-diego-california-11-08-2026/event/0A006523C633C323",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "2d6e0997b6a1",
+   "title": "Dave Hause (21 and Over)",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAN",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "d7b7f07b5dec",
+   "title": "Bahamas",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up Tavern",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7--ra",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e225ddc21e8f",
+   "title": "Bahamas - Industrial Sport & Sound w/ Sister Ray",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "url": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "b23954228d69",
+   "title": "Father Of Peace - The Year Of Madness & The Mystery Century Tour",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "SOMA - Sidestage",
+   "url": "https://www.ticketweb.com/event/father-of-peace-soma-sidestage-tickets/15034123",
+   "tags": [
+    "Live music",
+    "Food & beer"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "e0fb0c119fb0",
+   "title": "Jessie Reyez: A Little Vengeance Tour",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Cal Coast Credit Union Open Air Theatre at SDSU",
+   "url": "https://www.ticketmaster.com/jessie-reyez-a-little-vengeance-tour-san-diego-california-11-08-2026/event/0A006513B4C3FDDB",
+   "tags": [
+    "Live music",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "30163a889350",
+   "title": "Michael Blaustein: The Taste Me Tour: The Final Leg",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "url": "https://www.ticketmaster.com/michael-blaustein-the-taste-me-tour-san-diego-california-11-08-2026/event/0A006482C868F1CC",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "de0748d6e95c",
+   "title": "The Psychedelic Furs With Special Guests We Are Scientists",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Sound",
+   "url": "https://www.ticketmaster.com/the-psychedelic-furs-with-special-guests-del-mar-california-11-08-2026/event/0A006454B370D4AA",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  },
+  {
+   "id": "5b0dc2fafb12",
+   "title": "SD Networking Events November 2026 Business Networking Mixer",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Gaslamp Quarter",
+   "url": "https://www.eventbrite.com/e/1974367974761?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-19T17:11:21-07:00"
+  }
+ ]
+}
