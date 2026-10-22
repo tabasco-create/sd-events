@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T17:14:06-07:00",
- "checked": "2026-10-21T17:14:06-07:00",
+ "updated": "2026-10-22T06:09:11-07:00",
+ "checked": "2026-10-22T06:09:11-07:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -18,15 +18,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Trivia",
-   "searches_used": 2,
-   "found": 14,
-   "searches_left_before": 241
+   "category": "Live music + Food & beer",
+   "searches_used": 3,
+   "found": 33,
+   "searches_left_before": 240
   },
   "ticketmaster": {
    "ok": true,
-   "found": 86,
-   "dropped_no_interest": 155
+   "found": 84,
+   "dropped_no_interest": 154
   },
   "padres": {
    "ok": true,
@@ -34,118 +34,6 @@
   }
  },
  "events": [
-  {
-   "id": "0def9e4991c2",
-   "title": "Story Time at the Park",
-   "date": "2026-10-21",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "Kensington-Normal Heights Branch Library",
-   "where": "Kensington-Normal Heights Branch Library, San Diego, CA",
-   "url": "https://friendsofknhlibrary.org/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "54491c9f7d42",
-   "title": "LEGO Club",
-   "date": "2026-10-21",
-   "time": "15:30",
-   "end_date": null,
-   "venue": "San Diego Public Library - Pacific Highlands Ranch",
-   "where": "San Diego Public Library - Pacific Highlands Ranch, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "6f30d93d0348",
-   "title": "Foster The People: Good Mourning Sunshine Tour",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Petco Park",
-   "where": "Petco Park, San Diego",
-   "url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-san-diego-california-10-21-2026/event/0A00649B965088D7",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
-  },
-  {
-   "id": "888fc8fbae64",
-   "title": "San Diego Gulls vs. Coachella Valley Firebirds",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Pechanga Arena San Diego",
-   "where": "Pechanga Arena San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZxF6",
-   "tags": [
-    "Local sports"
-   ],
-   "source": "Ticketmaster",
-   "text": "Sports Hockey Minor League",
-   "hint": [],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
-  },
-  {
-   "id": "47963058d07e",
-   "title": "WEEZER: The Gathering",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
-   "where": "Viejas Arena at Aztec Bowl San Diego State University, San Diego",
-   "url": "https://www.ticketmaster.com/weezer-the-gathering-san-diego-california-10-21-2026/event/0A00646D8E69912C",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
-  },
-  {
-   "id": "f787a85f4539",
-   "title": "Automatic - North America Tour '26 w/ Nuovo Testamento",
-   "date": "2026-10-21",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "Belly Up",
-   "where": "Belly Up, Solana Beach",
-   "url": "https://www.ticketweb.com/event/automatic-north-america-belly-up-tickets/14203574",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Post-Punk Music Rock New Wave",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
-  },
   {
    "id": "06282a340e30",
    "title": "Murder Mystery Night",
@@ -276,7 +164,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "498d1b41e2e2",
@@ -294,7 +182,7 @@
    "text": "Music World Latin Music Rock Rock & Roll Music Alternative Indie Rock Music Other",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f7859d515a1f",
@@ -314,7 +202,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "b906343b9a98",
@@ -332,7 +220,7 @@
    "text": "Music Hip-Hop/Rap Hardcore Rap Music Rock Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "eaba49a756b8",
@@ -353,6 +241,26 @@
    "last_seen": "2026-10-21T17:14:06-07:00"
   },
   {
+   "id": "3c6997a311ac",
+   "title": "Liberty Station: From Barracks to Brews Tickets",
+   "date": "2026-10-22",
+   "time": null,
+   "end_date": null,
+   "venue": "Stone Brewing World Bistro & Gardens – Liberty Station",
+   "where": "Stone Brewing World Bistro & Gardens – Liberty Station, Liberty Station",
+   "url": "https://www.facebook.com/events/stone-brewing-world-bistro-gardens-liberty-station-2816-historic-decatur-road-un/liberty-station-from-barracks-to-brews-san-diego-tickets/2519875575125299/",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "16e037da3601",
    "title": "San Diego Wine Tour - Expanded Adventure",
    "date": "2026-10-23",
@@ -368,7 +276,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "af97fdd88dc4",
@@ -392,13 +300,18 @@
    "time": "16:00",
    "end_date": null,
    "venue": "Stone Brewing Tap Room - Kettner",
+   "where": "Stone Brewing Tap Room - Kettner, Downtown San Diego",
    "url": "https://www.outgoing.world/activity/food-pop-up-with-muelle-8-1d19a05f5e3d",
    "tags": [
-    "Around town"
+    "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "ee8fcb5b574b",
@@ -456,7 +369,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "a497182e015f",
@@ -474,7 +387,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "357a850410be",
@@ -494,7 +407,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "6c27bbed6f62",
@@ -514,7 +427,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "1fe44dfd3de9",
@@ -534,7 +447,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "a828a1ebc1fd",
@@ -552,7 +465,7 @@
    "text": "Music Alternative Indie Pop Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "8428df758d30",
@@ -738,13 +651,18 @@
    "time": "14:00",
    "end_date": null,
    "venue": "Citizen Brewers",
+   "where": "Citizen Brewers, San Diego, CA",
    "url": "https://www.eventbrite.com/e/2002918171167?aff=ebdiglgoogleliveevents",
    "tags": [
     "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "480c2f3f1901",
@@ -802,7 +720,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "59c28887bbe9",
@@ -820,7 +738,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "292b75d47153",
@@ -838,7 +756,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "1fa36fda2ff9",
@@ -877,7 +795,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f5d4ad956070",
@@ -897,7 +815,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "edf2284506bc",
@@ -915,7 +833,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "67159dcb2da8",
@@ -935,7 +853,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "43c0cfce43cf",
@@ -953,7 +871,7 @@
    "text": "Music Dance/Electronic Amapiano",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "ae562daf8992",
@@ -971,7 +889,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "30e8326aeda2",
@@ -991,7 +909,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "3616771b2bec",
@@ -1031,7 +949,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "0e97d28d5967",
@@ -1051,7 +969,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "0eca2cb8adcd",
@@ -1074,6 +992,26 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "c8c4ea60434e",
+   "title": "Pups, Pints, and Pumpkins",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "Mujeres Brew House",
+   "where": "Mujeres Brew House, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "f1238d6cb7e1",
    "title": "San Diego Referral Exchange — Meet, Connect & Collaborate",
    "date": "2026-10-25",
@@ -1089,7 +1027,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "a8afefcc81ce",
@@ -1107,7 +1045,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "5e6fa60da979",
@@ -1127,7 +1065,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "0bdc36ca9400",
@@ -1167,7 +1105,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "aadc58400f1e",
@@ -1200,7 +1138,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "04eb67565cd1",
@@ -1218,7 +1156,7 @@
    "text": "Music Alternative Alternative Music Reggae Reggae",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "3c5bd64967b2",
@@ -1256,6 +1194,46 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "2fb6797e44e9",
+   "title": "The Hoppy Dice Game Night",
+   "date": "2026-10-28",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Hopnonymous Brewing - Normal Heights",
+   "where": "Hopnonymous Brewing - Normal Heights, Normal Heights",
+   "url": "https://www.eventbrite.com/e/the-hoppy-dice-game-night-at-hopnonymous-normal-heights-tickets-1999729809692",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "d11e0b7fa001",
+   "title": "Patchworks Presents Fall Craft Party - Fall Sun Catchers + Chunky Pumpkins!",
+   "date": "2026-10-28",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Mike Hess Brewing, North Park",
+   "where": "Mike Hess Brewing, North Park, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1998516240875?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "ee53888a9d8f",
    "title": "Jim Hensons Labyrinth: In Concert 40th Anniversary",
    "date": "2026-10-28",
@@ -1271,7 +1249,7 @@
    "text": "Film Family Miscellaneous",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "ff260651877b",
@@ -1289,7 +1267,7 @@
    "text": "Music Pop Pop Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "14993a66ed05",
@@ -1318,13 +1296,18 @@
    "time": "18:00",
    "end_date": null,
    "venue": "Ballast Point Brewing",
+   "where": "Ballast Point Brewing, Little Italy",
    "url": null,
    "tags": [
-    "Around town"
+    "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "d679fc93c163",
@@ -1342,7 +1325,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "b547ed385ed8",
@@ -1360,7 +1343,7 @@
    "text": "Music Rock Alternative Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "bdd2098235d4",
@@ -1380,7 +1363,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "ffb6233b1328",
@@ -1413,6 +1396,26 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "db40276d880d",
+   "title": "Fright Foot Halloween Party",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Duck Foot Brewing",
+   "where": "Duck Foot Brewing, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/fright-foot-halloween-party-tickets-2003014293672?aff=ebdssbdestsearch",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "117879dd4ca1",
    "title": "Missio",
    "date": "2026-10-30",
@@ -1428,7 +1431,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "6a52fa287516",
@@ -1446,7 +1449,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "09742b5abc10",
@@ -1466,7 +1469,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "9de1419320f6",
@@ -1484,7 +1487,27 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "331e5c67209e",
+   "title": "Spooky Bake Club",
+   "date": "2026-10-31",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Kairoa Brewing Company",
+   "where": "Kairoa Brewing Company, University Heights",
+   "url": "https://ma.to/event/spooky-bake-club-31-oct-2026",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "827d9a965926",
@@ -1502,7 +1525,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f072d988ff9d",
@@ -1520,7 +1543,7 @@
    "text": "Music Alternative Electronic Pop Music Other",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "b49c96b51f18",
@@ -1544,6 +1567,26 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "50fde2b21ec4",
+   "title": "Booze 'n' Brains Interactive Drinking Games",
+   "date": "2026-11-01",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Little Bird Brewing",
+   "where": "Little Bird Brewing, North Park",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "b18efde8c1e5",
    "title": "The Neighborhood Kids Live with Full Band",
    "date": "2026-11-01",
@@ -1564,6 +1607,26 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "8dffc0e21818",
+   "title": "#004: Range and Rounds",
+   "date": "2026-11-01",
+   "time": "16:30",
+   "end_date": null,
+   "venue": "The Harland Clubhouse",
+   "where": "The Harland Clubhouse, San Diego, CA",
+   "url": "https://www.heylo.com/event/-P3xDe8qf3UJoic7p9t-",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "6908db2d6b99",
    "title": "San Diego Gulls vs. Colorado Eagles",
    "date": "2026-11-01",
@@ -1579,7 +1642,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "1dcd0fab15d8",
@@ -1597,7 +1660,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "74c419b5b627",
@@ -1615,7 +1678,7 @@
    "text": "Music Rock Pop Punk Music Alternative Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "3835acb6e2c8",
@@ -1648,7 +1711,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "114f6575eb2e",
@@ -1666,7 +1729,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "42aa5254578d",
@@ -1704,7 +1767,7 @@
    "text": "Music Rock Post-Hardcore",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f079bc4ae8f9",
@@ -1724,7 +1787,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "637ccba98167",
@@ -1744,7 +1807,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "a056c6e8aedf",
@@ -1762,7 +1825,67 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "1ce299083fa3",
+   "title": "Bags & Brews",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Mike Hess Brewing, North Park",
+   "where": "Mike Hess Brewing, North Park, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "8b7e8d6de878",
+   "title": "Feel Good Hits: Grab Your Squad & Play Mini-Games",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Brewing Company",
+   "where": "San Diego Brewing Company, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "a1b3206dbdf7",
+   "title": "Plant Bingo Night",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Original 40 Brewing Company",
+   "where": "Original 40 Brewing Company, North Park",
+   "url": "https://www.eventbrite.com/e/2002228830330?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "9c5f86ccc3ec",
@@ -1782,7 +1905,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "7c7933f46467",
@@ -1800,7 +1923,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "c3a13cfa2c4a",
@@ -1818,7 +1941,7 @@
    "text": "Music Rock Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "9277bda42d81",
@@ -1857,7 +1980,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "19f2ffb4bf3c",
@@ -1877,7 +2000,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "0bffe1f27334",
@@ -1895,7 +2018,27 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "2f10341f7919",
+   "title": "Plant Bingo",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Societe Brewing Company",
+   "where": "Societe Brewing Company, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2003173781705?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "1e7c796f946e",
@@ -1904,13 +2047,16 @@
    "time": "18:30",
    "end_date": null,
    "venue": "JULEP Venue",
-   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1792570505",
+   "where": "JULEP Venue, San Diego, CA",
+   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1792664085",
    "tags": [
     "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "a5adc5db0437",
@@ -1930,7 +2076,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -1965,7 +2111,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "54d78d13cc0b",
@@ -1985,7 +2131,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "7d482ae35c1a",
@@ -2003,7 +2149,7 @@
    "text": "Music Rock Pop Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "47fa0775a726",
@@ -2021,7 +2167,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f68b96a9f121",
@@ -2064,6 +2210,26 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "0a413ba05d85",
+   "title": "Miramar Van Jam",
+   "date": "2026-11-07",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Mission Brewing - Miramar",
+   "where": "Mission Brewing - Miramar, San Diego, CA",
+   "url": "https://www.eventhound.com/p/miramar-van-jam-nov-7/6ac3f7fba7f12f92709df95c",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "c838e74732eb",
    "title": "San Diego Food and Wine Festival - Grand Tasting - Saturday",
    "date": "2026-11-07",
@@ -2085,13 +2251,18 @@
    "time": "12:00",
    "end_date": null,
    "venue": "Ballast Point Brewing",
+   "where": "Ballast Point Brewing, Little Italy",
    "url": "https://www.eventbrite.com/e/2001006337822?aff=ebdiglgoogleliveevents",
    "tags": [
-    "Around town"
+    "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "cec331c930e1",
@@ -2109,7 +2280,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "79d9d3208ca0",
@@ -2118,13 +2289,16 @@
    "time": "17:00",
    "end_date": null,
    "venue": "AleSmith Brewing Company",
+   "where": "AleSmith Brewing Company, San Diego, CA",
    "url": "https://www.eventbrite.com/e/2003434565717?aff=ebdiglgoogleliveevents",
    "tags": [
     "Around town"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "03fe975a632a",
@@ -2133,13 +2307,18 @@
    "time": "18:00",
    "end_date": null,
    "venue": "Coronado Brewing Company",
+   "where": "Coronado Brewing Company, Coronado, CA",
    "url": "https://beer.social/brewery/coronado-brewing-company/events/460159",
    "tags": [
-    "Around town"
+    "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "2ebc62e6d69a",
@@ -2159,7 +2338,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -2179,7 +2358,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -2199,7 +2378,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "d8603e655886",
@@ -2219,7 +2398,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -2246,13 +2425,16 @@
    "time": "12:00",
    "end_date": null,
    "venue": "Embarcadero Marina Park North",
+   "where": "Embarcadero Marina Park North, San Diego, CA",
    "url": null,
    "tags": [
     "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "6ace7c63d7d8",
@@ -2272,7 +2454,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -2292,7 +2474,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "f763eb015b76",
@@ -2310,7 +2492,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -2328,7 +2510,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -2346,7 +2528,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "b23954228d69",
@@ -2364,7 +2546,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "30163a889350",
@@ -2384,7 +2566,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "de0748d6e95c",
@@ -2402,7 +2584,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "397ba15a28a6",
@@ -2420,7 +2602,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "82a623e9a025",
@@ -2438,7 +2620,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "b2dd92813095",
@@ -2462,13 +2644,18 @@
    "time": "18:00",
    "end_date": null,
    "venue": "AleSmith Brewing Company",
+   "where": "AleSmith Brewing Company, San Diego, CA",
    "url": "https://www.eventbrite.com/e/2003430916803?aff=ebdiglgoogleliveevents",
    "tags": [
-    "Around town"
+    "Food & beer"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "13b18204e32f",
@@ -2486,7 +2673,43 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "3eacf702df67",
+   "title": "Adam Ant - Live 2026",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The Magnolia",
+   "where": "The Magnolia, El Cajon",
+   "url": "https://www.ticketmaster.com/adam-ant-live-2026-el-cajon-california-11-11-2026/event/0B006535DE5E621A",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Alternative Rock",
+   "hint": [],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "d55da60e670f",
+   "title": "San Diego Gulls vs. San Jose Barracuda",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "where": "Pechanga Arena San Diego, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JFGs",
+   "tags": [
+    "Local sports"
+   ],
+   "source": "Ticketmaster",
+   "text": "Sports Hockey Minor League",
+   "hint": [],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "90f65d8ed023",
@@ -2528,6 +2751,26 @@
    "last_seen": "2026-10-21T17:14:06-07:00"
   },
   {
+   "id": "5f4553e1b9e9",
+   "title": "Speedway Grand Prix",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "AleSmith Brewing Company",
+   "where": "AleSmith Brewing Company, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "fcf620876128",
    "title": "Gaslamp Food Crawl",
    "date": "2026-11-14",
@@ -2543,19 +2786,105 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "17098059e1e7",
+   "title": "Hoppy Beer Gear Anniversary",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Ocean Beach Brewery",
+   "where": "Ocean Beach Brewery, Ocean Beach",
+   "url": "https://ma.to/event/hoppy-beer-gear-anniversary-14-nov-2026",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "455ff4bf18be",
+   "title": "Booze n Brains",
+   "date": "2026-11-16",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Little Bird Brewing",
+   "where": "Little Bird Brewing, North Park",
+   "url": "https://www.stubhub.com/ar/booze-n-brains-san-diego-tickets-11-16-2026/event/162022109/",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "7272343d65f0",
+   "title": "Pop vs. Disco: Grab Your Squad & Play Mini-Games",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Brewing Company",
+   "where": "San Diego Brewing Company, San Diego, CA",
+   "url": "https://www.bingoremixedsd.com/next/-punch-bowl-social-lslcd-enddw",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "1fe31911f5be",
+   "title": "Calienté Spirits, Latin Music Fest and Expo",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "The Sinclair on G Street",
+   "where": "The Sinclair on G Street, East Village",
+   "url": "https://www.eventbrite.com/e/1992775018725?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-22T06:09:11-07:00",
+   "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
    "id": "2d38975b7ead",
    "title": "Ales N' Rails",
    "date": "2026-11-21",
    "time": "18:00",
    "end_date": null,
    "venue": "San Diego Model Railroad Museum",
+   "where": "San Diego Model Railroad Museum, Balboa Park",
    "url": "https://www.sandiego.org/events-festivals/ales-n-rails/6139b725c0f311f1a7f2",
    "tags": [
+    "Food & beer",
     "Balboa Park"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "29cd75fd1197",
@@ -2564,13 +2893,19 @@
    "time": "12:00",
    "end_date": null,
    "venue": "Mujeres Brew House",
+   "where": "Mujeres Brew House, San Diego, CA",
    "url": "https://www.facebook.com/events/mujeres-brew-house/hispanic-heritage-art-show-fundraiser-to-benefit-the-victims-of-colombia-earthqu/1076345818474545/",
    "tags": [
+    "Food & beer",
     "Arts & museums"
    ],
    "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
+   "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
    "id": "058d0d1c483c",
