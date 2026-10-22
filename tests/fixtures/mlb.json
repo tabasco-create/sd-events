@@ -1,0 +1,58 @@
+{
+ "dates": [
+  {
+   "games": [
+    {
+     "gamePk": 900001,
+     "gameDate": "2026-10-27T01:40:00Z",
+     "status": {
+      "detailedState": "Scheduled"
+     },
+     "teams": {
+      "home": {
+       "team": {
+        "id": 135,
+        "name": "San Diego Padres"
+       }
+      },
+      "away": {
+       "team": {
+        "id": 119,
+        "name": "Los Angeles Dodgers"
+       }
+      }
+     },
+     "venue": {
+      "id": 2680,
+      "name": "Petco Park"
+     }
+    },
+    {
+     "gamePk": 900002,
+     "gameDate": "2026-10-28T02:10:00Z",
+     "status": {
+      "detailedState": "Scheduled"
+     },
+     "teams": {
+      "home": {
+       "team": {
+        "id": 119,
+        "name": "Los Angeles Dodgers"
+       }
+      },
+      "away": {
+       "team": {
+        "id": 135,
+        "name": "San Diego Padres"
+       }
+      }
+     },
+     "venue": {
+      "id": 22,
+      "name": "Dodger Stadium"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -58,9 +58,9 @@
     return h < 48 ? `${h} hr ago` : `${Math.round(h / 24)} days ago`;
   };
   const row = (label, value, cls) => { const d = el("div"); d.append(el("span", null, label), el("span", cls || null, value)); return d; };
-  const g = data.status.google || {}, t = data.status.ticketmaster || {};
+  const g = data.status.google || {}, t = data.status.ticketmaster || {}, pd = data.status.padres;
   const gText = g.ok
-    ? `OK · today's category: ${g.category} · ${g.searches_used} searches · ${g.found} events` +
+    ? `OK · today's search: ${g.category} · ${g.searches_used} searches · ${g.found} events` +
       (g.searches_left_before != null ? ` · ${g.searches_left_before - g.searches_used} left this month` : "")
     : (g.error ? `Error: ${g.error}` : g.note || "not run");
   const tText = t.ok ? `OK · ${t.found} events (${t.dropped_no_interest} skipped, no matching interest)` : (t.error ? `Error: ${t.error}` : t.note || "not run");
@@ -69,6 +69,7 @@
     row("Last updated", ago(data.updated), data.updated && Date.now() - new Date(data.updated) < 36e5 * 36 ? "ok" : "bad"),
     row("Google Events (SerpApi)", gText, g.ok ? "ok" : (g.error ? "bad" : "warn")),
     row("Ticketmaster", tText, t.ok ? "ok" : (t.error ? "bad" : "warn")),
+    ...(pd ? [row("Padres (MLB schedule)", pd.ok ? `OK · ${pd.found} home game${pd.found === 1 ? "" : "s"} in the next 3 weeks` : `Error: ${pd.error || "not run"}`, pd.ok ? "ok" : "bad")] : []),
     row("Events saved", String(data.events.length)),
   );
 
