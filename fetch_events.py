@@ -2,16 +2,20 @@
 """Upcoming San Diego events for the tabasco.dev homepage.
 
 Each run (once a day, from GitHub Actions):
-  1. Google Events via SerpApi: one general "this week" search, plus one interest
-     category searched in depth. The category rotates by day, so every category is
-     refreshed once a week. About 3 searches a day (~93 a month of the free 250).
+  1. Google Events via SerpApi: one general "this week" search, plus two interest
+     categories. The categories rotate by day, so each one is searched every few
+     days. About 3 searches a day (~93 a month of the free 250).
      Before searching, it asks SerpApi how many searches are left (that check is
      free) and skips SerpApi for the day if the month's allowance is nearly gone.
   2. Ticketmaster Discovery API: everything within 25 miles for the next 3 weeks
-     (concerts, theater, family shows). Free key, 5,000 calls a day; we use 3.
+     (concerts, theater, family shows, Gulls and San Diego FC games). Free key,
+     5,000 calls a day; we use 3.
+  2b. MLB's public schedule (no key): Padres home games at Petco Park.
   3. Merges the results into the saved list, so events found on earlier days stay
      until they're over. Tags each event with your interest categories, drops
      anything that matches none of them, online-only events, and ticket add-ons.
+     Saved events are re-checked against the current rules on every run, so an edit
+     to INTERESTS or EXCLUDE takes effect on the next run.
 
 Writes, for GitHub Pages:
   docs/events.json   events + status, read by the tabasco.dev Worker and index.html
@@ -45,9 +49,15 @@ UA = "tabasco.dev events (github.com/tabasco-create/sd-events)"
 
 # ---------------------------------------------------------------------------
 # What you're interested in. Edit freely.
-#   query  what to search Google Events for on that category's rotation day
-#   words  regular expressions matched against title + description + venue
-#          (whole words, any case). An event gets every category that matches.
+#   query    what to search Google Events for on that category's rotation days
+#   words    regular expressions matched against title + description (whole words,
+#            any case). An event gets every category that matches.
+#   places   (optional) also matched against the venue and address, for categories
+#            that are about a place rather than a kind of event
+#   music    (optional) True: only counts for events that are music (concerts), so
+#            "alternative" means alternative rock, not an alternative-medicine fair
+#   strict   (optional) True: an event found by this category's search still has to
+#            match its words (Google's results for "trivia nights" include other things)
 # Order here is the order of the filter buttons on the page.
 # ---------------------------------------------------------------------------
 INTERESTS = {
@@ -61,6 +71,57 @@ INTERESTS = {
             r"science (fair|festival|night)", r"holiday lights", r"tree lighting",
         ],
     },
+    "Local sports": {
+        "query": "San Diego Gulls and San Diego FC home games",
+        "strict": True,
+        # Padres home games also come straight from MLB's schedule (see PADRES below).
+        "words": [
+            r"padres", r"san diego gulls", r"gulls", r"san diego fc", r"sdfc",
+        ],
+    },
+    "Live music": {
+        "query": "ska punk and alternative rock concerts in San Diego",
+        "music": True,
+        "strict": True,
+        "words": [
+            r"ska", r"ska[- ]punk", r"two[- ]tone", r"punk", r"punk rock", r"pop[- ]punk",
+            r"post[- ]punk", r"skate[- ]punk", r"hardcore( punk)?", r"post[- ]hardcore",
+            r"alternative", r"alt[- ]rock", r"alternative rock", r"indie rock", r"emo",
+            r"grunge",
+        ],
+    },
+    "Food & beer": {
+        "query": "brewery events and beer festivals in San Diego",
+        "words": [
+            r"beers?", r"brew(ery|eries|fest|ing|pub)", r"craft beer", r"taproom", r"tap takeover",
+            r"wine", r"tastings?", r"food (trucks?|festival|fest|fair)", r"tacos?", r"bbq",
+            r"barbecue", r"chili cook-?off", r"farmers'? market", r"culinary", r"cocktails?",
+            r"oktoberfest", r"restaurant week", r"night market", r"cider", r"distillery",
+        ],
+    },
+    "Trivia": {
+        "query": "trivia nights in San Diego",
+        "strict": True,
+        "words": [
+            r"trivia", r"pub quiz", r"quiz night", r"geeks who drink", r"name that tune",
+            r"music bingo",
+        ],
+    },
+    "Balboa Park": {
+        "query": "Balboa Park events in San Diego",
+        "places": True,
+        "strict": True,
+        "words": [
+            r"balboa park", r"spreckels organ( pavilion)?", r"old globe", r"san diego zoo",
+            r"fleet science( center)?", r"san diego museum of art", r"natural history museum",
+            r"the nat", r"air (&|and) space museum", r"museum of us", r"timken( museum)?",
+            r"mingei", r"casa del prado", r"house of pacific relations", r"spanish village",
+            r"botanical building", r"japanese friendship garden", r"san diego history center",
+            r"museum of photographic arts", r"comic-con museum", r"model railroad museum",
+            r"automotive museum", r"marston house", r"starlight bowl", r"el prado",
+            r"organ pavilion", r"plaza de panama",
+        ],
+    },
     "Beach & outdoors": {
         "query": "outdoor beach hiking and nature events in San Diego",
         "words": [
@@ -71,21 +132,13 @@ INTERESTS = {
             r"star party", r"astronomy", r"sailing", r"snorkel(ing)?", r"fishing",
         ],
     },
-    "Live music": {
-        "query": "concerts and live music in San Diego",
+    "Arts & museums": {
+        "query": "museum exhibits art and theater events in San Diego",
         "words": [
-            r"concerts?", r"live music", r"band", r"symphony", r"orchestra", r"jazz", r"blues",
-            r"bluegrass", r"djs?", r"acoustic", r"songwriters?", r"reggae", r"mariachi",
-            r"opera", r"choir", r"music festival", r"in concert", r"tribute",
-        ],
-    },
-    "Food & beer": {
-        "query": "food festivals and beer events in San Diego",
-        "words": [
-            r"beers?", r"brew(ery|eries|fest|ing)", r"craft beer", r"wine", r"tastings?",
-            r"food (trucks?|festival|fest|fair)", r"tacos?", r"bbq", r"barbecue",
-            r"chili cook-?off", r"farmers'? market", r"culinary", r"cocktails?", r"oktoberfest",
-            r"restaurant week", r"night market", r"cider", r"distillery",
+            r"museums?", r"exhibits?", r"exhibition", r"galler(y|ies)", r"art walk",
+            r"art (show|fair|festival)", r"theat(er|re)", r"musical", r"ballet",
+            r"comedy", r"film festival", r"screening", r"planetarium",
+            r"sculpture", r"photography", r"dance performance", r"broadway",
         ],
     },
     "Makers & knives": {
@@ -106,28 +159,34 @@ INTERESTS = {
             r"drones?", r"ham radio", r"open source", r"devops", r"data science",
         ],
     },
-    "Arts & museums": {
-        "query": "museum exhibits art and theater events in San Diego",
-        "words": [
-            r"museums?", r"exhibits?", r"exhibition", r"galler(y|ies)", r"art walk",
-            r"art (show|fair|festival)", r"theat(er|re)", r"musical", r"ballet",
-            r"comedy", r"film festival", r"screening", r"planetarium", r"balboa park",
-            r"sculpture", r"photography", r"dance performance", r"broadway",
-        ],
-    },
 }
 
 # Category for anything from the general "this week" search that matches none of the
-# interests above. Set to None to drop those instead.
+# interests above. Set to None to drop those instead. Concerts that aren't one of the
+# Live music genres are dropped rather than landing here.
 OTHER_CATEGORY = "Around town"
 
-# How Ticketmaster's own classification maps onto the categories above. "Sports" isn't
-# one of your interests, so games are dropped unless their title matches one of them.
-# To show sports, add a "Sports" entry to INTERESTS (words like r"padres", r"sdsu").
+# How an event is recognized as music (for the Live music genres): Ticketmaster's
+# "Music" classification, or these words in a title or description.
+MUSIC_WORDS = [
+    r"music", r"concerts?", r"live music", r"band", r"bands", r"tour", r"djs?", r"gig",
+    r"symphony", r"orchestra", r"jazz", r"blues", r"tribute", r"in concert", r"rock",
+]
+
+# How Ticketmaster's own classification maps onto the categories above. Music isn't
+# here: concerts count as Live music only when their genre is one of its words.
+# Sports games count only when the title names a team in Local sports.
 TM_SEGMENTS = {
-    "Music": "Live music",
     "Arts & Theatre": "Arts & museums",
     "Family": "Family & kids",
+}
+
+# Padres home games, from MLB's public schedule (no key needed).
+PADRES = {
+    "team_id": 135,          # San Diego Padres
+    "venue_id": 2680,        # Petco Park (so spring training in Arizona is left out)
+    "category": "Local sports",
+    "days_ahead": 21,
 }
 
 # Dropped if title or description matches any of these (whole words, any case).
@@ -142,7 +201,8 @@ EXCLUDE = [
 # ---- Budget and range -----------------------------------------------------
 SERPAPI_GENERAL_QUERY = "events in San Diego"
 SERPAPI_GENERAL_CHIPS = "date:week"   # Google's "this week" filter
-SERPAPI_CATEGORY_PAGES = 2            # 10 events per page; each page is 1 search
+SERPAPI_CATEGORIES_PER_DAY = 2        # interest categories searched each day
+SERPAPI_CATEGORY_PAGES = 1            # 10 events per page; each page is 1 search
 SERPAPI_RESERVE = 25                  # skip SerpApi when fewer searches than this are left
 SERPAPI_LOCATION = "San Diego, California, United States"
 
@@ -164,6 +224,7 @@ def compile_words(words):
 
 INTEREST_RES = {name: compile_words(spec["words"]) for name, spec in INTERESTS.items()}
 EXCLUDE_RE = compile_words(EXCLUDE)
+MUSIC_RE = compile_words(MUSIC_WORDS)
 
 
 # ---------------------------------------------------------------------------
@@ -248,6 +309,18 @@ def ticketmaster_pull(fetch, key, now):
         if info.get("number", page) + 1 >= info.get("totalPages", 0):
             break
     return found
+
+
+def padres_pull(fetch, now):
+    start = now.date()
+    end = start + timedelta(days=PADRES["days_ahead"])
+    data = fetch.get("mlb", "https://statsapi.mlb.com/api/v1/schedule", {
+        "sportId": 1,
+        "teamId": PADRES["team_id"],
+        "startDate": start.isoformat(),
+        "endDate": end.isoformat(),
+    })
+    return [g for d in data.get("dates") or [] for g in d.get("games") or []]
 
 
 # ---------------------------------------------------------------------------
@@ -369,6 +442,33 @@ def from_google(r, today):
     }
 
 
+def from_mlb(g):
+    """A Padres home game at Petco Park, or None."""
+    home = ((g.get("teams") or {}).get("home") or {}).get("team") or {}
+    away = ((g.get("teams") or {}).get("away") or {}).get("team") or {}
+    if home.get("id") != PADRES["team_id"] or (g.get("venue") or {}).get("id") != PADRES["venue_id"]:
+        return None
+    state = ((g.get("status") or {}).get("detailedState") or "")
+    try:
+        start = datetime.fromisoformat(str(g["gameDate"]).replace("Z", "+00:00")).astimezone(TZ)
+    except (KeyError, ValueError):
+        return None
+    tbd = (g.get("status") or {}).get("startTimeTBD")
+    return {
+        "title": clean(f"Padres vs. {away.get('name') or 'TBD'}", 160),
+        "date": start.date().isoformat(),
+        "time": None if tbd else start.strftime("%H:%M"),
+        "end_date": None,
+        "venue": "Petco Park",
+        "where": "Petco Park, San Diego, CA",
+        "url": f"https://www.mlb.com/gameday/{g['gamePk']}" if g.get("gamePk") else "https://www.mlb.com/padres/schedule",
+        "text": "Baseball MLB",
+        "source": "MLB",
+        "hint": [PADRES["category"]],
+        "cancelled": bool(re.search(r"postponed|cancel", state, re.I)),
+    }
+
+
 def from_ticketmaster(r):
     d = (r.get("dates") or {}).get("start") or {}
     if not d.get("localDate"):
@@ -425,16 +525,42 @@ PLACE_NAMES_RE = re.compile(
     r"|\bmission (valley|hills)\b|\btorrey pines\b|\bsorrento valley\b", re.I)
 
 
+def is_music(e):
+    return bool(MUSIC_RE.search(f"{e['title']} {e.get('text') or ''}"))
+
+
 def tags_for(e, query_category=None):
     # Title and description only: venue names mislead ("Epstein Family Amphitheater"
     # isn't a family event), and so do neighborhood names ("Pacific Beach Library").
-    hay = PLACE_NAMES_RE.sub(" ", f"{e['title']} {e['text']}")
-    tags = [name for name, rx in INTEREST_RES.items() if rx.search(hay)]
+    # Categories marked "places" also look at the venue and address.
+    hay = PLACE_NAMES_RE.sub(" ", f"{e['title']} {e.get('text') or ''}")
+    where = f"{e.get('venue') or ''} {e.get('where') or ''}"
+    music = is_music(e)
+    tags = []
+    for name, rx in INTEREST_RES.items():
+        spec = INTERESTS[name]
+        if spec.get("music") and not music:
+            continue
+        if rx.search(hay) or (spec.get("places") and rx.search(where)):
+            tags.append(name)
     for extra in list(e.get("hint") or []) + ([query_category] if query_category else []):
         if extra in INTERESTS and extra not in tags:
+            # strict categories only count when their words match (checked above)
+            if INTERESTS[extra].get("strict"):
+                continue
             tags.append(extra)
     order = list(INTERESTS)
     return sorted(tags, key=order.index)
+
+
+def final_tags(e, query_category=None):
+    """Tags for an event, the catch-all for plain non-music events, or [] to drop it."""
+    tags = tags_for(e, query_category)
+    if tags:
+        return tags
+    if OTHER_CATEGORY and e.get("source") == "Google" and not is_music(e):
+        return [OTHER_CATEGORY]
+    return []
 
 
 def in_san_diego_area(e):
@@ -460,15 +586,18 @@ def keep(e, today):
     return True
 
 
-def merge(saved, found, today, now_iso):
-    """saved: {key: event}; found: list of (event, tags). Returns the new dict."""
+def merge(saved, found, today, now_iso, tm_ok=False, padres_ok=False):
+    """saved: {key: event}; found: list of (event, tags). Returns the new dict.
+    Every event, saved or new, is re-checked against the current rules at the end."""
     out = dict(saved)
+    seen_now = set()
     for e, tags in found:
         k = event_key(e)
         old = out.get(k)
         if e["cancelled"]:
             out.pop(k, None)
             continue
+        seen_now.add(k)
         rec = {
             "id": k,
             "title": e["title"],
@@ -476,9 +605,13 @@ def merge(saved, found, today, now_iso):
             "time": e["time"],
             "end_date": e["end_date"],
             "venue": e["venue"],
+            "where": e.get("where") or "",
             "url": e["url"],
             "tags": tags,
             "source": e["source"],
+            # kept so saved events can be re-checked when the rules change
+            "text": (e.get("text") or "")[:300],
+            "hint": sorted(set(e.get("hint") or []) | ({e["_query"]} if e.get("_query") in tags else set())),
             "first_seen": now_iso,
             "last_seen": now_iso,
         }
@@ -487,6 +620,11 @@ def merge(saved, found, today, now_iso):
             rec["first_seen"] = old.get("first_seen", now_iso)
         elif old:
             rec["first_seen"] = old.get("first_seen", now_iso)
+            # keep what each source knew (descriptions, the categories it was found under)
+            if old.get("text") and old.get("text") not in rec["text"]:
+                rec["text"] = f"{rec['text']} {old['text']}"[:400]
+            rec["hint"] = sorted(set(rec["hint"]) | set(old.get("hint") or []))
+            rec["where"] = rec["where"] or old.get("where") or ""
             # Combine what both sources know: Ticketmaster has reliable times/links,
             # Google has better descriptions (already used for tags).
             rec["tags"] = sorted(set(old.get("tags", [])) | set(tags),
@@ -509,6 +647,23 @@ def merge(saved, found, today, now_iso):
         seen = datetime.fromisoformat(e["last_seen"]).date()
         if last_day < today or seen < cutoff:
             del out[k]
+            continue
+        # Ticketmaster and MLB re-list everything in their window on every run, so a
+        # saved one they no longer list (sold out, removed, or no longer matching) goes.
+        if k not in seen_now and ((tm_ok and e.get("source") == "Ticketmaster") or (padres_ok and e.get("source") == "MLB")):
+            days_out = (date.fromisoformat(e["date"]) - today).days
+            if days_out <= (TM_DAYS_AHEAD if e.get("source") == "Ticketmaster" else PADRES["days_ahead"]):
+                del out[k]
+                continue
+        # re-check against the current rules (so edits to INTERESTS / EXCLUDE apply)
+        if EXCLUDE_RE.search(f"{e['title']} {e.get('text') or ''}"):
+            del out[k]
+            continue
+        tags = final_tags(e)
+        if not tags:
+            del out[k]
+            continue
+        e["tags"] = tags
 
     # Same show listed twice under slightly different names ("Halloween Spooktacular" and
     # "San Diego Symphony: Halloween Spooktacular"): same day and start time, and one
@@ -542,9 +697,11 @@ def load_saved():
         return {}, {}
 
 
-def todays_category(today):
+def todays_categories(today):
     names = list(INTERESTS)
-    return names[today.toordinal() % len(names)]
+    n = len(names)
+    first = (today.toordinal() * SERPAPI_CATEGORIES_PER_DAY) % n
+    return [names[(first + i) % n] for i in range(min(SERPAPI_CATEGORIES_PER_DAY, n))]
 
 
 def main(argv=None):
@@ -552,7 +709,8 @@ def main(argv=None):
     ap.add_argument("--fixtures", help="read API responses from this folder instead of the internet")
     ap.add_argument("--dry-run", action="store_true", help="print the result, don't write docs/events.json")
     ap.add_argument("--today", help="pretend today is YYYY-MM-DD (testing)")
-    ap.add_argument("--category", help="search this interest category today instead of the rotation")
+    ap.add_argument("--category", action="append",
+                    help="search this interest category today instead of the rotation (can repeat)")
     args = ap.parse_args(argv)
 
     now = datetime.now(TZ)
@@ -568,12 +726,13 @@ def main(argv=None):
     previous, saved = load_saved()
     found = []
     status = {}
-    category = args.category or todays_category(today)
-    if category not in INTERESTS:
-        sys.exit(f"Unknown category {category!r}. Choose from: {', '.join(INTERESTS)}")
+    categories_today = [c.strip() for c in (args.category or []) if c.strip()] or todays_categories(today)
+    for c in categories_today:
+        if c not in INTERESTS:
+            sys.exit(f"Unknown category {c!r}. Choose from: {', '.join(INTERESTS)}")
 
     # ---- Google Events via SerpApi --------------------------------------
-    s = {"ok": False, "category": category, "searches_used": 0, "found": 0}
+    s = {"ok": False, "category": " + ".join(categories_today), "searches_used": 0, "found": 0}
     if not serp_key:
         s["note"] = "SERPAPI_KEY not set"
     else:
@@ -587,23 +746,23 @@ def main(argv=None):
                                      chips=SERPAPI_GENERAL_CHIPS)
                 s["searches_used"] += 1
                 batch = [(r, None) for r in raw]
-                spec = INTERESTS[category]
-                for page in range(SERPAPI_CATEGORY_PAGES):
-                    raw = serpapi_search(fetch, serp_key, f"serpapi_category_{page}", spec["query"],
-                                         start=page * 10)
-                    s["searches_used"] += 1
-                    batch += [(r, category) for r in raw]
-                    if len(raw) < 10:
-                        break   # no more pages; don't pay for an empty one
+                for ci, category in enumerate(categories_today):
+                    spec = INTERESTS[category]
+                    for page in range(SERPAPI_CATEGORY_PAGES):
+                        raw = serpapi_search(fetch, serp_key, f"serpapi_category_{ci}_{page}", spec["query"],
+                                             start=page * 10)
+                        s["searches_used"] += 1
+                        batch += [(r, category) for r in raw]
+                        if len(raw) < 10:
+                            break   # no more pages; don't pay for an empty one
                 for r, cat in batch:
                     e = from_google(r, today)
                     if not keep(e, today):
                         continue
-                    tags = tags_for(e, cat)
+                    e["_query"] = cat
+                    tags = final_tags(e, cat)
                     if not tags:
-                        if OTHER_CATEGORY is None:
-                            continue
-                        tags = [OTHER_CATEGORY]
+                        continue
                     found.append((e, tags))
                     s["found"] += 1
                 s["ok"] = True
@@ -621,7 +780,7 @@ def main(argv=None):
                 e = from_ticketmaster(r)
                 if not keep(e, today):
                     continue
-                tags = tags_for(e)
+                tags = final_tags(e)
                 if not tags:
                     t["dropped_no_interest"] += 1
                     continue
@@ -632,7 +791,23 @@ def main(argv=None):
             t["error"] = str(ex)[:300]
     status["ticketmaster"] = t
 
-    events = merge(saved, found, today, now_iso)
+    # ---- Padres home games (MLB, no key) ------------------------------------
+    pd = {"ok": False, "found": 0}
+    try:
+        for g in padres_pull(fetch, now):
+            e = from_mlb(g)
+            if not e or not keep(e, today):
+                continue
+            tags = final_tags(e)
+            if tags:
+                found.append((e, tags))
+                pd["found"] += 1
+        pd["ok"] = True
+    except Exception as ex:
+        pd["error"] = str(ex)[:300]
+    status["padres"] = pd
+
+    events = merge(saved, found, today, now_iso, tm_ok=t["ok"], padres_ok=pd["ok"])
     ordered = sorted(events.values(), key=lambda e: (e["date"], e["time"] or "99", e["title"].lower()))
     categories = list(INTERESTS) + ([OTHER_CATEGORY] if OTHER_CATEGORY else [])
 

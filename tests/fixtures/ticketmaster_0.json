@@ -2,8 +2,173 @@
  "_embedded": {
   "events": [
    {
+    "name": "The Aquabats!",
+    "url": "https://www.ticketmaster.com/event/X357489",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-24",
+      "localTime": "20:00:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Ska"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "House of Blues San Diego",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Rocket From The Crypt",
+    "url": "https://www.ticketmaster.com/event/X506613",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-24",
+      "localTime": "18:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Punk"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "House of Blues San Diego",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Generic Pop Star",
+    "url": "https://www.ticketmaster.com/event/X79473",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-23",
+      "localTime": "20:00:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Music"
+      },
+      "genre": {
+       "name": "Pop"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Pechanga Arena",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "San Diego Gulls vs. Ontario Reign",
+    "url": "https://www.ticketmaster.com/event/X862772",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-25",
+      "localTime": "17:00:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Sports"
+      },
+      "genre": {
+       "name": "Hockey"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Pechanga Arena",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "San Diego FC vs. LA Galaxy",
+    "url": "https://www.ticketmaster.com/event/X386959",
+    "dates": {
+     "start": {
+      "localDate": "2026-10-26",
+      "localTime": "19:30:00"
+     },
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "segment": {
+       "name": "Sports"
+      },
+      "genre": {
+       "name": "Soccer"
+      }
+     }
+    ],
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Snapdragon Stadium",
+       "city": {
+        "name": "San Diego"
+       }
+      }
+     ]
+    }
+   },
+   {
     "name": "San Diego Symphony: Halloween Spooktacular",
-    "url": "https://www.ticketmaster.com/event/X467304",
+    "url": "https://www.ticketmaster.com/event/X718933",
     "dates": {
      "start": {
       "localDate": "2026-10-25",
@@ -36,7 +201,7 @@
    },
    {
     "name": "Padres vs Dodgers",
-    "url": "https://www.ticketmaster.com/event/X609492",
+    "url": "https://www.ticketmaster.com/event/X420607",
     "dates": {
      "start": {
       "localDate": "2026-10-21",
@@ -69,7 +234,7 @@
    },
    {
     "name": "Parking: Padres vs Dodgers",
-    "url": "https://www.ticketmaster.com/event/X603944",
+    "url": "https://www.ticketmaster.com/event/X842328",
     "dates": {
      "start": {
       "localDate": "2026-10-21",
@@ -102,7 +267,7 @@
    },
    {
     "name": "Disney On Ice",
-    "url": "https://www.ticketmaster.com/event/X212190",
+    "url": "https://www.ticketmaster.com/event/X821529",
     "dates": {
      "start": {
       "localDate": "2026-10-30",
@@ -135,7 +300,7 @@
    },
    {
     "name": "Hamilton",
-    "url": "https://www.ticketmaster.com/event/X812345",
+    "url": "https://www.ticketmaster.com/event/X535869",
     "dates": {
      "start": {
       "localDate": "2026-10-28",
@@ -168,7 +333,7 @@
    },
    {
     "name": "Cancelled Rock Show",
-    "url": "https://www.ticketmaster.com/event/X329258",
+    "url": "https://www.ticketmaster.com/event/X93949",
     "dates": {
      "start": {
       "localDate": "2026-10-26",
@@ -201,7 +366,7 @@
    },
    {
     "name": "Halloween Spooktacular",
-    "url": "https://www.ticketmaster.com/event/X831405",
+    "url": "https://www.ticketmaster.com/event/X590785",
     "dates": {
      "start": {
       "localDate": "2026-10-25",
@@ -234,7 +399,7 @@
    },
    {
     "name": "Jazz at the Athenaeum",
-    "url": "https://www.ticketmaster.com/event/X798921",
+    "url": "https://www.ticketmaster.com/event/X207047",
     "dates": {
      "start": {
       "localDate": "2026-10-23",

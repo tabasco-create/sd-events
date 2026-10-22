@@ -33,8 +33,8 @@ cat1 = [
 ]
 json.dump({"total_searches_left": 212, "plan_searches_left": 212}, open(out / "serpapi_account.json", "w"))
 json.dump({"events_results": general}, open(out / "serpapi_general.json", "w"), indent=1)
-json.dump({"events_results": cat0}, open(out / "serpapi_category_0.json", "w"), indent=1)
-json.dump({"events_results": cat1}, open(out / "serpapi_category_1.json", "w"), indent=1)
+json.dump({"events_results": cat0}, open(out / "serpapi_category_0_0.json", "w"), indent=1)
+json.dump({"events_results": cat1}, open(out / "serpapi_category_1_0.json", "w"), indent=1)
 
 def tm(name, d, t, venue, seg, genre, status="onsale", city="San Diego"):
     return {"name": name, "url": "https://www.ticketmaster.com/event/X" + str(abs(hash(name)) % 10**6),
@@ -43,6 +43,11 @@ def tm(name, d, t, venue, seg, genre, status="onsale", city="San Diego"):
             "_embedded": {"venues": [{"name": venue, "city": {"name": city}}]}}
 
 tm_events = [
+    tm("The Aquabats!", "2026-10-24", "20:00:00", "House of Blues San Diego", "Music", "Ska"),
+    tm("Rocket From The Crypt", "2026-10-24", "18:30:00", "House of Blues San Diego", "Music", "Punk"),
+    tm("Generic Pop Star", "2026-10-23", "20:00:00", "Pechanga Arena", "Music", "Pop"),
+    tm("San Diego Gulls vs. Ontario Reign", "2026-10-25", "17:00:00", "Pechanga Arena", "Sports", "Hockey"),
+    tm("San Diego FC vs. LA Galaxy", "2026-10-26", "19:30:00", "Snapdragon Stadium", "Sports", "Soccer"),
     tm("San Diego Symphony: Halloween Spooktacular", "2026-10-25", "19:30:00", "The Rady Shell at Jacobs Park", "Music", "Classical"),
     tm("Padres vs Dodgers", "2026-10-21", "18:40:00", "Petco Park", "Sports", "Baseball"),
     tm("Parking: Padres vs Dodgers", "2026-10-21", "16:40:00", "Petco Park", "Miscellaneous", "Undefined"),
@@ -53,4 +58,18 @@ tm_events = [
     tm("Jazz at the Athenaeum", "2026-10-23", "19:30:00", "Athenaeum Music & Arts Library", "Music", "Jazz", city="La Jolla"),
 ]
 json.dump({"_embedded": {"events": tm_events}, "page": {"number": 0, "totalPages": 1}}, open(out / "ticketmaster_0.json", "w"), indent=1)
+mlb = {"dates": [{"games": [
+    {"gamePk": 900001, "gameDate": "2026-10-27T01:40:00Z", "status": {"detailedState": "Scheduled"},
+     "teams": {"home": {"team": {"id": 135, "name": "San Diego Padres"}}, "away": {"team": {"id": 119, "name": "Los Angeles Dodgers"}}},
+     "venue": {"id": 2680, "name": "Petco Park"}},
+    {"gamePk": 900002, "gameDate": "2026-10-28T02:10:00Z", "status": {"detailedState": "Scheduled"},
+     "teams": {"home": {"team": {"id": 119, "name": "Los Angeles Dodgers"}}, "away": {"team": {"id": 135, "name": "San Diego Padres"}}},
+     "venue": {"id": 22, "name": "Dodger Stadium"}},
+]}]}
+json.dump(mlb, open(out / "mlb.json", "w"), indent=1)
+json.dump({"events_results": [
+    g("Tuesday Trivia Night", "Oct 21", "Tue, Oct 21, 7 – 9 PM", ["Mike Hess Brewing, 3812 Grim Ave", "San Diego, CA"], "Free pub trivia."),
+    g("December Nights Preview", "Oct 25", "Sat, Oct 25, 5 – 9 PM", ["Balboa Park, 1549 El Prado", "San Diego, CA"], "Lights and music."),
+    g("Smooth Jazz Brunch", "Oct 26", "Sun, Oct 26, 11 AM – 2 PM", ["Some Lounge", "San Diego, CA"], "Live jazz band."),
+]}, open(out / "serpapi_general.json", "w"), indent=1)
 print("fixtures written to", out)

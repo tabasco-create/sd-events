@@ -3,10 +3,13 @@ name: Update San Diego events
 on:
   schedule:
     - cron: "23 12 * * *"     # daily, ~5:20am Pacific (4:20am in winter)
+  push:
+    branches: [main]
+    paths: ["fetch_events.py"]   # run right away when the rules change
   workflow_dispatch:
     inputs:
       category:
-        description: "Search this interest category today instead of the rotation (optional)"
+        description: "Search this interest category today instead of the rotation (optional, one category)"
         required: false
         default: ""
 
