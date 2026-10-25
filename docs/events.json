@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T06:00:04-07:00",
- "checked": "2026-10-24T06:00:04-07:00",
+ "updated": "2026-10-25T06:00:26-07:00",
+ "checked": "2026-10-25T06:00:26-07:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -18,15 +18,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Beach & outdoors + Arts & museums",
+   "category": "Makers & knives + Tech meetups",
    "searches_used": 3,
-   "found": 55,
-   "searches_left_before": 234
+   "found": 51,
+   "searches_left_before": 231
   },
   "ticketmaster": {
    "ok": true,
-   "found": 79,
-   "dropped_no_interest": 158
+   "found": 72,
+   "dropped_no_interest": 161
   },
   "padres": {
    "ok": true,
@@ -34,687 +34,6 @@
   }
  },
  "events": [
-  {
-   "id": "b60e87d55595",
-   "title": "ND Club of San Diego Run/Walk Group Meetup",
-   "date": "2026-10-24",
-   "time": "07:00",
-   "end_date": null,
-   "venue": "Fletcher Cove Beach Park",
-   "where": "Fletcher Cove Beach Park, Solana Beach, CA",
-   "url": "https://www.facebook.com/events/fletcher-cove-beach-park/nd-club-of-san-diego-runwalk-group-meetup/1397254505809005/",
-   "tags": [
-    "Beach & outdoors",
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "a251166d237d",
-   "title": "Torrey Pines Hike + Beach Picnic Tour",
-   "date": "2026-10-24",
-   "time": "08:00",
-   "end_date": null,
-   "venue": "Five Star Tours & Charter Bus Company",
-   "where": "Five Star Tours & Charter Bus Company, Downtown San Diego",
-   "url": "https://www.eventbrite.com/e/1981891778661?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "ade36c5f303e",
-   "title": "Yoga at the Beach",
-   "date": "2026-10-24",
-   "time": "09:00",
-   "end_date": null,
-   "venue": "Kate Sessions Memorial Park",
-   "where": "Kate Sessions Memorial Park, Pacific Beach",
-   "url": "https://www.eventbrite.com/e/1331419033169?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "148ac0529fe8",
-   "title": "Guided Nature Walks From the Mission Trails Visitor Center",
-   "date": "2026-10-24",
-   "time": "09:30",
-   "end_date": null,
-   "venue": "Mission Trails Regional Park",
-   "where": "Mission Trails Regional Park, San Diego, CA",
-   "url": "https://www.facebook.com/events/1-father-junipero-serra-trl-san-diego-ca-united-states-california-92119/guided-nature-walks-every-saturday-from-the-mission-trails-visitor-center/2591936991278871/",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "3f760a2423c4",
-   "title": "Lego Club",
-   "date": "2026-10-24",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "Tierrasanta Branch Library",
-   "where": "Tierrasanta Branch Library, San Diego, CA",
-   "url": "https://www.sandiego.gov/public-library/locations/tierrasanta-library",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "6872e0179d43",
-   "title": "Paws to Read",
-   "date": "2026-10-24",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "Logan Heights Library",
-   "where": "Logan Heights Library, San Diego, CA",
-   "url": "https://sdhumane.org/el/event/paws-to-read-at-logan-heights-library/2026-10-24/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "e5e2109a27ec",
-   "title": "Trunk or Treat",
-   "date": "2026-10-24",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "San Diego Automotive Museum",
-   "where": "San Diego Automotive Museum, Balboa Park",
-   "url": null,
-   "tags": [
-    "Family & kids",
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "18ad08dd6a6f",
-   "title": "Dance Pants Jam",
-   "date": "2026-10-24",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "Carmel Mountain Ranch Branch Library",
-   "where": "Carmel Mountain Ranch Branch Library, Carmel Mountain Ranch",
-   "url": "https://www.sandiego.gov/public-library/locations/carmel-mountain-ranch-library",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "f79d084cd4a4",
-   "title": "Family Art Adventures",
-   "date": "2026-10-24",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "The San Diego Museum of Art",
-   "where": "The San Diego Museum of Art, Balboa Park",
-   "url": "https://www.sdmart.org/event/family-art-adventures-sdma-2026/2026-10-24/",
-   "tags": [
-    "Family & kids",
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums",
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "c5cdc5195e5e",
-   "title": "Saturday Stories",
-   "date": "2026-10-24",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "San Diego Central Library",
-   "where": "San Diego Central Library, East Village",
-   "url": "https://www.sandiegouniontribune.com/2026/04/19/bigger-than-ever-san-diego-book-crawl-returns-for-its-ninth-year/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "e26a1b592ccc",
-   "title": "San Diego Symphony for Kids: Meet The Strings: Twinkle, Twinkle Little Star",
-   "date": "2026-10-24",
-   "time": "11:30",
-   "end_date": null,
-   "venue": "Jacobs Music Center",
-   "where": "Jacobs Music Center, East Village",
-   "url": "https://seatgeek.com/san-diego-symphony-kids-tickets/orchestral/2026-10-24-11-30-am/18308506?gclsrc={GOOGLE-ADS-CLICK-SOURCE}&refob=mta&ref_price=36.37",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "22a249cde50b",
-   "title": "Sip, Soar & Celebrate",
-   "date": "2026-10-24",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "Plaza de Panama",
-   "where": "Plaza de Panama, Balboa Park",
-   "url": "https://www.sandiego.org/events-festivals/sip-soar-and-celebrate-in-balboa-park/b9476863c93311f1a7f2",
-   "tags": [
-    "Family & kids",
-    "Balboa Park"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "aa4f2fd7e20c",
-   "title": "The 4th Annual Hillcrest Food Crawl",
-   "date": "2026-10-24",
-   "time": "13:30",
-   "end_date": null,
-   "venue": "The Brass Rail",
-   "url": "https://www.eventbrite.com/e/1994103284604?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
-  },
-  {
-   "id": "668aa33501cf",
-   "title": "Oktoberfest",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "end_date": null,
-   "venue": "Citizen Brewers",
-   "where": "Citizen Brewers, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2002918171167?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
-  },
-  {
-   "id": "045f6e75e886",
-   "title": "Pumpkin Painting Party!",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "end_date": null,
-   "venue": "Gaslamp Museum at the Davis-Horton House",
-   "where": "Gaslamp Museum at the Davis-Horton House, Gaslamp Quarter",
-   "url": null,
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "480c2f3f1901",
-   "title": "Hispanic Cultural Heritage Celebration",
-   "date": "2026-10-24",
-   "time": "14:30",
-   "end_date": null,
-   "venue": "The Salvation Army Kroc Center",
-   "where": "The Salvation Army Kroc Center, San Diego, CA",
-   "url": "https://www.facebook.com/events/6845-university-ave-san-diego-ca-united-states-california-92115/hispanic-cultural-heritage-celebration/1389208042754054/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "ed777c8d3474",
-   "title": "Communal Bottle Night!",
-   "date": "2026-10-24",
-   "time": "16:00",
-   "end_date": null,
-   "venue": "Le Charcuterie Bar",
-   "where": "Le Charcuterie Bar, San Diego, CA",
-   "url": "https://www.lecharcuteriecheesebar.com/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:14:06-07:00"
-  },
-  {
-   "id": "b5ab275a6e9a",
-   "title": "Apertura Opening Reception",
-   "date": "2026-10-24",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Athenaeum Art Center",
-   "where": "Athenaeum Art Center, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "95d31652f41c",
-   "title": "Dia de los Muertos Celebration – House of Mexico Annual Fundraiser",
-   "date": "2026-10-24",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Barra Barra",
-   "where": "Barra Barra, Old Town",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-23T06:04:41-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
-  },
-  {
-   "id": "d0d533acd8b0",
-   "title": "Marc Maron: Yammering into the Void Tour",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "The Magnolia",
-   "where": "The Magnolia, El Cajon",
-   "url": "https://www.ticketmaster.com/marc-maron-yammering-into-the-void-el-cajon-california-10-24-2026/event/0B00647FB4615609",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Comedy Comedy",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "8ccb2b3fa378",
-   "title": "Midway Fright Deck",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "USS Midway Museum",
-   "where": "USS Midway Museum, Embarcadero",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-23T06:04:41-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
-  },
-  {
-   "id": "59c28887bbe9",
-   "title": "San Diego Gulls vs. San Jose Barracuda",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Pechanga Arena San Diego",
-   "where": "Pechanga Arena San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZxFk",
-   "tags": [
-    "Local sports"
-   ],
-   "source": "Ticketmaster",
-   "text": "Sports Hockey Minor League",
-   "hint": [],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "292b75d47153",
-   "title": "Rocket From The Crypt - Scream, Frankenstein, Scream! Tour 2026",
-   "date": "2026-10-24",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "House of Blues San Diego",
-   "where": "House of Blues San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/rocket-from-the-crypt-scream-frankenstein-san-diego-california-10-24-2026/event/0A0064F6C3D69FD4",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "512f4a76b6c4",
-   "title": "Dragon Ball Z Twisted Trivia",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "U-31",
-   "where": "U-31, North Park",
-   "url": null,
-   "tags": [
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Trivia"
-   ],
-   "first_seen": "2026-10-23T06:04:41-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
-  },
-  {
-   "id": "1fa36fda2ff9",
-   "title": "Movie Night: Toy Story 5",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "San Diego Air & Space Museum",
-   "where": "San Diego Air & Space Museum, Balboa Park",
-   "url": "https://www.facebook.com/events/2001-pan-american-plz-san-diego-ca-united-states-california-92101/movie-night-toy-story-5/2181638806569993/",
-   "tags": [
-    "Family & kids",
-    "Balboa Park"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "0169b56e8944",
-   "title": "The Wldlfe",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Voodoo Room at the House of Blues San Diego",
-   "where": "Voodoo Room at the House of Blues San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/the-wldlfe-san-diego-california-10-24-2026/event/0A0064D2EA5010A7",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "f5d4ad956070",
-   "title": "City Ballet Of San Diego Presents: American Icons",
-   "date": "2026-10-24",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "Balboa Theatre",
-   "where": "Balboa Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/city-ballet-of-san-diego-presents-san-diego-california-10-24-2026/event/0A00650DE84079D6",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Dance Dance",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "edf2284506bc",
-   "title": "San Diego FC vs Seattle Sounders FC",
-   "date": "2026-10-24",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "Snapdragon Stadium",
-   "where": "Snapdragon Stadium, San Diego",
-   "url": "https://www.ticketmaster.com/san-diego-fc-vs-seattle-sounders-san-diego-california-10-24-2026/event/0A006427D5DB6F73",
-   "tags": [
-    "Local sports"
-   ],
-   "source": "Ticketmaster",
-   "text": "Sports Soccer MLS",
-   "hint": [],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "67159dcb2da8",
-   "title": "San Diego Opera Presents: RIGOLETTO",
-   "date": "2026-10-24",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "San Diego Civic Theatre",
-   "where": "San Diego Civic Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/san-diego-opera-presents-rigoletto-san-diego-california-10-24-2026/event/0A00650B920C7EF6",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Opera Opera",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "43c0cfce43cf",
-   "title": "Spooky Feels: A Halloween Indie Rock + Electronic Dance Party - 18+",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "The Observatory North Park",
-   "where": "The Observatory North Park, San Diego",
-   "url": "https://www.ticketmaster.com/spooky-feels-a-halloween-indie-rock-san-diego-california-10-24-2026/event/0B006530D5AE26AE",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Dance/Electronic Amapiano",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "ae562daf8992",
-   "title": "City of the Sun (21 and Over)",
-   "date": "2026-10-24",
-   "time": "20:30",
-   "end_date": null,
-   "venue": "Casbah-San Diego",
-   "where": "Casbah-San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZwAp",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "30e8326aeda2",
-   "title": "Chris Estrada",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "end_date": null,
-   "venue": "The American Comedy Co.",
-   "where": "The American Comedy Co., San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xqP",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Comedy Comedy",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "9ad6423ceb77",
-   "title": "Halloween Bar Crawl | Party With Us",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "end_date": null,
-   "venue": "TORO",
-   "where": "TORO, Gaslamp Quarter",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-23T06:04:41-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
-  },
-  {
-   "id": "8b5763ed6894",
-   "title": "Karaoke Nights",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "end_date": null,
-   "venue": "Werewolf",
-   "where": "Werewolf, Gaslamp Quarter",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-23T06:04:41-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
-  },
-  {
-   "id": "3616771b2bec",
-   "title": "Beachside Fall Fest",
-   "date": "2026-10-24",
-   "time": null,
-   "end_date": null,
-   "venue": "Belmont Park",
-   "where": "Belmont Park, Mission Beach",
-   "url": "https://www.instagram.com/reel/DedIDjCO9lA/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
   {
    "id": "8e87aafcc4a8",
    "title": "A Space for All of Us",
@@ -793,7 +112,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "0e97d28d5967",
@@ -813,7 +132,27 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "2919b4d0494c",
+   "title": "SD CoLab - Laser Safety and Basic Operation",
+   "date": "2026-10-25",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "San Diego CoLab",
+   "where": "San Diego CoLab, San Diego, CA",
+   "url": "https://secure.qgiv.com/for/sdcapcolabevents/event/laser_oct25",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "0eca2cb8adcd",
@@ -871,7 +210,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "a8afefcc81ce",
@@ -889,7 +228,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "5e6fa60da979",
@@ -909,7 +248,27 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "51536f4a8599",
+   "title": "IDEAS - Meridian Tower - by PhantaForma",
+   "date": "2026-10-26",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "Atkinson Hall",
+   "where": "Atkinson Hall, Torrey Pines",
+   "url": "https://www.eventbrite.com/e/ideas-meridian-tower-by-phantaforma-tickets-2003432225718",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "0bdc36ca9400",
@@ -969,7 +328,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "aadc58400f1e",
@@ -1002,7 +361,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "04eb67565cd1",
@@ -1020,7 +379,27 @@
    "text": "Music Alternative Alternative Music Reggae Reggae",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "40a20f87374f",
+   "title": "Tinker Tuesday",
+   "date": "2026-10-27",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Mission Hills - Hillcrest/Knox Branch Library",
+   "where": "Mission Hills - Hillcrest/Knox Branch Library, Hillcrest",
+   "url": "https://www.facebook.com/missionhillslibrary/posts/with-october-arriving-its-a-perfect-time-to-come-to-our-tinker-tuesday-and-craft/1516222737206339/",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "6a7f3c662500",
@@ -1041,6 +420,46 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "da24eec9f152",
+   "title": "Unholy Confessions",
+   "date": "2026-10-27",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Made Factory",
+   "where": "San Diego Made Factory, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "92a7578592f3",
+   "title": "VibeCraft Power Hour",
+   "date": "2026-10-28",
+   "time": "07:45",
+   "end_date": null,
+   "venue": "Ansir Innovation Center",
+   "where": "Ansir Innovation Center, San Diego, CA",
+   "url": "https://ansirsd.com/",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "3c5bd64967b2",
@@ -1099,7 +518,7 @@
   },
   {
    "id": "d11e0b7fa001",
-   "title": "Patchworks Presents Fall Craft Party - Fall Sun Catchers + Chunky Pumpkins!",
+   "title": "Patchworks Presents Fall Craft Party - Fall Sun Catchers + Chunky Pumpkins",
    "date": "2026-10-28",
    "time": "18:30",
    "end_date": null,
@@ -1107,15 +526,17 @@
    "where": "Mike Hess Brewing, North Park, San Diego, CA",
    "url": "https://www.eventbrite.com/e/1998516240875?aff=ebdiglgoogleliveevents",
    "tags": [
-    "Food & beer"
+    "Food & beer",
+    "Makers & knives"
    ],
    "source": "Google",
    "text": "",
    "hint": [
-    "Food & beer"
+    "Food & beer",
+    "Makers & knives"
    ],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "ee53888a9d8f",
@@ -1133,7 +554,7 @@
    "text": "Film Family Miscellaneous",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "ff260651877b",
@@ -1151,7 +572,7 @@
    "text": "Music Pop Pop Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "7d68a497eac2",
@@ -1172,6 +593,26 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "e1ddc3edaa09",
+   "title": "Practical AI for Professionals: 1 Day Session",
+   "date": "2026-10-29",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Regus",
+   "where": "Regus, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1993986180342?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "14993a66ed05",
@@ -1268,7 +709,7 @@
    "text": "Music Rock Alternative Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "b0f1c9aedd8f",
@@ -1306,7 +747,27 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "3f2b4dc44e18",
+   "title": "Generative AI Applications: 1 Day Masterclass",
+   "date": "2026-10-30",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Regus",
+   "where": "Regus, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "ffb6233b1328",
@@ -1436,7 +897,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "6a52fa287516",
@@ -1454,7 +915,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "09742b5abc10",
@@ -1474,7 +935,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "70b357a8b38f",
+   "title": "San Diego VIP Nightlife Hopping",
+   "date": "2026-10-30",
+   "time": "20:55",
+   "end_date": null,
+   "venue": "Good Night John Boy",
+   "where": "Good Night John Boy, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1782329468419?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "9de1419320f6",
@@ -1492,7 +971,65 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "75c16e22699a",
+   "title": "San Diego State University vs University of California, San Diego",
+   "date": "2026-10-31",
+   "time": "05:00",
+   "end_date": null,
+   "venue": "SDSU Sports Deck",
+   "where": "SDSU Sports Deck, San Diego, CA",
+   "url": "https://streetlegal.io/events/california/san-diego/ncaa-men-s-soccer-uc-san-diego-tritons-at-san-diego-state-aztecs",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "f768a032a0b9",
+   "title": "Vintage Alley",
+   "date": "2026-10-31",
+   "time": "07:00",
+   "end_date": null,
+   "venue": "Kobey's Swap Meet",
+   "where": "Kobey's Swap Meet, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "f9d3e8275899",
+   "title": "Beginner Spoon Carving Workshop",
+   "date": "2026-10-31",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "San Diego Craft Collective",
+   "where": "San Diego Craft Collective, Liberty Station",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "98c0e8073e1f",
@@ -1535,6 +1072,47 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "87716b698834",
+   "title": "Gaslamp Artisan Market",
+   "date": "2026-10-31",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "5th Avenue Station",
+   "where": "5th Avenue Station, Downtown San Diego",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "da0305befba7",
+   "title": "Nevermore AKM Exhibit",
+   "date": "2026-10-31",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "JustAnotherGallery",
+   "where": "JustAnotherGallery, Barrio Logan",
+   "url": null,
+   "tags": [
+    "Arts & museums",
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "331e5c67209e",
    "title": "Spooky Bake Club",
    "date": "2026-10-31",
@@ -1555,6 +1133,44 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "385a6b615a7c",
+   "title": "Knife Handle Making",
+   "date": "2026-10-31",
+   "time": "12:30",
+   "end_date": null,
+   "venue": "Rockler Woodworking and Hardware - San Diego",
+   "where": "Rockler Woodworking and Hardware - San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "b1ca834e07a8",
+   "title": "Painting Party San Diego",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "Art Scene West",
+   "where": "Art Scene West, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1994623325059?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "827d9a965926",
    "title": "San Diego Gulls vs. Henderson Silver Knights",
    "date": "2026-10-31",
@@ -1570,7 +1186,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "bc89fe5a0712",
@@ -1609,7 +1225,7 @@
    "text": "Music Alternative Electronic Pop Music Other",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "3ac6d7e19ef2",
@@ -1630,6 +1246,26 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "00b8f40ed5a2",
+   "title": "Monthly Maker's Market & Book Swap",
+   "date": "2026-11-01",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Mission Hills Nursery",
+   "where": "Mission Hills Nursery, Mission Hills",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "8630a4fbe80d",
@@ -1663,8 +1299,7 @@
    "url": "https://www.facebook.com/events/the-old-globe/axis-d%C3%ADa-de-los-muertos/1403586244930758/",
    "tags": [
     "Family & kids",
-    "Balboa Park",
-    "Arts & museums"
+    "Balboa Park"
    ],
    "source": "Google",
    "text": "",
@@ -1750,7 +1385,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "1dcd0fab15d8",
@@ -1768,7 +1403,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "74c419b5b627",
@@ -1786,7 +1421,7 @@
    "text": "Music Rock Pop Punk Music Alternative Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "d6c79419dbcc",
@@ -1822,7 +1457,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "114f6575eb2e",
@@ -1840,7 +1475,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "42aa5254578d",
@@ -1863,6 +1498,47 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "2c49b71517c1",
+   "title": "NFT, Digital Art and Cocktails Meetup",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Botanica Art & Cocktail Bar",
+   "where": "Botanica Art & Cocktail Bar, North Park",
+   "url": "https://sandiego.eater.com/2022/7/27/23280557/bonanica-nft-art-gallery-cocktail-bar-restaurant-north-park-san-diego",
+   "tags": [
+    "Food & beer",
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "0f5808d37be4",
+   "title": "San Diego AI Showcase #10",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "11988 El Camino Real Garage",
+   "where": "11988 El Camino Real Garage, San Diego, CA",
+   "url": "https://eventship.com/event/san-diego-ai-showcase-10-north-county-november-2026-san-diego-startup-week",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "a7b25bb08350",
    "title": "Kurt Travis",
    "date": "2026-11-03",
@@ -1878,7 +1554,7 @@
    "text": "Music Rock Post-Hardcore",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "f079bc4ae8f9",
@@ -1898,7 +1574,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "637ccba98167",
@@ -1918,7 +1594,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "a056c6e8aedf",
@@ -1936,7 +1612,27 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "af66cecd5ed1",
+   "title": "San Diego Startup Week",
+   "date": "2026-11-04",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Design and Innovation Building",
+   "where": "Design and Innovation Building, Torrey Pines",
+   "url": "https://calendar.ucsd.edu/event/san-diego-startup-week-at-uc-san-diego",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "1ce299083fa3",
@@ -2016,7 +1712,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "7c7933f46467",
@@ -2034,7 +1730,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "c3a13cfa2c4a",
@@ -2052,7 +1748,7 @@
    "text": "Music Rock Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "9277bda42d81",
@@ -2091,7 +1787,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "95011729788e",
@@ -2129,7 +1825,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "ef65ae58db92",
@@ -2152,6 +1848,26 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "1d8efe74df0e",
+   "title": "Tsunami 2 - AI for Entrepreneurs",
+   "date": "2026-11-06",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Marina Village Conference Center",
+   "where": "Marina Village Conference Center, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2000204799399?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "0bffe1f27334",
    "title": "San Diego Food + Wine Festival",
    "date": "2026-11-06",
@@ -2167,7 +1883,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-23T06:04:41-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "0d73853fcda8",
@@ -2287,7 +2003,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -2303,6 +2019,26 @@
    "source": "Google",
    "first_seen": "2026-10-21T06:08:53-07:00",
    "last_seen": "2026-10-21T06:08:53-07:00"
+  },
+  {
+   "id": "79249b824c71",
+   "title": "San Diego AI Tech & Finance Networking Event",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "ZENTRL Kitchen + Bar - Liberty Station",
+   "where": "ZENTRL Kitchen + Bar - Liberty Station, Liberty Station",
+   "url": "https://www.eventbrite.com/e/1998984113294?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "b1544e8d62dd",
@@ -2322,7 +2058,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "54d78d13cc0b",
@@ -2342,7 +2078,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "7d482ae35c1a",
@@ -2360,7 +2096,7 @@
    "text": "Music Rock Pop Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "47fa0775a726",
@@ -2378,7 +2114,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "1679995c9638",
@@ -2401,6 +2137,26 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "26d0720bc28c",
+   "title": "Annual Local Craft Championships",
+   "date": "2026-11-07",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "ABC San Diego Chapter",
+   "where": "ABC San Diego Chapter, Poway, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "f68b96a9f121",
    "title": "Great Big Family Play Day",
    "date": "2026-11-07",
@@ -2419,6 +2175,46 @@
    ],
    "first_seen": "2026-10-21T17:04:49-07:00",
    "last_seen": "2026-10-21T17:10:00-07:00"
+  },
+  {
+   "id": "17113f820757",
+   "title": "North Park Community Fair",
+   "date": "2026-11-07",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "NORTH PARK VEGAN FOOD POPUP @ North Park Mini Park (2nd Saturdays 12-4pm)",
+   "where": "NORTH PARK VEGAN FOOD POPUP @ North Park Mini Park (2nd Saturdays 12-4pm), North Park",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "c51bab41755e",
+   "title": "Trinity Holiday Bazaar & Craft Faire",
+   "date": "2026-11-07",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Trinity United Methodist Church",
+   "where": "Trinity United Methodist Church, North Park",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "3a7b67cdf503",
@@ -2516,6 +2312,26 @@
    "last_seen": "2026-10-19T17:11:21-07:00"
   },
   {
+   "id": "e3aeecb7837b",
+   "title": "Thrive in the AI Era: Step Forward, Not Aside",
+   "date": "2026-11-07",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Carmel Valley Branch Library",
+   "where": "Carmel Valley Branch Library, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/thrive-in-the-ai-era-step-forward-not-aside-tickets-2003516359364",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "dad5c03bb7e9",
    "title": "Victory At Sea Day",
    "date": "2026-11-07",
@@ -2593,7 +2409,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "79d9d3208ca0",
@@ -2611,7 +2427,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "03fe975a632a",
@@ -2651,7 +2467,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -2671,7 +2487,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -2691,7 +2507,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "d8603e655886",
@@ -2711,7 +2527,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -2792,6 +2608,27 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "5fc7ce4bfcef",
+   "title": "UH ARTS Open Air Gallery",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "San Diego California",
+   "where": "San Diego California, Marina",
+   "url": null,
+   "tags": [
+    "Arts & museums",
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "b7524f76fef8",
    "title": "San Diego Food and Wine Festival - Grand Fiesta - Sunday",
    "date": "2026-11-08",
@@ -2827,7 +2664,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -2847,7 +2684,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "f763eb015b76",
@@ -2865,7 +2702,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -2883,7 +2720,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -2901,7 +2738,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "b23954228d69",
@@ -2919,7 +2756,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "30163a889350",
@@ -2939,7 +2776,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "de0748d6e95c",
@@ -2957,7 +2794,28 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "7d9c57b99087",
+   "title": "Community Market",
+   "date": "2026-11-08",
+   "time": null,
+   "end_date": null,
+   "venue": "WorldBeat Cultural Center",
+   "where": "WorldBeat Cultural Center, Balboa Park",
+   "url": null,
+   "tags": [
+    "Balboa Park",
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "9c62d0d262be",
@@ -3015,7 +2873,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "82a623e9a025",
@@ -3033,7 +2891,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "fa5eea4d5343",
@@ -3107,7 +2965,27 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "71f1013b22ac",
+   "title": "Put an AI Coworker to Work (Hands-On with Perplexity Computer)",
+   "date": "2026-11-11",
+   "time": "07:45",
+   "end_date": null,
+   "venue": "Ansir Innovation Center",
+   "where": "Ansir Innovation Center, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "3eacf702df67",
@@ -3125,7 +3003,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "d55da60e670f",
@@ -3143,7 +3021,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "90f65d8ed023",
@@ -3205,6 +3083,46 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "57381cdd3cc4",
+   "title": "Rust Meetup",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Ansir Innovation Center",
+   "where": "Ansir Innovation Center, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "d32812b964f3",
+   "title": "Machine Learning for Non-Programmers",
+   "date": "2026-11-13",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Regus",
+   "where": "Regus, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "630f535508c0",
    "title": "Bluey's Big Play",
    "date": "2026-11-13",
@@ -3223,7 +3141,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "f7536af9593f",
@@ -3243,7 +3161,27 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "9148df9e843f",
+   "title": "Make Noiz",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Malibu Farm San Diego",
+   "where": "Malibu Farm San Diego, Embarcadero",
+   "url": "https://partiful.com/e/33rVzCrQRRAfIly7d57s",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "f9465e0adc5c",
@@ -3261,7 +3199,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "22b14f89cab1",
@@ -3279,7 +3217,7 @@
    "text": "Music Rock Experimental Rock Music Country Alternative Country Music Alternative Post-Punk Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "34b40f8fa24c",
@@ -3299,7 +3237,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "e5432bbfc0d2",
@@ -3323,6 +3261,27 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "66c60c225964",
+   "title": "Mottainai Market",
+   "date": "2026-11-14",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Recital Hall",
+   "where": "Recital Hall, Balboa Park",
+   "url": null,
+   "tags": [
+    "Balboa Park",
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "fcf620876128",
    "title": "Gaslamp Food Crawl",
    "date": "2026-11-14",
@@ -3336,6 +3295,47 @@
    "source": "Google",
    "first_seen": "2026-10-21T06:08:53-07:00",
    "last_seen": "2026-10-21T06:08:53-07:00"
+  },
+  {
+   "id": "fa4102a9090a",
+   "title": "Bluey's Big Play",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "where": "Balboa Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/blueys-big-play-san-diego-california-11-14-2026/event/0A006466AE5B8430",
+   "tags": [
+    "Family & kids",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Children's Theatre Children's Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "97e288ac86c2",
+   "title": "Heather McDonald",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "The Magnolia",
+   "where": "The Magnolia, El Cajon",
+   "url": "https://www.ticketmaster.com/heather-mcdonald-el-cajon-california-11-14-2026/event/0B00652494AE4597",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Comedy Comedy",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "17098059e1e7",
@@ -3356,6 +3356,44 @@
    ],
    "first_seen": "2026-10-22T06:09:11-07:00",
    "last_seen": "2026-10-22T06:09:11-07:00"
+  },
+  {
+   "id": "c5ad447982ee",
+   "title": "BoomBox - Fall Tour 2026 w/ DGTL CLR",
+   "date": "2026-11-14",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "where": "Music Box, San Diego",
+   "url": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Dance/Electronic Music Alternative Electronic Pop",
+   "hint": [],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "c9b5667727ce",
+   "title": "Make Your Own Gifts - A Handmade Creative Escape",
+   "date": "2026-11-15",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Expressive Arts @ 32nd & Thorn",
+   "where": "Expressive Arts @ 32nd & Thorn, North Park",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "c46f28d452cd",
@@ -3438,6 +3476,26 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "68647fe37f67",
+   "title": "TECHSPO San Diego",
+   "date": "2026-11-17",
+   "time": null,
+   "end_date": null,
+   "venue": "Sheraton San Diego Resort",
+   "where": "Sheraton San Diego Resort, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "3adc129bf448",
    "title": "Flora, Fauna and Fable Juried Exhibit Reception",
    "date": "2026-11-18",
@@ -3499,6 +3557,46 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "cb05a4561aeb",
+   "title": "Work Smarter with AI: Non-Tech Workshop",
+   "date": "2026-11-19",
+   "time": "06:00",
+   "end_date": null,
+   "venue": "Regus",
+   "where": "Regus, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "f006a6b80ff6",
+   "title": "Fintech NerdCon",
+   "date": "2026-11-19",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "San Diego Convention Center",
+   "where": "San Diego Convention Center, Marina",
+   "url": "https://www.fintechnerdcon.com/map",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "bc5de2fd2bdc",
    "title": "Random Acts of Kindness Spree in San Diego",
    "date": "2026-11-20",
@@ -3515,6 +3613,26 @@
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "94e7b21223ee",
+   "title": "Tree of Life's Annual Holiday Handmade Gift Faire",
+   "date": "2026-11-21",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Tree of Life Metaphysical Books and Gifts",
+   "where": "Tree of Life Metaphysical Books and Gifts, Ocean Beach",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "2c6739dd0907",
@@ -3567,15 +3685,37 @@
    "url": "https://www.sandiego.org/events-festivals/ales-n-rails/6139b725c0f311f1a7f2",
    "tags": [
     "Food & beer",
-    "Balboa Park"
+    "Balboa Park",
+    "Makers & knives"
    ],
    "source": "Google",
    "text": "",
    "hint": [
-    "Food & beer"
+    "Food & beer",
+    "Makers & knives"
    ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "cdc256ddc5a4",
+   "title": "Shore and Sage Wellness Market",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "shore and sage wellness market",
+   "where": "shore and sage wellness market, Normal Heights",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "29cd75fd1197",
@@ -3588,7 +3728,8 @@
    "url": "https://www.facebook.com/events/mujeres-brew-house/hispanic-heritage-art-show-fundraiser-to-benefit-the-victims-of-colombia-earthqu/1076345818474545/",
    "tags": [
     "Food & beer",
-    "Arts & museums"
+    "Arts & museums",
+    "Makers & knives"
    ],
    "source": "Google",
    "text": "",
@@ -3615,6 +3756,46 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "18ff31290522",
+   "title": "1-Day Hands-On GenAI Using LangChain & HF",
+   "date": "2026-11-23",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Regus",
+   "where": "Regus, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Tech meetups"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "5e4c06ee902c",
+   "title": "The Upcycle Fashion Show",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "San Diego Made Factory",
+   "where": "San Diego Made Factory, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "726882be51b8",
    "title": "Black Mountain Turkey Burner",
    "date": "2026-11-28",
@@ -3635,22 +3816,64 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "e8d037ded7c8",
+   "title": "Ocean Beach Makers Market",
+   "date": "2026-11-28",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "OB Surf Lodge",
+   "where": "OB Surf Lodge, Ocean Beach",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "e7518efefaf5",
+   "title": "Holiday Art Market",
+   "date": "2026-12-05",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "ArtReach San Diego",
+   "where": "ArtReach San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-10-25T06:00:26-07:00",
+   "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
    "id": "e97e055feead",
    "title": "SONO Fest",
    "date": "2026-12-06",
    "time": "11:00",
    "end_date": null,
    "venue": "SoNo Fest & Chili Cook-Off",
-   "where": "SoNo Fest & Chili Cook-Off, San Diego, CA",
+   "where": "SoNo Fest & Chili Cook-Off, North Park",
    "url": "https://sonofestchilicookoff.com/tickets/",
    "tags": [
-    "Around town"
+    "Makers & knives"
    ],
    "source": "Google",
    "text": "",
-   "hint": [],
+   "hint": [
+    "Makers & knives"
+   ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "b77f946aab9a",
