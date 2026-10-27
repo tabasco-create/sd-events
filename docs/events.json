@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T08:00:10-07:00",
- "checked": "2026-10-26T08:00:10-07:00",
+ "updated": "2026-10-27T06:10:54-07:00",
+ "checked": "2026-10-27T06:10:54-07:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -18,14 +18,14 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Family & kids + Local sports",
+   "category": "Live music + Food & beer",
    "searches_used": 3,
-   "found": 17,
-   "searches_left_before": 228
+   "found": 52,
+   "searches_left_before": 225
   },
   "ticketmaster": {
    "ok": true,
-   "found": 73,
+   "found": 70,
    "dropped_no_interest": 159
   },
   "padres": {
@@ -34,137 +34,6 @@
   }
  },
  "events": [
-  {
-   "id": "51536f4a8599",
-   "title": "IDEAS - Meridian Tower - by PhantaForma",
-   "date": "2026-10-26",
-   "time": "16:00",
-   "end_date": null,
-   "venue": "Atkinson Hall",
-   "where": "Atkinson Hall, Torrey Pines",
-   "url": "https://www.eventbrite.com/e/ideas-meridian-tower-by-phantaforma-tickets-2003432225718",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "0bdc36ca9400",
-   "title": "Lego Playtime",
-   "date": "2026-10-26",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "North Park Branch Library",
-   "where": "North Park Branch Library, North Park",
-   "url": "https://www.facebook.com/NPKBECPL/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "533271b533e6",
-   "title": "Hunter Moon: A Spooky Full Moon Hike",
-   "date": "2026-10-26",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "Peñasquitos Creek Park Trailhead",
-   "where": "Peñasquitos Creek Park Trailhead, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2002611884054?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "1c73c67a7dab",
-   "title": "Dr. Jekyll & Mr. Hyde (1920) Played by David Marsh",
-   "date": "2026-10-26",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Balboa Theatre",
-   "where": "Balboa Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/dr-jekyll-mr-hyde-1920-played-san-diego-california-10-26-2026/event/0A00646C9B97D90D",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Miscellaneous",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
-  },
-  {
-   "id": "aadc58400f1e",
-   "title": "Paulaner Oktoberfest Dinner Pairing",
-   "date": "2026-10-26",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Shakespeare Pub",
-   "url": "https://www.shakespearepub.com/upcoming-events/2026-26-10/dinner-pairing/paulaner-oktoberfest",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
-  },
-  {
-   "id": "7a15e87c5c59",
-   "title": "Hayden Everett (21 and Over)",
-   "date": "2026-10-26",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "Casbah-San Diego",
-   "where": "Casbah-San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZJrZ",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
-  },
-  {
-   "id": "04eb67565cd1",
-   "title": "Michael Franti Trio - Heartstrings & Dynamite w/ The Wheeland Brothers (acoustic)",
-   "date": "2026-10-26",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "Belly Up",
-   "where": "Belly Up, Solana Beach",
-   "url": "https://www.ticketweb.com/event/michael-franti-trio-belly-up-tickets/14262304",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Alternative Music Reggae Reggae",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
-  },
   {
    "id": "40a20f87374f",
    "title": "Tinker Tuesday",
@@ -301,6 +170,26 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "aee8fbb62fd8",
+   "title": "Happy Hour Mixer at Pure Project",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Pure Project North Park",
+   "where": "Pure Project North Park, San Diego, CA",
+   "url": "https://www.thenetworksd.com/events/happy-hour-mixer-at-pure-project",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "d11e0b7fa001",
    "title": "Patchworks Presents Fall Craft Party - Fall Sun Catchers + Chunky Pumpkins",
    "date": "2026-10-28",
@@ -338,7 +227,27 @@
    "text": "Film Family Miscellaneous",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "d7f1f9bcf4fb",
+   "title": "Live in the Hamm's Room with Robin Henkle",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Blind Lady Ale House",
+   "where": "Blind Lady Ale House, San Diego, CA",
+   "url": "https://robinhenkel.com/event/6711118/777363198/robin-henkel-solo-blues",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "ff260651877b",
@@ -356,7 +265,7 @@
    "text": "Music Pop Pop Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "7d68a497eac2",
@@ -460,6 +369,26 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "95444009e854",
+   "title": "Sunset Standup",
+   "date": "2026-10-29",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Original 40 Brewing Company",
+   "where": "Original 40 Brewing Company, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "d679fc93c163",
    "title": "Baile: Latin Sounds",
    "date": "2026-10-29",
@@ -493,7 +422,25 @@
    "text": "Music Rock Alternative Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "a7bdc29dc1d9",
+   "title": "Failure Tickets",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "San Diego California",
+   "where": "San Diego California, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "b0f1c9aedd8f",
@@ -531,7 +478,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "3f2b4dc44e18",
@@ -625,6 +572,24 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "65f826d0ebe8",
+   "title": "Slow Pulp Tickets",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "San Diego California",
+   "where": "San Diego California, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "b050767fa194",
    "title": "Artistic Practice: Roxana Velásquez in Conversation with Artist Betsabeé Romero",
    "date": "2026-10-30",
@@ -666,6 +631,24 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "04ca42917f23",
+   "title": "Harrison Gordon",
+   "date": "2026-10-30",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "where": "The Observatory North Park, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "117879dd4ca1",
    "title": "Missio",
    "date": "2026-10-30",
@@ -681,7 +664,43 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "9f4dc34393a1",
+   "title": "Denzel Curry",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Gallagher Square",
+   "where": "Gallagher Square, San Diego, CA",
+   "url": "https://www.bandsintown.com/e/108448491?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "b81656fca582",
+   "title": "San Diego State University vs University of California, San Diego",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "SDSU Sports Deck",
+   "where": "SDSU Sports Deck, San Diego, CA",
+   "url": "https://goaztecs.com/boxscore/17452",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "6a52fa287516",
@@ -699,7 +718,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "09742b5abc10",
@@ -719,7 +738,43 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "9ad30263dcfd",
+   "title": "Cardinal Bloom",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "Soda Bar",
+   "where": "Soda Bar, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "9a6f6fb6bbc2",
+   "title": "Caifanes",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Cal Coast Credit Union Amphitheater",
+   "where": "Cal Coast Credit Union Amphitheater, San Diego, CA",
+   "url": "https://www.ticketmaster.com/caifanes-san-diego-california-10-30-2026/event/0A0064AEAAF78592?utm_medium=affiliate&utm_source=5128861-Google%20Events",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "70b357a8b38f",
@@ -755,7 +810,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "91b25f0fe4aa",
@@ -955,6 +1010,26 @@
    "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
+   "id": "3f45a06d9d53",
+   "title": "Pub Food Vendor: Olive Sesame",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "Barley & Sword Brewing Company",
+   "where": "Barley & Sword Brewing Company, San Diego, CA",
+   "url": "https://www.barleyandsword.com/events/pub-food-vendor-olive-seasame",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "712f0eb0f6f7",
    "title": "Henderson Silver Knights at San Diego Gulls",
    "date": "2026-10-31",
@@ -990,7 +1065,45 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "12be93bdda9d",
+   "title": "Bridge The Gap",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "McGuffie's Live",
+   "where": "McGuffie's Live, San Diego, CA",
+   "url": "https://www.bandsintown.com/e/108416844?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "fd5e62b8e76d",
+   "title": "\"Twerk or Treat!\" San Diego Halloween Night Bar Crawl",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Double Deuce",
+   "where": "The Double Deuce, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2003488940353?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "bc89fe5a0712",
@@ -1029,7 +1142,25 @@
    "text": "Music Alternative Electronic Pop Music Other",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "d85c8659f89f",
+   "title": "The Creepy Creeps with Widows",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Casbah",
+   "where": "Casbah, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "3ac6d7e19ef2",
@@ -1175,6 +1306,24 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "477002acb0c5",
+   "title": "Ben Hackett",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "Casbah",
+   "where": "Casbah, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "8dffc0e21818",
    "title": "#004: Range and Rounds",
    "date": "2026-11-01",
@@ -1215,6 +1364,24 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "63720f50aea3",
+   "title": "Dia De Los Muertos with Angeles y Diablos",
+   "date": "2026-11-01",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Kimball Coastal Eatery",
+   "where": "Kimball Coastal Eatery, National City, CA",
+   "url": "https://www.facebook.com/events/740-bay-marina-dr-national-city-ca/dia-de-los-muertos-with-angeles-y-diablos/1769455697675324/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "535ba4935079",
    "title": "Home Game vs Colorado Eagles",
    "date": "2026-11-01",
@@ -1248,7 +1415,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "1dcd0fab15d8",
@@ -1266,7 +1433,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "74c419b5b627",
@@ -1284,7 +1451,7 @@
    "text": "Music Rock Pop Punk Music Alternative Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "d6c79419dbcc",
@@ -1305,6 +1472,64 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "3b1fec632ebb",
+   "title": "Dart League Hosted by Red Tree Realty",
+   "date": "2026-11-02",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Mike Hess Brewing, North Park",
+   "where": "Mike Hess Brewing, North Park, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "ef962d955a17",
+   "title": "Adventures (D&D)",
+   "date": "2026-11-02",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Barley & Sword Brewing Company",
+   "where": "Barley & Sword Brewing Company, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "a9209ee2b10d",
+   "title": "Platinum Moon",
+   "date": "2026-11-02",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "where": "House of Blues San Diego, San Diego, CA",
+   "url": "https://www.bandsintown.com/e/108708642?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "9328625959a8",
    "title": "The Haunt - \"The Ghost Tour\"",
    "date": "2026-11-02",
@@ -1320,7 +1545,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "114f6575eb2e",
@@ -1338,7 +1563,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "42aa5254578d",
@@ -1417,7 +1642,7 @@
    "text": "Music Rock Post-Hardcore",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "f079bc4ae8f9",
@@ -1437,7 +1662,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "637ccba98167",
@@ -1457,7 +1682,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "a056c6e8aedf",
@@ -1475,7 +1700,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "af66cecd5ed1",
@@ -1575,7 +1800,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "7c7933f46467",
@@ -1593,7 +1818,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "c3a13cfa2c4a",
@@ -1611,7 +1836,7 @@
    "text": "Music Rock Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "9277bda42d81",
@@ -1635,6 +1860,24 @@
    "last_seen": "2026-10-21T17:10:00-07:00"
   },
   {
+   "id": "60825968b271",
+   "title": "Badfish",
+   "date": "2026-11-05",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "The Harp",
+   "where": "The Harp, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2002573202356?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "f944961d77fb",
    "title": "Prince Daddy & the Hyena",
    "date": "2026-11-05",
@@ -1650,7 +1893,27 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "4717c5b5a5c1",
+   "title": "BikeSD's Gears and Cheers",
+   "date": "2026-11-05",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Original 40 Brewing Company",
+   "where": "Original 40 Brewing Company, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1999055155784?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "95011729788e",
@@ -1671,6 +1934,24 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "aa8adfc9bde8",
+   "title": "The SoapGirls",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "McGuffie's Live",
+   "where": "McGuffie's Live, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "19f2ffb4bf3c",
    "title": "The Outsiders (Touring)",
    "date": "2026-11-05",
@@ -1688,7 +1969,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "ef65ae58db92",
@@ -1744,9 +2025,11 @@
    ],
    "source": "Google",
    "text": "",
-   "hint": [],
+   "hint": [
+    "Food & beer"
+   ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "0d73853fcda8",
@@ -1866,7 +2149,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -1882,6 +2165,42 @@
    "source": "Google",
    "first_seen": "2026-10-21T06:08:53-07:00",
    "last_seen": "2026-10-21T06:08:53-07:00"
+  },
+  {
+   "id": "c406821b0faa",
+   "title": "Equinox Debuts at the Northside Tavern",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Northside Tavern",
+   "where": "Northside Tavern, San Diego, CA",
+   "url": "https://www.facebook.com/events/northside-tavern/equinox-debuts-at-the-northside-tavern-in-ob/1955383908482309/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "2aa06a4600d1",
+   "title": "Forever Came Calling with Fox Royale",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Soda Bar",
+   "where": "Soda Bar, San Diego, CA",
+   "url": "https://link.dice.fm/Gd1dc41d0b60?dice_id=Gd1dc41d0b60",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "79249b824c71",
@@ -1904,6 +2223,24 @@
    "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
+   "id": "7d482ae35c1a",
+   "title": "The Story So Far",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "SOMA - Mainstage",
+   "where": "SOMA - Mainstage, San Diego",
+   "url": "https://www.ticketweb.com/event/the-story-so-far-soma-mainstage-tickets/14270354",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Pop Punk",
+   "hint": [],
+   "first_seen": "2026-10-19T17:11:21-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "b1544e8d62dd",
    "title": "Jordan Jensen",
    "date": "2026-11-06",
@@ -1921,7 +2258,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "f2fc067cf7f3",
+   "title": "The College Takeover Night: Fall Edition",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Melómano Entertainment - Salsa & Bachata Lessons",
+   "where": "Melómano Entertainment - Salsa & Bachata Lessons, San Diego, CA",
+   "url": "https://www.facebook.com/events/4255-ruffin-road-suite-200-san-diego-ca-united-states-california-92123/the-college-takeover-night-fall-edition-mel%C3%B3mano-x-ucsd-x-sdsu-116/965303699984707/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "54d78d13cc0b",
@@ -1941,25 +2296,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
-  },
-  {
-   "id": "7d482ae35c1a",
-   "title": "The Story So Far",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "SOMA - Mainstage",
-   "where": "SOMA - Mainstage, San Diego",
-   "url": "https://www.ticketweb.com/event/the-story-so-far-soma-mainstage-tickets/14270354",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Pop Punk",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "47fa0775a726",
@@ -1977,7 +2314,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "1679995c9638",
@@ -2204,7 +2541,7 @@
    "time": "12:00",
    "end_date": null,
    "venue": "Ballast Point Brewing",
-   "where": "Ballast Point Brewing, Little Italy",
+   "where": "Ballast Point Brewing, San Diego, CA",
    "url": "https://www.eventbrite.com/e/2001006337822?aff=ebdiglgoogleliveevents",
    "tags": [
     "Food & beer"
@@ -2215,7 +2552,7 @@
     "Food & beer"
    ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "8f7159948495",
@@ -2275,7 +2612,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "79d9d3208ca0",
@@ -2293,7 +2630,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "03fe975a632a",
@@ -2313,7 +2650,45 @@
     "Food & beer"
    ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "c4989d4bf28a",
+   "title": "Born Without Bones",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Casbah",
+   "where": "Casbah, San Diego, CA",
+   "url": "https://www.bandsintown.com/e/108547820?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "d26d35912d2f",
+   "title": "In Common Connections Party",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Novo Brazil Brewing Mission Valley",
+   "where": "Novo Brazil Brewing Mission Valley, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2003510790708?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "2ebc62e6d69a",
@@ -2333,7 +2708,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -2353,7 +2728,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -2373,7 +2748,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "d8603e655886",
@@ -2393,7 +2768,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -2411,7 +2786,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "6482e079ba70",
@@ -2513,6 +2888,44 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "09d94e324be3",
+   "title": "Farmers Market Tour & Social Cooking Class",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Hillcrest Brewing Company Bar & Pizzeria",
+   "where": "Hillcrest Brewing Company Bar & Pizzeria, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1995027439777?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "fa57c3d75973",
+   "title": "Foghorn and Special Guests",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Corazon Del Barrio",
+   "where": "Corazon Del Barrio, San Diego, CA",
+   "url": "https://www.jambase.com/show/foghorn-corazon-del-barrio-20261108?utm_source=google&utm_medium=gac",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "6ace7c63d7d8",
    "title": "Robby Hoffman: Live On Tour",
    "date": "2026-11-08",
@@ -2530,7 +2943,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -2550,7 +2963,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "f763eb015b76",
@@ -2568,7 +2981,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -2586,7 +2999,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -2604,7 +3017,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "b23954228d69",
@@ -2622,7 +3035,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "30163a889350",
@@ -2642,7 +3055,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "de0748d6e95c",
@@ -2660,7 +3073,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "7d9c57b99087",
@@ -2739,7 +3152,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "82a623e9a025",
@@ -2757,7 +3170,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "fa5eea4d5343",
@@ -2796,6 +3209,24 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "5bdfabd47e94",
+   "title": "Atreyu",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "SOMA SAN DIEGO",
+   "where": "SOMA SAN DIEGO, San Diego, CA",
+   "url": "https://www.ticketweb.com/event/underoath-define-the-soma-mainstage-tickets/14976083?utm_medium=affiliate&utm_source=5128861-Google%20Events",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "63a02a012635",
    "title": "CheeseSmith & AleSmith Pairing Event",
    "date": "2026-11-10",
@@ -2831,7 +3262,7 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "71f1013b22ac",
@@ -2852,6 +3283,26 @@
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
    "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "69d5553a7953",
+   "title": "The Hoppy Dice Game Night",
+   "date": "2026-11-11",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Hopnonymous Brewing - Normal Heights",
+   "where": "Hopnonymous Brewing - Normal Heights, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/the-hoppy-dice-game-night-at-hopnonymous-normal-heights-tickets-2002229294719",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "1e329f49bddc",
@@ -2889,7 +3340,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "d55da60e670f",
@@ -2907,7 +3358,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "90f65d8ed023",
@@ -3027,7 +3478,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "f7536af9593f",
@@ -3047,7 +3498,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "9148df9e843f",
@@ -3085,7 +3536,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "22b14f89cab1",
@@ -3103,7 +3554,7 @@
    "text": "Music Rock Experimental Rock Music Country Alternative Country Music Alternative Post-Punk Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "34b40f8fa24c",
@@ -3123,7 +3574,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "e5432bbfc0d2",
@@ -3201,7 +3652,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "97e288ac86c2",
@@ -3221,7 +3672,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "17098059e1e7",
@@ -3244,6 +3695,24 @@
    "last_seen": "2026-10-22T06:09:11-07:00"
   },
   {
+   "id": "499ed12e93de",
+   "title": "Southern Culture On the Skids",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Casbah",
+   "where": "Casbah, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "c5ad447982ee",
    "title": "BoomBox - Fall Tour 2026 w/ DGTL CLR",
    "date": "2026-11-14",
@@ -3259,7 +3728,7 @@
    "text": "Music Dance/Electronic Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "c9b5667727ce",
@@ -3340,7 +3809,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "a6e32fd2cd01",
+   "title": "Slothrust",
+   "date": "2026-11-15",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "San Diego California",
+   "where": "San Diego California, San Diego, CA",
+   "url": "https://www.facebook.com/events/san-diego-california/slothrust-tickets/1700534035407320/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "5edb5efaf942",
@@ -3358,7 +3845,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "acd5042bc3ef",
@@ -3378,7 +3865,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "129a67152abb",
@@ -3398,7 +3885,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "455ff4bf18be",
@@ -3439,6 +3926,26 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "b3fca8ef294c",
+   "title": "Casual Chess & Board Games",
+   "date": "2026-11-17",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Original 40 Brewing Company",
+   "where": "Original 40 Brewing Company, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "68647fe37f67",
@@ -3600,6 +4107,24 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "1989d9f1c90f",
+   "title": "Hollow Pact with Don't You Dare",
+   "date": "2026-11-20",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "House of Blues San Diego",
+   "where": "House of Blues San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "c1bc2f374286",
    "title": "Cassie B",
    "date": "2026-11-20",
@@ -3616,6 +4141,24 @@
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
    "last_seen": "2026-10-26T08:00:10-07:00"
+  },
+  {
+   "id": "508e7394556a",
+   "title": "Pedro The Lion",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "where": "The Observatory North Park, San Diego, CA",
+   "url": "https://open.spotify.com/concert/3wcdqFWize0tlYwAXDC5cY",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "94e7b21223ee",
@@ -3698,14 +4241,34 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "29ba80f44122",
+   "title": "Little Italy Mystery & History Team Scavenger Hunt & Party",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Ballast Point Brewing",
+   "where": "Ballast Point Brewing, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "2d38975b7ead",
    "title": "Ales N' Rails",
    "date": "2026-11-21",
    "time": "18:00",
    "end_date": null,
    "venue": "San Diego Model Railroad Museum",
-   "where": "San Diego Model Railroad Museum, Balboa Park",
-   "url": "https://www.sandiego.org/events-festivals/ales-n-rails/6139b725c0f311f1a7f2",
+   "where": "San Diego Model Railroad Museum, San Diego, CA",
+   "url": "https://www.heylo.com/event/-P4_4yQC2eRwevaFbgq5",
    "tags": [
     "Food & beer",
     "Balboa Park",
@@ -3718,7 +4281,7 @@
     "Makers & knives"
    ],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "cdc256ddc5a4",
@@ -3778,6 +4341,24 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
+   "id": "378c1791e657",
+   "title": "The Wrecks Tickets",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "end_date": null,
+   "venue": "San Diego California",
+   "where": "San Diego California, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
    "id": "18ff31290522",
    "title": "1-Day Hands-On GenAI Using LangChain & HF",
    "date": "2026-11-23",
@@ -3796,6 +4377,24 @@
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
    "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "7ab4842da3c9",
+   "title": "City Mouse",
+   "date": "2026-11-23",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah",
+   "where": "Casbah, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "2693080590cb",
@@ -3876,6 +4475,80 @@
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
    "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "4f08bd1ca070",
+   "title": "Old Town Murder Mystery Scavenger Hunt",
+   "date": "2026-11-28",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "Casa de Maria Restaurant",
+   "where": "Casa de Maria Restaurant, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2003561121248?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "2da416a7240d",
+   "title": "Agent Orange",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "where": "The Observatory North Park, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "41bc8feb8573",
+   "title": "Gin Blossoms",
+   "date": "2026-12-01",
+   "time": null,
+   "end_date": null,
+   "venue": "Belly Up Tavern",
+   "where": "Belly Up Tavern, Solana Beach, CA",
+   "url": "https://bellyup.com/calendar/13649748/adapt-presents-robin-wilson-jesse-valenzuela-of-gin-blossoms/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "ee1d393d00ee",
+   "title": "Bags & Brews",
+   "date": "2026-12-02",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Mike Hess Brewing, North Park",
+   "where": "Mike Hess Brewing, North Park, San Diego, CA",
+   "url": "https://www.mikehessbrewing.com/event/bags-brews-in-north-park/2026-12-02/",
+   "tags": [
+    "Food & beer"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Food & beer"
+   ],
+   "first_seen": "2026-10-27T06:10:54-07:00",
+   "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
    "id": "e7518efefaf5",
