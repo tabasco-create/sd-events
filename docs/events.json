@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T06:19:41-07:00",
- "checked": "2026-10-30T06:19:41-07:00",
+ "updated": "2026-10-31T06:13:43-07:00",
+ "checked": "2026-10-31T06:13:43-07:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -18,15 +18,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Makers & knives + Tech meetups",
+   "category": "Family & kids + Local sports",
    "searches_used": 3,
-   "found": 32,
-   "searches_left_before": 216
+   "found": 28,
+   "searches_left_before": 213
   },
   "ticketmaster": {
    "ok": true,
-   "found": 84,
-   "dropped_no_interest": 156
+   "found": 85,
+   "dropped_no_interest": 155
   },
   "padres": {
    "ok": true,
@@ -34,376 +34,6 @@
   }
  },
  "events": [
-  {
-   "id": "ce3aea4f0224",
-   "title": "StartupSD Last Fridays Co-Working Day",
-   "date": "2026-10-30",
-   "time": "08:00",
-   "end_date": null,
-   "venue": "Downtown Works - Coworking Office Space Mission Valley",
-   "where": "Downtown Works - Coworking Office Space Mission Valley, San Diego, CA",
-   "url": "https://startupsd.org/event/startupsd-last-fridays-co-working-day-presented-by-downtown-works-16/",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "3f2b4dc44e18",
-   "title": "Generative AI Applications: 1 Day Masterclass",
-   "date": "2026-10-30",
-   "time": "09:00",
-   "end_date": null,
-   "venue": "Regus",
-   "where": "Regus, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "ffb6233b1328",
-   "title": "Papas Pacific Island BBQ",
-   "date": "2026-10-30",
-   "time": "13:00",
-   "end_date": null,
-   "venue": "Duck Foot Brewing",
-   "url": "https://www.meetdaisy.co/calendars/duck-foot-brewing/events/papas-pacific-island-bbq-538789",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
-  },
-  {
-   "id": "e65b128a7527",
-   "title": "FIC Studio Sessions",
-   "date": "2026-10-30",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Museum of Contemporary Art San Diego",
-   "where": "Museum of Contemporary Art San Diego, Village of La Jolla",
-   "url": null,
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "b0013449b8de",
-   "title": "Five After Five",
-   "date": "2026-10-30",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Mingei International Museum",
-   "where": "Mingei International Museum, Balboa Park",
-   "url": null,
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "d43eb2c7c6ef",
-   "title": "Taste of Mesa",
-   "date": "2026-10-30",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Mesa College Library",
-   "url": "https://www.instagram.com/p/DdnFHgpjYEI/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-21T06:08:53-07:00"
-  },
-  {
-   "id": "65f826d0ebe8",
-   "title": "Slow Pulp Tickets",
-   "date": "2026-10-30",
-   "time": "17:30",
-   "end_date": null,
-   "venue": "San Diego California",
-   "where": "San Diego California, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "b050767fa194",
-   "title": "Artistic Practice: Roxana Velásquez in Conversation with Artist Betsabeé Romero",
-   "date": "2026-10-30",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "The San Diego Museum of Art",
-   "where": "The San Diego Museum of Art, Balboa Park",
-   "url": null,
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-24T06:00:04-07:00"
-  },
-  {
-   "id": "db40276d880d",
-   "title": "Fright Foot Halloween Party",
-   "date": "2026-10-30",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Duck Foot Brewing",
-   "where": "Duck Foot Brewing, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/fright-foot-halloween-party-tickets-2003014293672?aff=ebdssbdestsearch",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
-  },
-  {
-   "id": "ff72caea61cd",
-   "title": "Solo Dejaremos Flores Dia de Muertos Event",
-   "date": "2026-10-30",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Centro Cultural de la Raza",
-   "where": "Centro Cultural de la Raza, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-28T06:21:37-07:00"
-  },
-  {
-   "id": "04ca42917f23",
-   "title": "Harrison Gordon",
-   "date": "2026-10-30",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "The Observatory North Park",
-   "where": "The Observatory North Park, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "117879dd4ca1",
-   "title": "Missio",
-   "date": "2026-10-30",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "Voodoo Room at the House of Blues San Diego",
-   "where": "Voodoo Room at the House of Blues San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/missio-san-diego-california-10-30-2026/event/0A00650B8F9579D4",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "9f4dc34393a1",
-   "title": "Denzel Curry",
-   "date": "2026-10-30",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Gallagher Square",
-   "where": "Gallagher Square, San Diego, CA",
-   "url": "https://www.bandsintown.com/e/108448491?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "b81656fca582",
-   "title": "San Diego State University vs University of California, San Diego",
-   "date": "2026-10-30",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "SDSU Sports Deck",
-   "where": "SDSU Sports Deck, San Diego, CA",
-   "url": "https://goaztecs.com/boxscore/17452",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-28T06:21:37-07:00"
-  },
-  {
-   "id": "6a52fa287516",
-   "title": "THE B-52s * DEVO: COSMIC DE-EVOLUTION TOUR",
-   "date": "2026-10-30",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "North Island Credit Union Amphitheatre",
-   "where": "North Island Credit Union Amphitheatre, Chula Vista",
-   "url": "https://www.ticketmaster.com/the-b52s-devo-cosmic-deevolution-tour-chula-vista-california-10-30-2026/event/0A0064D19C1189F1",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "09742b5abc10",
-   "title": "Usama Siddiquee",
-   "date": "2026-10-30",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "The American Comedy Co.",
-   "where": "The American Comedy Co., San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70x1d",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Miscellaneous Miscellaneous",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "9ad30263dcfd",
-   "title": "Cardinal Bloom",
-   "date": "2026-10-30",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "Soda Bar",
-   "where": "Soda Bar, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "9a6f6fb6bbc2",
-   "title": "Caifanes",
-   "date": "2026-10-30",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "Cal Coast Credit Union Amphitheater",
-   "where": "Cal Coast Credit Union Amphitheater, San Diego, CA",
-   "url": "https://www.ticketmaster.com/caifanes-san-diego-california-10-30-2026/event/0A0064AEAAF78592?utm_medium=affiliate&utm_source=5128861-Google%20Events",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "70b357a8b38f",
-   "title": "San Diego VIP Nightlife Hopping",
-   "date": "2026-10-30",
-   "time": "20:55",
-   "end_date": null,
-   "venue": "Good Night John Boy",
-   "where": "Good Night John Boy, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/1782329468419?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "9de1419320f6",
-   "title": "Dead Man's Party Halloween BASH",
-   "date": "2026-10-30",
-   "time": "21:00",
-   "end_date": null,
-   "venue": "Belly Up",
-   "where": "Belly Up, Solana Beach",
-   "url": "https://www.ticketweb.com/event/dead-mans-party-halloween-bash-belly-up-tickets/14103374",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
   {
    "id": "91b25f0fe4aa",
    "title": "San Diego State University vs University of California, San Diego – NCAA Women's undefined Prediction",
@@ -461,6 +91,26 @@
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
    "last_seen": "2026-10-25T06:00:26-07:00"
+  },
+  {
+   "id": "ac2a32389d05",
+   "title": "FREE Family Fun Day - Mission Valley's community market",
+   "date": "2026-10-31",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Nese Kids Care",
+   "where": "Nese Kids Care, San Diego, CA",
+   "url": "https://www.facebook.com/events/967-camino-del-rio-s-san-diego-ca-united-states-california-92108/free-family-fun-day-mission-valleys-community-market/1062413199910135/",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "98c0e8073e1f",
@@ -637,7 +287,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "712f0eb0f6f7",
@@ -657,7 +307,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "827d9a965926",
@@ -675,7 +325,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "12be93bdda9d",
@@ -792,7 +442,7 @@
    "text": "Music Alternative Electronic Pop Music Other",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "300b86bdc789",
@@ -829,6 +479,27 @@
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
    "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "77185bc312d0",
+   "title": "Guided Nature Walk",
+   "date": "2026-11-01",
+   "time": "09:30",
+   "end_date": null,
+   "venue": "Mission Trails Regional Park",
+   "where": "Mission Trails Regional Park, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1984484326040?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Family & kids",
+    "Beach & outdoors"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "3ac6d7e19ef2",
@@ -972,6 +643,26 @@
    "last_seen": "2026-10-28T06:21:37-07:00"
   },
   {
+   "id": "87595fa0a1a9",
+   "title": "Family Workshop",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "Children's Museum of Discovery",
+   "where": "Children's Museum of Discovery, Escondido, CA",
+   "url": "https://visitcmod.org/events/garden-workshop-16/2026-11-01/",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "ecfe47c0a0ea",
    "title": "Balboa Park Stand With Ukraine Rally",
    "date": "2026-11-01",
@@ -1010,7 +701,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "477002acb0c5",
@@ -1122,7 +813,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "1dcd0fab15d8",
@@ -1140,7 +831,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "74c419b5b627",
@@ -1158,7 +849,7 @@
    "text": "Music Rock Pop Punk Music Alternative Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "8daeb77a1c4d",
@@ -1176,7 +867,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "d6c79419dbcc",
@@ -1194,7 +885,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "3b1fec632ebb",
@@ -1270,7 +961,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "114f6575eb2e",
@@ -1288,7 +979,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "42aa5254578d",
@@ -1387,7 +1078,7 @@
    "text": "Music Rock Post-Hardcore",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "f079bc4ae8f9",
@@ -1407,7 +1098,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "637ccba98167",
@@ -1427,7 +1118,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "a056c6e8aedf",
@@ -1445,7 +1136,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "560c2b5ac7f9",
@@ -1624,7 +1315,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "7fb51ec32c14",
@@ -1685,7 +1376,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "7c7933f46467",
@@ -1703,7 +1394,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "c3a13cfa2c4a",
@@ -1721,7 +1412,7 @@
    "text": "Music Rock Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "3716cbd7c7c2",
@@ -1739,7 +1430,7 @@
    "text": "Music R&B Soul Music Alternative Pop Underground",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "9277bda42d81",
@@ -1783,6 +1474,46 @@
    "last_seen": "2026-10-30T06:19:41-07:00"
   },
   {
+   "id": "6bc6374d9975",
+   "title": "Party at the Pop Jet",
+   "date": "2026-11-05",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Del Mar Highlands Town Center",
+   "where": "Del Mar Highlands Town Center, San Diego, CA",
+   "url": "https://delmarhighlandstowncenter.com/event/party-at-the-pop-jet-november-5th/",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "c922150346fe",
+   "title": "Story Time with an Archaeologist",
+   "date": "2026-11-05",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "San Diego Archaeological Center",
+   "where": "San Diego Archaeological Center, Escondido, CA",
+   "url": "https://sandiegoarchaeology.org/event/story-time-with-an-archaeologist-2/2026-11-05/",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "60825968b271",
    "title": "Badfish",
    "date": "2026-11-05",
@@ -1816,7 +1547,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "4717c5b5a5c1",
@@ -1857,7 +1588,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "95011729788e",
@@ -1913,7 +1644,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "ef65ae58db92",
@@ -1976,6 +1707,26 @@
    "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
+   "id": "6ad06588476b",
+   "title": "Spooky Hunt",
+   "date": "2026-11-06",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Waterfront Park",
+   "where": "Waterfront Park, San Diego, CA",
+   "url": "http://www.stubhub.com/tr/spooky-hunt-san-diego-tickets-11-6-2026/event/162366996",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "ee935c1bab86",
    "title": "Dream Lab",
    "date": "2026-11-06",
@@ -2015,6 +1766,26 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "18b818232c3b",
+   "title": "Kid's Night Out",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Mickey Cafagna Community Center",
+   "where": "Mickey Cafagna Community Center, Poway, CA",
+   "url": "https://www.activekids.com/poway-ca/parenting-and-family/classes/kid-s-night-out-2026-110288360",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "11549c487c6e",
@@ -2086,7 +1857,7 @@
    "end_date": null,
    "venue": "JULEP Venue",
    "where": "JULEP Venue, San Diego, CA",
-   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793268912",
+   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793434470",
    "tags": [
     "Food & beer"
    ],
@@ -2094,7 +1865,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "a5adc5db0437",
@@ -2114,7 +1885,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -2203,7 +1974,7 @@
    "text": "Music Rock Pop Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "b1544e8d62dd",
@@ -2223,7 +1994,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "f2fc067cf7f3",
@@ -2241,7 +2012,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "54d78d13cc0b",
@@ -2261,7 +2032,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "47fa0775a726",
@@ -2279,7 +2050,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "ca865b326798",
@@ -2536,7 +2307,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e3aeecb7837b",
@@ -2636,7 +2407,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "94a039229cd2",
@@ -2674,7 +2445,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "03fe975a632a",
@@ -2733,7 +2504,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "d26d35912d2f",
@@ -2773,7 +2544,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -2793,7 +2564,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -2813,7 +2584,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "d8603e655886",
@@ -2833,7 +2604,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -2935,6 +2706,26 @@
    "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
+   "id": "90b9720549f0",
+   "title": "Family Day Immersive Workshop",
+   "date": "2026-11-08",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Museum of History and Culture La Jolla",
+   "where": "Museum of History and Culture La Jolla, San Diego, CA",
+   "url": "https://www.mhclajolla.org/family-day",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "b7524f76fef8",
    "title": "San Diego Food and Wine Festival - Grand Fiesta - Sunday",
    "date": "2026-11-08",
@@ -2971,7 +2762,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "09d94e324be3",
@@ -3029,7 +2820,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -3049,7 +2840,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "f763eb015b76",
@@ -3067,7 +2858,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -3085,7 +2876,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -3103,7 +2894,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "b23954228d69",
@@ -3121,7 +2912,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "30163a889350",
@@ -3141,7 +2932,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "de0748d6e95c",
@@ -3159,7 +2950,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "7d9c57b99087",
@@ -3258,7 +3049,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "82a623e9a025",
@@ -3276,7 +3067,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "fa5eea4d5343",
@@ -3368,7 +3159,7 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "ac78c011beaf",
@@ -3389,7 +3180,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "71f1013b22ac",
@@ -3488,7 +3279,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "69d5553a7953",
@@ -3528,7 +3319,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "3eacf702df67",
@@ -3546,7 +3337,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "d55da60e670f",
@@ -3564,7 +3355,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "81049b1594a0",
@@ -3646,7 +3437,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "5b0dc2fafb12",
@@ -3745,7 +3536,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "f7536af9593f",
@@ -3765,7 +3556,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "bb29a3762bea",
@@ -3786,7 +3577,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "9148df9e843f",
@@ -3824,7 +3615,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "8eb3fab02aed",
@@ -3862,7 +3653,7 @@
    "text": "Music Rock Experimental Rock Music Country Alternative Country Music Alternative Post-Punk Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "34b40f8fa24c",
@@ -3882,7 +3673,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e5432bbfc0d2",
@@ -4001,7 +3792,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "fa4102a9090a",
@@ -4022,7 +3813,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "97e288ac86c2",
@@ -4042,7 +3833,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "17098059e1e7",
@@ -4118,7 +3909,30 @@
    "text": "Music Dance/Electronic Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "f59b71a51941",
+   "title": "Whale Watching Excursions With Narration by the San Diego Natural History Museum!",
+   "date": "2026-11-14",
+   "time": null,
+   "end_date": null,
+   "venue": "City Cruises",
+   "where": "City Cruises, San Diego, CA",
+   "url": "https://passporttosandiego.com/event-san-diego/city-cruises-offers-whale-watching-excursions-with-narration-by-the-san-diego-natural-history-museum/2026-11-14/",
+   "tags": [
+    "Family & kids",
+    "Balboa Park",
+    "Beach & outdoors",
+    "Arts & museums"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "c9b5667727ce",
@@ -4217,7 +4031,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "10846d2f1823",
@@ -4238,7 +4052,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "a6e32fd2cd01",
@@ -4274,7 +4088,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "acd5042bc3ef",
@@ -4294,7 +4108,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "129a67152abb",
@@ -4314,7 +4128,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "dbe5c59ffda1",
@@ -4435,7 +4249,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "68647fe37f67",
@@ -4495,7 +4309,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "60612870c144",
@@ -4516,7 +4330,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "7272343d65f0",
@@ -4554,7 +4368,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e102bdb07386",
@@ -4653,7 +4467,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "b9640cb563e5",
@@ -4673,7 +4487,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "bc5de2fd2bdc",
@@ -4730,6 +4544,44 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "3974def02743",
+   "title": "San Diego Gulls vs. Iowa Wild",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "where": "Pechanga Arena San Diego, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZxFd",
+   "tags": [
+    "Local sports"
+   ],
+   "source": "Ticketmaster",
+   "text": "Sports Hockey Minor League",
+   "hint": [],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "2228f6f346a1",
+   "title": "Seth Meyers: Live",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "where": "San Diego Civic Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/seth-meyers-live-san-diego-california-11-20-2026/event/0A0064D6874735FD",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Comedy Comedy",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "508e7394556a",
    "title": "Pedro The Lion",
    "date": "2026-11-20",
@@ -4746,6 +4598,44 @@
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
    "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "b916339b64a1",
+   "title": "Carlos Mencia",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "The American Comedy Co.",
+   "where": "The American Comedy Co., San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xGv",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "bf52ca4a60eb",
+   "title": "ONE MORE TIME: A DAFT PUNK TRIBUTE PARTY",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Nova SD",
+   "where": "Nova SD, San Diego",
+   "url": "https://www.ticketweb.com/event/one-more-time-a-daft-nova-sd-tickets/14322604",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Dance/Electronic",
+   "hint": [],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "94e7b21223ee",
@@ -4825,7 +4715,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "29ba80f44122",
@@ -5001,7 +4891,7 @@
     "Local sports"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-10-26T08:00:10-07:00"
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "7300a319c2d5",
@@ -5060,6 +4950,26 @@
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
    "last_seen": "2026-10-24T06:00:04-07:00"
+  },
+  {
+   "id": "194e2741c84e",
+   "title": "Family Fun Day",
+   "date": "2026-11-28",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "Nese Kids Care",
+   "where": "Nese Kids Care, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e8d037ded7c8",
@@ -5156,6 +5066,46 @@
    "last_seen": "2026-10-27T06:10:54-07:00"
   },
   {
+   "id": "52ec453ed95e",
+   "title": "San Diego Gulls vs Tucson Roadrunners",
+   "date": "2026-12-04",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "where": "Pechanga Arena San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Local sports"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Local sports"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "15ff3ff0c5a2",
+   "title": "Shades of Blue at San Diego Gulls Hockey Game",
+   "date": "2026-12-04",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "where": "Pechanga Arena San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Local sports"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Local sports"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
    "id": "e7518efefaf5",
    "title": "Holiday Art Market",
    "date": "2026-12-05",
@@ -5194,6 +5144,26 @@
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
    "last_seen": "2026-10-26T08:00:10-07:00"
+  },
+  {
+   "id": "4725967a1d72",
+   "title": "Tucson Roadrunners at San Diego Gulls",
+   "date": "2026-12-05",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Pechanga Arena San Diego",
+   "where": "Pechanga Arena San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Local sports"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Local sports"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   },
   {
    "id": "e97e055feead",
@@ -5294,6 +5264,27 @@
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
    "last_seen": "2026-10-26T08:00:10-07:00"
+  },
+  {
+   "id": "81b5a95b0a8f",
+   "title": "San Diego Zoo",
+   "date": "2026-12-14",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "San Diego Zoo",
+   "where": "San Diego Zoo, San Diego, CA",
+   "url": "https://www.facebook.com/events/san-diego-zoo-2920-zoo-drive-san-diego-92101-san-diego-us/san-diego-zoo/1421324886194697/?locale=az_AZ",
+   "tags": [
+    "Family & kids",
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Family & kids"
+   ],
+   "first_seen": "2026-10-31T06:13:43-07:00",
+   "last_seen": "2026-10-31T06:13:43-07:00"
   }
  ]
 }
