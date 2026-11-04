@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T21:31:28-08:00",
- "checked": "2026-11-03T21:31:28-08:00",
+ "updated": "2026-11-04T05:30:32-08:00",
+ "checked": "2026-11-04T05:30:32-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -20,10 +20,10 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Balboa Park + Beach & outdoors",
+   "category": "Beach cleanups + Arts & museums",
    "searches_used": 3,
-   "found": 6,
-   "searches_left_before": 201
+   "found": 7,
+   "searches_left_before": 198
   },
   "ticketmaster": {
    "ok": true,
@@ -36,185 +36,6 @@
   }
  },
  "events": [
-  {
-   "id": "42aa5254578d",
-   "title": "Dia de los Muertos",
-   "date": "2026-11-03",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "San Diego Public Library - Pacific Highlands Ranch",
-   "where": "San Diego Public Library - Pacific Highlands Ranch, San Diego, CA",
-   "url": "https://www.facebook.com/events/pacific-highlands-ranch-library/dia-de-los-muertos/4516290202033990/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
-  {
-   "id": "2c49b71517c1",
-   "title": "NFT, Digital Art and Cocktails Meetup",
-   "date": "2026-11-03",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Botanica Art & Cocktail Bar",
-   "where": "Botanica Art & Cocktail Bar, San Diego, CA",
-   "url": "https://sandiego.eater.com/2022/7/27/23280557/bonanica-nft-art-gallery-cocktail-bar-restaurant-north-park-san-diego",
-   "tags": [
-    "Food & beer",
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "0f5808d37be4",
-   "title": "San Diego AI Showcase #10",
-   "date": "2026-11-03",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "11988 El Camino Real Garage",
-   "where": "11988 El Camino Real Garage, San Diego, CA",
-   "url": "https://eventship.com/event/san-diego-ai-showcase-10-north-county-november-2026-san-diego-startup-week",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "3b7587e5dc77",
-   "title": "Tuesday Trivia Nights",
-   "date": "2026-11-03",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Sky Deck at Del Mar Highlands Town Center",
-   "where": "Sky Deck at Del Mar Highlands Town Center, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Trivia"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-02T05:32:17-08:00"
-  },
-  {
-   "id": "deefc234c220",
-   "title": "Use A.I. Like a Scientist: An Experimental Approach to Get the Most of AI",
-   "date": "2026-11-03",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Ansir Innovation Center",
-   "where": "Ansir Innovation Center, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "83a96560a39e",
-   "title": "21+ Casual Chess & Board Games",
-   "date": "2026-11-03",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "Original 40 Brewing Company",
-   "where": "Original 40 Brewing Company, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-02T05:32:17-08:00"
-  },
-  {
-   "id": "d3847400341c",
-   "title": "Tuesday Trivia Night",
-   "date": "2026-11-03",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "Union Kitchen and Tap Encinitas",
-   "where": "Union Kitchen and Tap Encinitas, Encinitas, CA",
-   "url": null,
-   "tags": [
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Trivia"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-02T05:32:17-08:00"
-  },
-  {
-   "id": "7ccd11c05095",
-   "title": "Trivia",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Tony Pepperoni Pizzeria",
-   "where": "Tony Pepperoni Pizzeria, Escondido, CA",
-   "url": null,
-   "tags": [
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Trivia"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-02T05:32:17-08:00"
-  },
-  {
-   "id": "560c2b5ac7f9",
-   "title": "Tuesday Trivia",
-   "date": "2026-11-03",
-   "time": null,
-   "end_date": null,
-   "venue": "Vinya: vino + vinyasa",
-   "where": "Vinya: vino + vinyasa, San Diego, CA",
-   "url": "https://www.localwineevents.com/view/event/tuesday-trivia-vinya/1040345",
-   "tags": [
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Trivia"
-   ],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-02T05:32:17-08:00"
-  },
   {
    "id": "96d6b8c2c00b",
    "title": "Speaker Series: Do You Even Need a Website Anymore?",
@@ -434,7 +255,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7fb51ec32c14",
@@ -495,7 +316,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7c7933f46467",
@@ -513,7 +334,7 @@
    "text": "Music Alternative Indie Pop",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "c3a13cfa2c4a",
@@ -531,7 +352,7 @@
    "text": "Music Rock Indie Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "3716cbd7c7c2",
@@ -549,7 +370,7 @@
    "text": "Music R&B Soul Music Alternative Pop Underground",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "9277bda42d81",
@@ -666,7 +487,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "4717c5b5a5c1",
@@ -707,7 +528,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "95011729788e",
@@ -763,7 +584,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "1e5d8b85ddc1",
@@ -823,7 +644,7 @@
     "Food & beer"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "6ad06588476b",
@@ -1016,7 +837,7 @@
    "end_date": null,
    "venue": "JULEP Venue",
    "where": "JULEP Venue, San Diego, CA",
-   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793758512",
+   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793780085",
    "tags": [
     "Food & beer"
    ],
@@ -1024,7 +845,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "a5adc5db0437",
@@ -1044,7 +865,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -1133,7 +954,7 @@
    "text": "Music Rock Pop Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "b1544e8d62dd",
@@ -1153,7 +974,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "8e368f476657",
@@ -1171,7 +992,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "54d78d13cc0b",
@@ -1191,7 +1012,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "47fa0775a726",
@@ -1209,7 +1030,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "ca865b326798",
@@ -1466,7 +1287,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "e3aeecb7837b",
@@ -1584,7 +1405,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "94a039229cd2",
@@ -1622,7 +1443,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "03fe975a632a",
@@ -1681,7 +1502,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "d26d35912d2f",
@@ -1721,7 +1542,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -1741,7 +1562,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -1761,7 +1582,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "d8603e655886",
@@ -1781,7 +1602,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -1977,7 +1798,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "32b27d55fb9c",
@@ -1998,7 +1819,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "09d94e324be3",
@@ -2056,7 +1877,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -2076,7 +1897,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "f763eb015b76",
@@ -2094,7 +1915,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -2112,7 +1933,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -2130,7 +1951,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "b23954228d69",
@@ -2148,7 +1969,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "30163a889350",
@@ -2168,7 +1989,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "de0748d6e95c",
@@ -2186,7 +2007,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7d9c57b99087",
@@ -2305,7 +2126,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "82a623e9a025",
@@ -2323,7 +2144,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "fa5eea4d5343",
@@ -2435,7 +2256,7 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "faf12e2284a6",
@@ -2477,7 +2298,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "71f1013b22ac",
@@ -2576,7 +2397,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "69d5553a7953",
@@ -2674,7 +2495,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "d55da60e670f",
@@ -2692,7 +2513,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "81049b1594a0",
@@ -2774,7 +2595,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "5b0dc2fafb12",
@@ -2873,7 +2694,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "e1b4ea958f58",
@@ -2914,7 +2735,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "bb29a3762bea",
@@ -2935,7 +2756,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "9148df9e843f",
@@ -2973,7 +2794,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "8eb3fab02aed",
@@ -3011,7 +2832,7 @@
    "text": "Music Rock Experimental Rock Music Country Alternative Country Music Alternative Post-Punk Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "34b40f8fa24c",
@@ -3031,7 +2852,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "3bca618c73ce",
@@ -3190,7 +3011,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "fa4102a9090a",
@@ -3211,7 +3032,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "97e288ac86c2",
@@ -3231,7 +3052,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "17098059e1e7",
@@ -3327,7 +3148,7 @@
    "text": "Music Dance/Electronic Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "f59b71a51941",
@@ -3449,7 +3270,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "10846d2f1823",
@@ -3470,7 +3291,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "a6e32fd2cd01",
@@ -3506,7 +3327,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "acd5042bc3ef",
@@ -3526,7 +3347,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "129a67152abb",
@@ -3546,7 +3367,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "dbe5c59ffda1",
@@ -3708,7 +3529,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "68647fe37f67",
@@ -3769,7 +3590,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7272343d65f0",
@@ -3807,7 +3628,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "e102bdb07386",
@@ -3906,7 +3727,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "b9640cb563e5",
@@ -3926,7 +3747,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "bc5de2fd2bdc",
@@ -3998,7 +3819,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "2228f6f346a1",
@@ -4018,7 +3839,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "508e7394556a",
@@ -4056,7 +3877,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "bf52ca4a60eb",
@@ -4074,7 +3895,7 @@
    "text": "Music Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7ed18c5afc60",
@@ -4175,7 +3996,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "29ba80f44122",
@@ -4256,7 +4077,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "a039833cc417",
@@ -4274,7 +4095,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "bc5b72c39198",
@@ -4292,7 +4113,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "68aa9140652e",
@@ -4333,7 +4154,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "9b2cf978e11e",
@@ -4353,7 +4174,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "a2005468ef88",
@@ -4371,7 +4192,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "cdc256ddc5a4",
@@ -4449,7 +4270,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "378c1791e657",
@@ -4487,7 +4308,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "57bcc93aa234",
@@ -4506,7 +4327,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "18ff31290522",
@@ -4544,7 +4365,7 @@
    "text": "Music Rock Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7ab4842da3c9",
@@ -4580,7 +4401,7 @@
    "text": "Music Children's Music Children's Music",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "786dd54fc2c1",
@@ -4601,7 +4422,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "2dc678597a1d",
@@ -4619,7 +4440,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-03T21:31:28-08:00"
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "7300a319c2d5",
@@ -4992,8 +4813,8 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
-   "id": "119b16fdd671",
-   "title": "San Diego Ramen Festival",
+   "id": "7d16d186d031",
+   "title": "San Diego Ramen Festival 2026",
    "date": "2026-12-10",
    "time": "18:00",
    "end_date": null,
@@ -5006,8 +4827,8 @@
    "source": "Google",
    "text": "",
    "hint": [],
-   "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
+   "first_seen": "2026-11-04T05:30:32-08:00",
+   "last_seen": "2026-11-04T05:30:32-08:00"
   },
   {
    "id": "8ed79435215b",
