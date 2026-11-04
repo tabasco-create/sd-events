@@ -79,6 +79,18 @@ INTERESTS = {
             r"padres", r"san diego gulls", r"gulls", r"san diego fc", r"sdfc",
         ],
     },
+    "Car shows": {
+        "query": "car shows and cars and coffee meets in San Diego",
+        "strict": True,
+        "words": [
+            r"car shows?", r"cars (and|&|n'?) coffee", r"auto shows?", r"car meets?",
+            r"cruise nights?", r"cruise[- ]ins?", r"hot rods?", r"classic cars?", r"vintage cars?",
+            r"muscle cars?", r"lowriders?", r"concours( d'?elegance)?", r"motor shows?",
+            r"motorcycle shows?", r"kustom", r"volkswagen", r"vw (show|meet|festival|fest)",
+            r"vanagons?", r"air[- ]cooled", r"bus fest", r"jeep (show|meet|jamboree)",
+            r"truck shows?", r"cars and cocktails",
+        ],
+    },
     "Live music": {
         "query": "ska punk and alternative rock concerts in San Diego",
         "music": True,
@@ -127,9 +139,18 @@ INTERESTS = {
         "words": [
             r"hik(e|es|ing)", r"beach", r"surf(ing)?", r"kayak(ing)?", r"paddle ?board(ing)?",
             r"tide ?pools?", r"nature walks?", r"trail (runs?|walks?|work)", r"botanic(al)? gardens?", r"camp(ing|out)",
-            r"whale watch(ing)?", r"(beach |park |coastal )?clean[- ]?up", r"bird(ing| walk)",
+            r"whale watch(ing)?", r"bird(ing| walk)",
             r"ranger", r"bike ride", r"cycling", r"fun run", r"5k", r"10k", r"half marathon",
             r"star party", r"astronomy", r"sailing", r"snorkel(ing)?", r"fishing",
+        ],
+    },
+    "Beach cleanups": {
+        "query": "beach cleanup volunteer events in San Diego",
+        "strict": True,
+        "words": [
+            r"(beach|coastal|bay|ocean|shoreline|harbor|canyon|creek|river|park|trail|neighborhood|community) clean[- ]?ups?",
+            r"clean[- ]?ups?", r"coastal clean[- ]?up day", r"surfrider", r"i love a clean san diego",
+            r"ilacsd", r"creek to bay", r"trash pick[- ]?ups?", r"litter pick[- ]?ups?",
         ],
     },
     "Arts & museums": {
@@ -664,6 +685,40 @@ def merge(saved, found, today, now_iso, tm_ok=False, padres_ok=False):
             del out[k]
             continue
         e["tags"] = tags
+
+    # The same game listed by two sources with the teams the other way round
+    # ("Iowa Wild at San Diego Gulls" and "San Diego Gulls vs. Iowa Wild"): same day,
+    # start times within an hour (or one unknown), and the same words once "vs", "at",
+    # "@" and punctuation are ignored. Keep Ticketmaster's (or MLB's) listing.
+    def words_of(t):
+        t = re.sub(r"\(.*?\)|\[.*?\]", " ", t.lower())
+        w = set(re.findall(r"[a-z0-9]+", t)) - {"vs", "v", "at", "the", "and", "game", "fc"}
+        return frozenset(w)
+
+    def mins(e):
+        m = re.match(r"^(\d{2}):(\d{2})$", e.get("time") or "")
+        return int(m.group(1)) * 60 + int(m.group(2)) if m else None
+
+    by_day = {}
+    for e in out.values():
+        by_day.setdefault(e["date"], []).append(e)
+    for group in by_day.values():
+        rank = {"Ticketmaster": 0, "MLB": 0}
+        group.sort(key=lambda e: rank.get(e.get("source"), 1))
+        for i, a in enumerate(group):
+            if a["id"] not in out:
+                continue
+            wa = words_of(a["title"])
+            for b in group[i + 1:]:
+                if b["id"] not in out or len(wa) < 3 or words_of(b["title"]) != wa:
+                    continue
+                ma, mb = mins(a), mins(b)
+                if ma is not None and mb is not None and abs(ma - mb) > 60:
+                    continue
+                a["tags"] = [t for t in INTERESTS if t in a["tags"] or t in b["tags"]] or a["tags"]
+                a["url"] = a["url"] or b["url"]
+                a["time"] = a["time"] or b["time"]
+                del out[b["id"]]
 
     # Same show listed twice under slightly different names ("Halloween Spooktacular" and
     # "San Diego Symphony: Halloween Spooktacular"): same day and start time, and one
