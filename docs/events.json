@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T05:30:32-08:00",
- "checked": "2026-11-04T05:30:32-08:00",
+ "updated": "2026-11-05T05:36:37-08:00",
+ "checked": "2026-11-05T05:36:37-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -20,15 +20,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Beach cleanups + Arts & museums",
+   "category": "Makers & knives + Tech meetups",
    "searches_used": 3,
-   "found": 7,
-   "searches_left_before": 198
+   "found": 6,
+   "searches_left_before": 195
   },
   "ticketmaster": {
    "ok": true,
-   "found": 89,
-   "dropped_no_interest": 151
+   "found": 113,
+   "dropped_no_interest": 153
   },
   "padres": {
    "ok": true,
@@ -36,363 +36,6 @@
   }
  },
  "events": [
-  {
-   "id": "96d6b8c2c00b",
-   "title": "Speaker Series: Do You Even Need a Website Anymore?",
-   "date": "2026-11-04",
-   "time": "08:30",
-   "end_date": null,
-   "venue": "Red Door Interactive",
-   "where": "Red Door Interactive, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2002828371574?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "d7e3d1db1ca0",
-   "title": "Startup Quarters Curated Conversations",
-   "date": "2026-11-04",
-   "time": "10:15",
-   "end_date": null,
-   "venue": "Ansir Innovation Center",
-   "where": "Ansir Innovation Center, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "623ea0aaaf02",
-   "title": "Urban Oasis Presentation",
-   "date": "2026-11-04",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "Living Coast Discovery Center",
-   "where": "Living Coast Discovery Center, Chula Vista, CA",
-   "url": null,
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-03T05:29:11-08:00"
-  },
-  {
-   "id": "ce1e96feecb7",
-   "title": "AI Open Office Hours",
-   "date": "2026-11-04",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Design and Innovation Building",
-   "where": "Design and Innovation Building, San Diego, CA",
-   "url": "https://eventship.com/event/ai-open-office-hours-3",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "54ffdb7f6688",
-   "title": "Booze 'n' Brains interactive drinking games",
-   "date": "2026-11-04",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Little Bird Brewing",
-   "where": "Little Bird Brewing, San Diego, CA",
-   "url": "http://www.stubhub.com/id/booze-n-brains-interactive-drinking-games-san-diego-tickets-11-4-2026/event/162261966",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
-  },
-  {
-   "id": "af66cecd5ed1",
-   "title": "San Diego Startup Week",
-   "date": "2026-11-04",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "Design and Innovation Building",
-   "where": "Design and Innovation Building, Torrey Pines",
-   "url": "https://calendar.ucsd.edu/event/san-diego-startup-week-at-uc-san-diego",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "0d1c935cf37d",
-   "title": "Parent/Guardian and Child Robotic Arts and Crafts",
-   "date": "2026-11-04",
-   "time": "16:30",
-   "end_date": null,
-   "venue": "Halıcıoğlu Data Science Institute",
-   "where": "Halıcıoğlu Data Science Institute, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2003626089570?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "1ce299083fa3",
-   "title": "Bags & Brews",
-   "date": "2026-11-04",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Mike Hess Brewing, North Park",
-   "where": "Mike Hess Brewing, North Park, San Diego, CA",
-   "url": "https://www.mikehessbrewing.com/events/category/games/day/2026-11-04/",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
-  },
-  {
-   "id": "34ed6778174b",
-   "title": "Sushi Making at a Local Brewery With Chef Adriana",
-   "date": "2026-11-04",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Mission Brewing - Miramar",
-   "where": "Mission Brewing - Miramar, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
-  },
-  {
-   "id": "8b7e8d6de878",
-   "title": "Feel Good Hits: Grab Your Squad & Play Mini-Games",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "San Diego Brewing Company",
-   "where": "San Diego Brewing Company, San Diego, CA",
-   "url": "https://www.bingoremixedsd.com/next/-punch-bowl-social-lslcd-z5tpw",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
-  },
-  {
-   "id": "9f6d8601bcb8",
-   "title": "How the Grinch Stole Christmas (Touring)",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EA4",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "7fb51ec32c14",
-   "title": "Monthly Social for Makers, Tinkerers & Creatives",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "The Reuse & Repair Collective",
-   "where": "The Reuse & Repair Collective, San Diego, CA",
-   "url": "https://zerowastesandiego.org/events/2026-11-04/",
-   "tags": [
-    "Makers & knives",
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-10-30T06:19:41-07:00"
-  },
-  {
-   "id": "a1b3206dbdf7",
-   "title": "Plant Bingo Night",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Original 40 Brewing Company",
-   "where": "Original 40 Brewing Company, North Park",
-   "url": "https://www.eventbrite.com/e/2002228830330?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-10-22T06:09:11-07:00"
-  },
-  {
-   "id": "9c5f86ccc3ec",
-   "title": "The Outsiders (Touring)",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "San Diego Civic Theatre",
-   "where": "San Diego Civic Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/the-outsiders-touring-san-diego-california-11-04-2026/event/0A0064F8958965C4",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "7c7933f46467",
-   "title": "Fitz and The Tantrums - Greatest Hits Show",
-   "date": "2026-11-04",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "Belly Up",
-   "where": "Belly Up, Solana Beach",
-   "url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Indie Pop",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "c3a13cfa2c4a",
-   "title": "bunii - BUNIIVERSITY TOUR",
-   "date": "2026-11-04",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "SOMA - Sidestage",
-   "where": "SOMA - Sidestage, San Diego",
-   "url": "https://www.ticketweb.com/event/bunii-buniiversity-tour-soma-sidestage-tickets/15044773",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Indie Rock",
-   "hint": [],
-   "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "3716cbd7c7c2",
-   "title": "Six60 - Right Here Right Now - North America 2026 w/ We the Commas",
-   "date": "2026-11-04",
-   "time": "20:00",
-   "end_date": null,
-   "venue": "Music Box",
-   "where": "Music Box, San Diego",
-   "url": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music R&B Soul Music Alternative Pop Underground",
-   "hint": [],
-   "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "9277bda42d81",
-   "title": "Dr. Seuss’s How the Grinch Stole Christmas",
-   "date": "2026-11-04",
-   "time": null,
-   "end_date": null,
-   "venue": "The Old Globe",
-   "where": "The Old Globe, Balboa Park",
-   "url": null,
-   "tags": [
-    "Family & kids",
-    "Balboa Park"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-10-21T17:10:00-07:00"
-  },
   {
    "id": "c77e89d1675b",
    "title": "Bright Business Club: Monthly Founders and Experts Collaborative",
@@ -487,7 +130,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "4717c5b5a5c1",
@@ -528,7 +171,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "95011729788e",
@@ -584,7 +227,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "1e5d8b85ddc1",
@@ -634,7 +277,7 @@
    "end_date": null,
    "venue": "Embarcadero Marina Park North",
    "where": "Embarcadero Marina Park North, San Diego, CA",
-   "url": "https://ru.cantonfair.net/event-location/9397-san-diego-embarcadero-marina-park-north-california-usa",
+   "url": "https://fr.cantonfair.net/event-location/9397-san-diego-embarcadero-marina-park-north-california-usa",
    "tags": [
     "Food & beer"
    ],
@@ -644,7 +287,7 @@
     "Food & beer"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "6ad06588476b",
@@ -837,7 +480,7 @@
    "end_date": null,
    "venue": "JULEP Venue",
    "where": "JULEP Venue, San Diego, CA",
-   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793780085",
+   "url": "https://www.stubhub.com/E-161086388?pcid=PSUSAEVECONALLEF426C5CF9E&ps_p=8&ps_placement=eventfeed&ps=vn-150024725%7Cev-161086388%7Ccy-6206&ps_ev=161086388&efp=260.8&efl=14476901408&eft=1793873694",
    "tags": [
     "Food & beer"
    ],
@@ -845,7 +488,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "a5adc5db0437",
@@ -865,7 +508,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "2d7bbff564d5",
@@ -954,7 +597,7 @@
    "text": "Music Rock Pop Punk",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "b1544e8d62dd",
@@ -974,7 +617,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "8e368f476657",
@@ -1012,7 +655,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "47fa0775a726",
@@ -1030,7 +673,7 @@
    "text": "Music World Latin Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "ca865b326798",
@@ -1287,7 +930,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "e3aeecb7837b",
@@ -1405,7 +1048,7 @@
    "text": "Sports Soccer MLS",
    "hint": [],
    "first_seen": "2026-10-21T17:04:49-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "94a039229cd2",
@@ -1443,7 +1086,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "03fe975a632a",
@@ -1485,24 +1128,24 @@
   },
   {
    "id": "41de2788634f",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-07",
    "time": "19:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EAw",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-3",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "d26d35912d2f",
@@ -1542,7 +1185,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "89d250f0fdaa",
@@ -1562,7 +1205,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "ca2a502bcaff",
@@ -1582,7 +1225,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "d8603e655886",
@@ -1602,7 +1245,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "0e877deb3f9b",
@@ -1798,28 +1441,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
-   "id": "32b27d55fb9c",
-   "title": "How the Grinch Stole Christmas (Touring)",
-   "date": "2026-11-08",
-   "time": "16:30",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EAg",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "09d94e324be3",
@@ -1877,7 +1499,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "aa83369f4b2d",
@@ -1897,7 +1519,28 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
+   "id": "32b27d55fb9c",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-f",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-10-28T06:21:37-07:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "f763eb015b76",
@@ -1915,7 +1558,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "2d6e0997b6a1",
@@ -1933,7 +1576,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "e225ddc21e8f",
@@ -1951,7 +1594,7 @@
    "text": "Music Rock Folk Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "b23954228d69",
@@ -1969,7 +1612,7 @@
    "text": "Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "30163a889350",
@@ -1989,7 +1632,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "de0748d6e95c",
@@ -2007,7 +1650,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-19T17:11:21-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "7d9c57b99087",
@@ -2126,7 +1769,7 @@
    "text": "Music Rock Psychedelic Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "82a623e9a025",
@@ -2144,7 +1787,7 @@
    "text": "Music Alternative Alternative Rock Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-20T06:07:13-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "fa5eea4d5343",
@@ -2256,7 +1899,7 @@
    "text": "Music Rock Post-Hardcore Music Rock Music Alternative Alternative Rock Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-10-21T06:08:53-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "faf12e2284a6",
@@ -2281,24 +1924,24 @@
   },
   {
    "id": "ac78c011beaf",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-10",
    "time": "19:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EAU",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-9",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "71f1013b22ac",
@@ -2380,24 +2023,24 @@
   },
   {
    "id": "23a944361986",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-11",
    "time": "17:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EAz",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-b",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "69d5553a7953",
@@ -2495,7 +2138,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "d55da60e670f",
@@ -2513,7 +2156,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-22T06:09:11-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "81049b1594a0",
@@ -2595,7 +2238,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "5b0dc2fafb12",
@@ -2694,7 +2337,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "e1b4ea958f58",
@@ -2735,28 +2378,28 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "bb29a3762bea",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-13",
    "time": "19:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EAy",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-O",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "9148df9e843f",
@@ -2794,7 +2437,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "8eb3fab02aed",
@@ -2832,7 +2475,7 @@
    "text": "Music Rock Experimental Rock Music Country Alternative Country Music Alternative Post-Punk Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "34b40f8fa24c",
@@ -2852,7 +2495,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "3bca618c73ce",
@@ -2994,24 +2637,24 @@
   },
   {
    "id": "6c90428e315f",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-14",
    "time": "17:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Ekd",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-N",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "fa4102a9090a",
@@ -3032,7 +2675,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "97e288ac86c2",
@@ -3052,7 +2695,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "17098059e1e7",
@@ -3148,7 +2791,7 @@
    "text": "Music Dance/Electronic Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "f59b71a51941",
@@ -3252,25 +2895,43 @@
    "last_seen": "2026-10-24T06:00:04-07:00"
   },
   {
+   "id": "ce07ca7e6507",
+   "title": "Sunset Dance Party: Sunset Sessions Vol. 26",
+   "date": "2026-11-15",
+   "time": "15:00",
+   "end_date": null,
+   "venue": "Black’s Beach Park",
+   "where": "Black’s Beach Park, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2003830769774?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
    "id": "967e3f7068b2",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-15",
    "time": "17:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Eka",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-J",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "10846d2f1823",
@@ -3291,7 +2952,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "a6e32fd2cd01",
@@ -3327,7 +2988,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "acd5042bc3ef",
@@ -3347,7 +3008,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "129a67152abb",
@@ -3367,7 +3028,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "dbe5c59ffda1",
@@ -3512,24 +3173,24 @@
   },
   {
    "id": "dd4e7bfbd368",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-17",
    "time": "19:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Ek8",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-E",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "68647fe37f67",
@@ -3573,24 +3234,24 @@
   },
   {
    "id": "60612870c144",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-18",
    "time": "19:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7Eko",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-I",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "7272343d65f0",
@@ -3628,7 +3289,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "e102bdb07386",
@@ -3712,6 +3373,27 @@
    "last_seen": "2026-10-30T06:19:41-07:00"
   },
   {
+   "id": "27a25747731d",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t_9",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
    "id": "6bb59eb01c09",
    "title": "Manic Street Preachers",
    "date": "2026-11-19",
@@ -3727,7 +3409,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "b9640cb563e5",
@@ -3747,7 +3429,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "bc5de2fd2bdc",
@@ -3804,6 +3486,27 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "72fdae7be279",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t_p",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
    "id": "3974def02743",
    "title": "San Diego Gulls vs. Iowa Wild",
    "date": "2026-11-20",
@@ -3819,7 +3522,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "2228f6f346a1",
@@ -3839,7 +3542,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "508e7394556a",
@@ -3877,7 +3580,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
+   "id": "de00d4497e41",
+   "title": "Emo Nite - 21+",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "where": "Casbah-San Diego, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7zFo",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Other Other",
+   "hint": [],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "bf52ca4a60eb",
@@ -3895,7 +3616,7 @@
    "text": "Music Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "7ed18c5afc60",
@@ -3979,24 +3700,24 @@
   },
   {
    "id": "ea36686e2b22",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-21",
    "time": "17:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EFe",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-Y",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "29ba80f44122",
@@ -4077,7 +3798,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "a039833cc417",
@@ -4095,7 +3816,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "bc5b72c39198",
@@ -4113,7 +3834,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "68aa9140652e",
@@ -4154,7 +3875,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "9b2cf978e11e",
@@ -4174,7 +3895,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "a2005468ef88",
@@ -4192,7 +3913,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "cdc256ddc5a4",
@@ -4252,27 +3973,6 @@
    "last_seen": "2026-10-21T06:08:53-07:00"
   },
   {
-   "id": "b3731fc12990",
-   "title": "How the Grinch Stole Christmas (Touring)",
-   "date": "2026-11-22",
-   "time": "14:00",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7E1k",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
-  },
-  {
    "id": "378c1791e657",
    "title": "The Wrecks Tickets",
    "date": "2026-11-22",
@@ -4289,6 +3989,27 @@
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
    "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "b3731fc12990",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-22",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t_b",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-02T05:32:17-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "24f189e53731",
@@ -4308,7 +4029,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "57bcc93aa234",
@@ -4327,7 +4048,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "18ff31290522",
@@ -4365,7 +4086,7 @@
    "text": "Music Rock Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "7ab4842da3c9",
@@ -4401,28 +4122,28 @@
    "text": "Music Children's Music Children's Music",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "786dd54fc2c1",
-   "title": "How the Grinch Stole Christmas (Touring)",
+   "title": "How the Grinch Stole Christmas",
    "date": "2026-11-24",
    "time": "17:00",
    "end_date": null,
    "venue": "Old Globe Theatre",
    "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7EGN",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-S",
    "tags": [
     "Balboa Park",
     "Arts & museums"
    ],
    "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
+   "text": "Arts & Theatre",
    "hint": [
     "Arts & museums"
    ],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "2dc678597a1d",
@@ -4440,7 +4161,64 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-04T05:30:32-08:00"
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
+   "id": "062efc15d67a",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvwf3",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Theatre Musical",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
+   "id": "57b845ec56a7",
+   "title": "Oceans & The Imposters Happy Hour",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Belly Up",
+   "where": "Belly Up, Solana Beach",
+   "url": "https://www.ticketweb.com/event/oceans-the-imposters-happy-belly-up-tickets/15029833",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Alternative Alternative Music Alternative Alternative",
+   "hint": [],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
+  },
+  {
+   "id": "258a79b99251",
+   "title": "George Clanton",
+   "date": "2026-11-25",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "SOMA - Mainstage",
+   "where": "SOMA - Mainstage, San Diego",
+   "url": "https://www.ticketweb.com/event/george-clanton-soma-mainstage-tickets/14992103",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Alternative Electronic Pop",
+   "hint": [],
+   "first_seen": "2026-11-05T05:36:37-08:00",
+   "last_seen": "2026-11-05T05:36:37-08:00"
   },
   {
    "id": "7300a319c2d5",
