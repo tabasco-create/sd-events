@@ -1,9 +1,10 @@
 {
- "updated": "2026-11-15T10:57:49-08:00",
- "checked": "2026-11-15T10:57:49-08:00",
+ "updated": "2026-11-15T20:37:15-08:00",
+ "checked": "2026-11-15T20:37:15-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
+  "YMCA",
   "Local sports",
   "Car shows",
   "Live music",
@@ -23,16 +24,27 @@
    "category": "Balboa Park + Beach & outdoors",
    "searches_used": 3,
    "found": 6,
-   "searches_left_before": 165
+   "searches_left_before": 162
   },
   "ticketmaster": {
    "ok": true,
-   "found": 108,
-   "dropped_no_interest": 128
+   "found": 106,
+   "dropped_no_interest": 130
   },
   "padres": {
    "ok": true,
    "found": 0
+  },
+  "ymca": {
+   "ok": true,
+   "found": 4,
+   "calendar": 3,
+   "ryan_news": {
+    "posts": 6,
+    "events": 3
+   },
+   "pool": 1,
+   "complete": true
   }
  },
  "events": [
@@ -113,48 +125,6 @@
    "last_seen": "2026-11-15T10:57:49-08:00"
   },
   {
-   "id": "967e3f7068b2",
-   "title": "How the Grinch Stole Christmas",
-   "date": "2026-11-15",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z-J",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
-   "id": "10846d2f1823",
-   "title": "Bluey's Big Play",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "Balboa Theatre",
-   "where": "Balboa Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/blueys-big-play-san-diego-california-11-15-2026/event/0A006466AE668442",
-   "tags": [
-    "Family & kids",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Children's Theatre Children's Theatre",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
    "id": "a6e32fd2cd01",
    "title": "Slothrust",
    "date": "2026-11-15",
@@ -171,64 +141,6 @@
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
    "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "5edb5efaf942",
-   "title": "Jake Minch - Getting Big Tour",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Voodoo Room at the House of Blues San Diego",
-   "where": "Voodoo Room at the House of Blues San Diego, San Diego",
-   "url": "https://www.ticketmaster.com/jake-minch-getting-big-tour-san-diego-california-11-15-2026/event/0A0064E1C0689319",
-   "tags": [
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Rock Alternative Rock",
-   "hint": [],
-   "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
-   "id": "129a67152abb",
-   "title": "Nick Cannon Presents: Wild 'N Out Live - The Next Generation",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Viejas Arena at Aztec Bowl San Diego State University",
-   "where": "Viejas Arena at Aztec Bowl San Diego State University, San Diego",
-   "url": "https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-san-diego-california-11-15-2026/event/0A006529201153CD",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Comedy Comedy",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
-   "id": "acd5042bc3ef",
-   "title": "Jo Koy: Koy Meets World Tour",
-   "date": "2026-11-15",
-   "time": "19:30",
-   "end_date": null,
-   "venue": "San Diego Civic Theatre",
-   "where": "San Diego Civic Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/jo-koy-koy-meets-world-tour-san-diego-california-11-15-2026/event/0A0064B56B062C92",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Comedy Comedy",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
   },
   {
    "id": "dbe5c59ffda1",
@@ -292,6 +204,26 @@
    "last_seen": "2026-11-01T05:13:35-08:00"
   },
   {
+   "id": "5072fc5359c1",
+   "title": "Gratitude Gathering",
+   "date": "2026-11-17",
+   "time": "12:30",
+   "end_date": null,
+   "venue": "Ryan Family YMCA",
+   "where": "Ryan Family YMCA, Patio, San Diego, CA",
+   "url": "https://www.ymcasd.org/about-y/news-center/events/thanksgiving-events/",
+   "tags": [
+    "YMCA"
+   ],
+   "source": "YMCA",
+   "text": "This November, let’s gather and celebrate the little things that bring us joy and gratitude! Bring a charcuterie board to share , whether it’s sweet, savory, healthy or something uniquely your own. We’ll bring all our boards together to enjoy a variety of delicious creations and connect with one ano",
+   "hint": [
+    "YMCA"
+   ],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
+  },
+  {
    "id": "009fd653e6e2",
    "title": "Walk at San Elijo Lagoon Nature Center",
    "date": "2026-11-17",
@@ -350,7 +282,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "68647fe37f67",
@@ -391,7 +323,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "563c95a15f1c",
@@ -409,7 +341,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "cb05a4561aeb",
@@ -490,7 +422,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "6bb59eb01c09",
@@ -508,7 +440,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "b9640cb563e5",
@@ -528,7 +460,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "eeced87227e4",
@@ -546,7 +478,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "bc5de2fd2bdc",
@@ -582,7 +514,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "1989d9f1c90f",
@@ -657,7 +589,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "3974def02743",
@@ -675,7 +607,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "2228f6f346a1",
@@ -695,7 +627,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "508e7394556a",
@@ -733,7 +665,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "de00d4497e41",
@@ -751,7 +683,7 @@
    "text": "Music Other Other",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "0bcb2204858d",
@@ -769,7 +701,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "bf52ca4a60eb",
@@ -787,7 +719,7 @@
    "text": "Music Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "bd4417c134ee",
@@ -866,7 +798,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "29ba80f44122",
@@ -947,7 +879,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "a039833cc417",
@@ -965,7 +897,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "bc5b72c39198",
@@ -983,7 +915,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "68aa9140652e",
@@ -1024,7 +956,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "9b2cf978e11e",
@@ -1044,7 +976,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "a2005468ef88",
@@ -1062,7 +994,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "af43310c4b6b",
@@ -1080,7 +1012,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "cdc256ddc5a4",
@@ -1157,7 +1089,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "24f189e53731",
@@ -1177,7 +1109,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "57bcc93aa234",
@@ -1196,7 +1128,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "18ff31290522",
@@ -1234,7 +1166,7 @@
    "text": "Music Rock Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "7ab4842da3c9",
@@ -1270,7 +1202,7 @@
    "text": "Music Children's Music Children's Music",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "786dd54fc2c1",
@@ -1291,7 +1223,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "2dc678597a1d",
@@ -1309,7 +1241,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "062efc15d67a",
@@ -1330,7 +1262,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "57b845ec56a7",
@@ -1348,7 +1280,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "258a79b99251",
@@ -1366,7 +1298,27 @@
    "text": "Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
+  },
+  {
+   "id": "94671613503c",
+   "title": "Thanksgiving rest and reset",
+   "date": "2026-11-26",
+   "time": "08:00",
+   "end_date": null,
+   "venue": "Ryan Family YMCA",
+   "where": "Ryan Family YMCA, Multipurpose Room, San Diego, CA",
+   "url": "https://www.ymcasd.org/about-y/news-center/events/thanksgiving-events/",
+   "tags": [
+    "YMCA"
+   ],
+   "source": "YMCA",
+   "text": "Start Thanksgiving morning with Rest & Reset, a restorative experience designed to help you slow down, release tension and make space for rest and gratitude. Through gentle movement, relaxation and the soothing sounds of therapeutic instruments, participants will have an opportunity to pause, rechar",
+   "hint": [
+    "YMCA"
+   ],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "d06a532ea825",
@@ -1384,7 +1336,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "190c1a6d32ca",
@@ -1402,7 +1354,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "7300a319c2d5",
@@ -1438,7 +1390,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "9a33d5474dfb",
@@ -1459,7 +1411,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "5e4c06ee902c",
@@ -1499,7 +1451,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "2faf55bf2863",
@@ -1517,7 +1469,7 @@
    "text": "Music Dance/Electronic Amapiano",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "b1496f4d44b9",
@@ -1650,7 +1602,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "25712b42c703",
@@ -1670,7 +1622,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "2da416a7240d",
@@ -1688,7 +1640,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "46b130fe9b70",
@@ -1706,7 +1658,7 @@
    "text": "Music Alternative Alternative Rock Music Metal Heavy Metal Music Rock Pop Music Rock Hard Rock",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "28685e5db703",
@@ -1724,7 +1676,7 @@
    "text": "Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "18b88b23693f",
@@ -1745,6 +1697,24 @@
    "last_seen": "2026-11-13T11:51:49-08:00"
   },
   {
+   "id": "d32376b76c17",
+   "title": "Sunday social",
+   "date": "2026-11-29",
+   "time": "16:30",
+   "end_date": null,
+   "venue": "Feast and Fareway",
+   "where": "Feast and Fareway, Coronado, CA",
+   "url": "https://fullpass.social/en/events/usa/san-diego/sunday-social-2026-11-29",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
+  },
+  {
    "id": "6d20909be8bb",
    "title": "How the Grinch Stole Christmas (Touring)",
    "date": "2026-11-29",
@@ -1763,7 +1733,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "43a3699e1499",
@@ -1781,7 +1751,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "3778b7948d06",
@@ -1802,7 +1772,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "41bc8feb8573",
@@ -1858,7 +1828,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "8daf6f7190bb",
@@ -1879,7 +1849,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "a406217c2c1a",
@@ -1897,7 +1867,7 @@
    "text": "Music Chanson Francaise Chanson Francaise",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "8915185cc09d",
@@ -1918,7 +1888,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "12087ba19a53",
@@ -1936,7 +1906,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "47074f805b4b",
@@ -1954,7 +1924,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "6f8a0b09a17c",
@@ -1972,7 +1942,7 @@
    "text": "Music Rock Funk-Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "15ff3ff0c5a2",
@@ -2010,7 +1980,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "5ef99082bd67",
@@ -2028,7 +1998,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "52ec453ed95e",
@@ -2046,7 +2016,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "bc754c6ec688",
@@ -2066,7 +2036,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "86e4be7df910",
@@ -2086,7 +2056,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "e7518efefaf5",
@@ -2127,7 +2097,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "19811909c0bf",
@@ -2143,11 +2113,9 @@
    ],
    "source": "Ticketmaster",
    "text": "Sports Hockey Minor League",
-   "hint": [
-    "Local sports"
-   ],
+   "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "2596bee83995",
@@ -2165,7 +2133,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "12b17c5a52cc",
@@ -2185,7 +2153,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "f43210719c41",
@@ -2205,28 +2173,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
-   "id": "31af9e833025",
-   "title": "How the Grinch Stole Christmas (Touring)",
-   "date": "2026-12-06",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvwfb",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "f67771af4fde",
@@ -2283,6 +2230,65 @@
    ],
    "first_seen": "2026-11-03T05:29:11-08:00",
    "last_seen": "2026-11-03T05:29:11-08:00"
+  },
+  {
+   "id": "31af9e833025",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z0A",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-15T10:57:49-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
+  },
+  {
+   "id": "ec6844da2d0b",
+   "title": "The Hip Hop Nutcracker (Touring)",
+   "date": "2026-12-06",
+   "time": "18:30",
+   "end_date": null,
+   "venue": "Balboa Theatre",
+   "where": "Balboa Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-touring-san-diego-california-12-06-2026/event/0A006512E64D63E1",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Dance Dance",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
+  },
+  {
+   "id": "fc362156f412",
+   "title": "The Pineapple Thief",
+   "date": "2026-12-06",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "The Observatory North Park",
+   "where": "The Observatory North Park, San Diego",
+   "url": "https://www.ticketmaster.com/the-pineapple-thief-san-diego-california-12-06-2026/event/0B006488BD7F4B3B",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Alternative Rock",
+   "hint": [],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "da6cd6af0943",
@@ -2360,7 +2366,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-04T05:30:32-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "8ed79435215b",
@@ -2381,6 +2387,26 @@
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
    "last_seen": "2026-11-01T05:13:35-08:00"
+  },
+  {
+   "id": "ff64623ab2ed",
+   "title": "35th Annual Paul Ecke, Jr. Poinsettia Ball",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Magdalena Ecke Family YMCA",
+   "where": "Magdalena Ecke Family YMCA, 200 Saxony Rd, Encinitas, CA",
+   "url": "https://www.ymcasd.org/events/annual-paul-ecke-jr-poinsettia-ball/",
+   "tags": [
+    "YMCA"
+   ],
+   "source": "YMCA",
+   "text": "",
+   "hint": [
+    "YMCA"
+   ],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "e73a811c7883",
@@ -2420,6 +2446,26 @@
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
    "last_seen": "2026-10-31T06:13:43-07:00"
+  },
+  {
+   "id": "d1151d2e3400",
+   "title": "Ryan YMCA pool closed",
+   "date": "2026-12-14",
+   "time": null,
+   "end_date": "2026-12-18",
+   "venue": "Ryan Family YMCA",
+   "where": "Ryan Family YMCA, San Diego, CA",
+   "url": "https://tabasco-create.github.io/swim-calendar/#pool",
+   "tags": [
+    "YMCA"
+   ],
+   "source": "YMCA",
+   "text": "Due to annual cleaning and maintenance, the pool and aquatics facility at Ryan Family YMCA will be closed from Monday, December 14 through Friday December 18, 2026. We apologize for the inconvenience and appreciate your patience!",
+   "hint": [
+    "YMCA"
+   ],
+   "first_seen": "2026-11-15T20:37:15-08:00",
+   "last_seen": "2026-11-15T20:37:15-08:00"
   },
   {
    "id": "dae45b0824c0",
