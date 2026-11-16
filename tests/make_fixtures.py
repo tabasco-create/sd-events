@@ -72,4 +72,37 @@ json.dump({"events_results": [
     g("December Nights Preview", "Oct 25", "Sat, Oct 25, 5 – 9 PM", ["Balboa Park, 1549 El Prado", "San Diego, CA"], "Lights and music."),
     g("Smooth Jazz Brunch", "Oct 26", "Sun, Oct 26, 11 AM – 2 PM", ["Some Lounge", "San Diego, CA"], "Live jazz band."),
 ]}, open(out / "serpapi_general.json", "w"), indent=1)
+# ---- YMCA: the Y's iCal feed, the Ryan location page, one News Center post, pool.json ----
+(out / "ymca_ical.txt").write_text("""BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T073000
+DTEND;TZID=America/Los_Angeles:20261024T120000
+SUMMARY:Toby Wells Bike-A-Thon
+DESCRIPTION:leftover text that is the same on every event
+URL:https://www.ymcasd.org/events/toby-annual-bike-a-thon
+LOCATION:Toby Wells YMCA\\, 5105 Overland Ave\\, San Diego\\, CA\\, 92123
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261022T090000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+SUMMARY:Western Camping Conference
+LOCATION:YMCA Camp Surf\\, Imperial Beach\\, CA
+END:VEVENT
+END:VCALENDAR
+""", encoding="utf-8")
+(out / "ymca_branch.txt").write_text(
+    '<a href="/about-y/news-center/events/halloween-events/">Halloween Events</a>', encoding="utf-8")
+(out / "ymca_news_0.txt").write_text("""<h2>Choose Your location</h2>
+<h3>Border View Family YMCA | Trunk-or-treat (Oct 30)</h3>
+<h4>Trunk-or-treat</h4><h6>Friday, October 30 | 5:00-8:00pm</h6><p>Not our branch.</p>
+<h3>Ryan Family YMCA | Trunk-or-treat (Oct 30)</h3>
+<h4>TRUNK-OR-TREAT</h4><h6>Friday, October 30 | 4:00-5:30pm | Parking Lot</h6>
+<p>Bring the whole family for a night of Halloween excitement.</p>
+<h3>Ryan Family YMCA | Trunk-or-Treat, October 30 (last year's section)</h3>
+<h4>Trunk-or-Treat</h4><h6>Wednesday, October 30 | 5:00-7:00pm</h6>
+<h2>Contact Us</h2>""", encoding="utf-8")
+json.dump({"ok": True, "closures": [{"title": "Pool Closure", "from": "2026-10-27", "to": "2026-10-29",
+           "pool": True, "text": "The pool at Ryan Family YMCA will be closed for maintenance."}]},
+          open(out / "ymca_pool.json", "w"), indent=1)
 print("fixtures written to", out)

@@ -11,6 +11,11 @@ Each run (once a day, from GitHub Actions):
      (concerts, theater, family shows, Gulls and San Diego FC games). Free key,
      5,000 calls a day; we use 3.
   2b. MLB's public schedule (no key): Padres home games at Petco Park.
+  2c. YMCA of San Diego County (no key):
+      - the Y's events calendar (iCal feed): the county-wide events
+      - the Ryan Family YMCA's events in the Y's News Center posts (Halloween,
+        Thanksgiving, ...), found through the links on the Ryan location page
+      - Ryan YMCA pool closures, from the swim-calendar repo's pool.json
   3. Merges the results into the saved list, so events found on earlier days stay
      until they're over. Tags each event with your interest categories, drops
      anything that matches none of them, online-only events, and ticket add-ons.
@@ -31,6 +36,7 @@ No third-party packages needed.
 """
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -70,6 +76,13 @@ INTERESTS = {
             r"aquarium", r"fleet science", r"scouts?", r"carnival", r"county fair",
             r"science (fair|festival|night)", r"holiday lights", r"tree lighting",
         ],
+    },
+    "YMCA": {
+        # No Google search for this one (query None): its events come straight from the
+        # Y's own site (see YMCA below). The words also tag Google/Ticketmaster events.
+        "query": None,
+        "places": True,
+        "words": [r"ymca", r"camp marston", r"camp surf"],
     },
     "Local sports": {
         "query": "San Diego Gulls and San Diego FC home games",
@@ -210,6 +223,24 @@ PADRES = {
     "days_ahead": 21,
 }
 
+# The YMCA of San Diego County's own listings (no key needed).
+YMCA = {
+    "category": "YMCA",
+    "ical": "https://www.ymcasd.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    # The location page links to the News Center event posts; only this branch's
+    # events in them are kept (the posts have one section per branch).
+    "branch_page": "https://www.ymcasd.org/locations/t-claude-and-gladys-b-ryan-family-ymca/",
+    "branch_re": r"\bryan\b",
+    "branch_name": "Ryan Family YMCA",
+    "news_re": r"/about-y/news-center/events/[a-z0-9-]+/?$",
+    "news_max": 8,               # posts read per run (the page links about six)
+    # Pool closures, published daily by the swim-calendar repo
+    "pool_json": "https://tabasco-create.github.io/swim-calendar/pool.json",
+    "pool_page": "https://tabasco-create.github.io/swim-calendar/#pool",
+    # county-wide calendar entries left out (whole words, any case)
+    "skip": [r"conference", r"training", r"board meeting"],
+}
+
 # Dropped if title or description matches any of these (whole words, any case).
 EXCLUDE = [
     r"webinar", r"virtual", r"online[- ]only", r"livestream", r"zoom", r"online event",
@@ -246,6 +277,7 @@ def compile_words(words):
 INTEREST_RES = {name: compile_words(spec["words"]) for name, spec in INTERESTS.items()}
 EXCLUDE_RE = compile_words(EXCLUDE)
 MUSIC_RE = compile_words(MUSIC_WORDS)
+YMCA_SKIP_RE = compile_words(YMCA["skip"])
 
 
 # ---------------------------------------------------------------------------
@@ -275,6 +307,21 @@ class Fetcher:
             body = e.read(300).decode("utf-8", "replace")
             # Never let the key leak into logs.
             raise RuntimeError(f"HTTP {e.code} from {urllib.parse.urlsplit(url).hostname}: {body}") from None
+
+    def text(self, kind, url):
+        """HTTP GET of a web page or calendar file (fixtures: tests/fixtures/<kind>.txt)."""
+        self.calls.append(kind)
+        if self.fixtures:
+            path = self.fixtures / f"{kind}.txt"
+            if not path.exists():
+                raise FileNotFoundError(f"no fixture {path}")
+            return path.read_text(encoding="utf-8")
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            raise RuntimeError(f"HTTP {e.code} from {url}") from None
 
 
 def serpapi_left(fetch, key):
@@ -526,6 +573,311 @@ def from_ticketmaster(r):
     }
 
 
+# ---- YMCA -----------------------------------------------------------------
+
+DAY_NAMES = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+FULL_DATE_RE = re.compile(
+    r"(?:(mon|tue|wed|thu|fri|sat|sun)[a-z]*\.?,?\s+)?"
+    r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?(?:,?\s+(\d{4}))?", re.I)
+CLOCK_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*([ap])?\.?\s*m?\.?", re.I)
+
+
+def html_text(fragment):
+    s = re.sub(r"(?is)<(script|style|noscript)\b.*?</\1>", " ", fragment)
+    s = re.sub(r"(?i)<br\s*/?>|</p>|</div>|</li>", "\n", s)
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html.unescape(s).replace("\xa0", " ")
+    return "\n".join(l for l in (re.sub(r"[ \t]+", " ", x).strip() for x in s.split("\n")) if l)
+
+
+def ical_events(text):
+    """VEVENTs of an .ics file as dicts of property -> (params, value)."""
+    text = re.sub(r"\r?\n[ \t]", "", text.replace("\r\n", "\n"))
+    out, cur = [], None
+    for line in text.split("\n"):
+        if line == "BEGIN:VEVENT":
+            cur = {}
+        elif line == "END:VEVENT":
+            if cur is not None:
+                out.append(cur)
+            cur = None
+        elif cur is not None and ":" in line:
+            head, value = line.split(":", 1)
+            name, *params = head.split(";")
+            value = re.sub(r"\\([,;\\])", r"\1", value).replace("\\n", "\n").replace("\\N", "\n")
+            cur[name.upper()] = (";".join(params), value)
+    return out
+
+
+def ical_time(prop):
+    """(date, "HH:MM" or None) from a DTSTART/DTEND value."""
+    params, v = prop
+    m = re.match(r"^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})(Z)?)?$", v.strip())
+    if not m:
+        return None, None
+    y, mo, d, hh, mm, _, z = m.groups()
+    if hh is None:
+        return date(int(y), int(mo), int(d)), None
+    t = datetime(int(y), int(mo), int(d), int(hh), int(mm))
+    if z:
+        t = t.replace(tzinfo=timezone.utc).astimezone(TZ).replace(tzinfo=None)
+    return t.date(), t.strftime("%H:%M")
+
+
+def from_ymca_ical(ev):
+    if "DTSTART" not in ev or "SUMMARY" not in ev:
+        return None
+    start, clock = ical_time(ev["DTSTART"])
+    if not start:
+        return None
+    end = None
+    if "DTEND" in ev:
+        end_d, end_t = ical_time(ev["DTEND"])
+        if end_d and end_t is None and clock is None:
+            end_d -= timedelta(days=1)          # all-day DTEND is the day after
+        if end_d and end_d > start:
+            end = end_d
+    where = clean(re.sub(r",\s*United States$", "", ev.get("LOCATION", ("", ""))[1]), 160)
+    where = re.sub(r"(,\s*CA)(,\s*CA)+\b", r"\1", where)
+    return {
+        "title": clean(ev["SUMMARY"][1], 160),
+        "date": start.isoformat(),
+        "time": clock,
+        "end_date": end.isoformat() if end else None,
+        "venue": clean(where.split(",")[0], 80),
+        "where": where,
+        "url": safe_url(ev.get("URL", ("", ""))[1]) or "https://www.ymcasd.org/events",
+        # The feed's DESCRIPTION is the same leftover text on every event, so it's not used.
+        "text": "",
+        "source": "YMCA",
+        "hint": [YMCA["category"]],
+        "cancelled": bool(re.search(r"cancel", ev.get("STATUS", ("", ""))[1], re.I)),
+    }
+
+
+def ymca_news_links(page):
+    links = []
+    for href in re.findall(r'href="([^"]+)"', page):
+        url = urllib.parse.urljoin(YMCA["branch_page"], html.unescape(href)).split("#")[0]
+        if re.search(YMCA["news_re"], url, re.I):
+            url = url.rstrip("/") + "/"
+            if url not in links:
+                links.append(url)
+    return links[:YMCA["news_max"]]
+
+
+def branch_day(text, today):
+    """A date from "Tuesday, November 17" (no year). The weekday picks the year, so a
+    section left over from last year ("Wednesday, October 30") lands in that year."""
+    m = FULL_DATE_RE.search(text)
+    if not m:
+        return None
+    dow, mon, day, year = m.groups()
+    mo, d = MONTHS[mon[:3].lower()], int(day)
+    years = [int(year)] if year else [today.year - 1, today.year, today.year + 1]
+    fits = []
+    for y in years:
+        try:
+            x = date(y, mo, d)
+        except ValueError:
+            continue
+        if not dow or DAY_NAMES[x.weekday()].startswith(dow[:3].lower()):
+            fits.append(x)
+    if not fits:
+        return None
+    # nearest to today among the years whose weekday fits
+    return min(fits, key=lambda x: abs((x - today).days))
+
+
+def branch_clock(text):
+    """Start time "HH:MM" from "12:30-1:30pm" / "8:00am-9:15am" / "11:00am", or None."""
+    m = re.match(r"^\s*(\d{1,2}(?::\d{2})?\s*(?:[ap]\.?m\.?)?)\s*(?:[–—-]\s*(\d{1,2}(?::\d{2})?\s*(?:[ap]\.?m\.?)?))?", text, re.I)
+    if not m:
+        return None
+    def parse(s):
+        c = CLOCK_RE.match(s.strip())
+        return (int(c.group(1)), int(c.group(2) or 0), (c.group(3) or "").lower()) if c else None
+    a = parse(m.group(1))
+    b = parse(m.group(2)) if m.group(2) else None
+    if not a or a[0] > 12 or a[1] > 59:
+        return None
+    h, mi, ap = a
+    if not ap:
+        if not b or not b[2]:
+            return None          # "Saturday" with no am/pm anywhere: leave it all day
+        ap = b[2]
+        # "10:00-1:30pm" starts in the morning; "4:40-6:30pm" in the afternoon
+        if ap == "p" and h != 12 and b[0] != 12 and h > b[0]:
+            ap = "a"
+        if ap == "p" and h != 12 and b[0] == 12:
+            ap = "a"             # "11:00-12:00pm"
+    if ap == "p" and h != 12:
+        h += 12
+    if ap == "a" and h == 12:
+        h = 0
+    return f"{h:02d}:{mi:02d}"
+
+
+SMALL_WORDS = {"a", "an", "and", "at", "for", "in", "of", "on", "or", "the", "to", "with"}
+
+
+def tidy_caps(title):
+    """The posts' headings come in odd capitals ("Thanksgiving Family CAmp",
+    "HALLOWEEN FAMILY CAMP"). Re-case those; leave normal ones alone."""
+    words = title.split()
+    if not (title.isupper() or any(re.fullmatch(r"[A-Z]{2,}[a-z]+", w) for w in words)):
+        return title
+    def cap(w, first):
+        lw = w.lower()
+        if not first and lw in SMALL_WORDS:
+            return lw
+        return "-".join(p if p in SMALL_WORDS and not first else p[:1].upper() + p[1:] for p in lw.split("-"))
+    return " ".join(cap(w, i == 0) for i, w in enumerate(words))
+
+
+def ymca_branch_events(post_html, post_url, today):
+    """This branch's events in a News Center post. The posts have one section per branch:
+    an h3 "Branch name | what (date)", then for each event an h4 title, an h6 line
+    "Tuesday, November 17 | 12:30-1:30pm | Patio", and paragraphs describing it."""
+    body = post_html
+    i = body.find("Choose Your location")
+    if i >= 0:
+        body = body[i:]
+    j = body.find("Contact Us")
+    if j > 0:
+        body = body[:j]
+    body = re.sub(r"(?is)<(script|style|noscript)\b.*?</\1>", " ", body)
+    branch_re = re.compile(YMCA["branch_re"], re.I)
+    tokens = list(re.finditer(r"(?is)<(h[2-6])\b[^>]*>(.*?)</\1>", body))
+    out = []
+    branch_ok = False
+    cur = None
+
+    def finish(c):
+        if c and c.get("date"):
+            out.append(c)
+
+    for n, m in enumerate(tokens):
+        tag, txt = m.group(1).lower(), clean(html_text(m.group(2)))
+        nxt = tokens[n + 1].start() if n + 1 < len(tokens) else len(body)
+        if tag in ("h2", "h3"):
+            finish(cur); cur = None
+            branch_ok = tag == "h3" and bool(branch_re.search(txt.split("|")[0]))
+        elif not branch_ok:
+            continue
+        elif tag == "h4":
+            finish(cur)
+            cur = {"title": txt, "text": ""}
+        elif tag == "h6" and cur is not None and "date" not in cur:
+            parts = [p.strip() for p in txt.split("|")]
+            when = parts[0]
+            start = branch_day(when, today)
+            if not start:
+                continue
+            ends = list(FULL_DATE_RE.finditer(when))
+            end = branch_day(when[ends[1].start():], start) if len(ends) > 1 else None
+            cur["date"] = start
+            cur["end"] = end if end and end > start else None
+            cur["time"] = branch_clock(parts[1]) if len(parts) > 1 else None
+            cur["room"] = parts[2] if len(parts) > 2 else ""
+            cur["text"] = clean(html_text(body[m.end():nxt]), 400)
+        elif tag == "h5" and cur is not None:
+            continue   # "Volunteer details" and similar sub-headings
+    finish(cur)
+
+    events = []
+    for c in out:
+        title = tidy_caps(c["title"])
+        venue = YMCA["branch_name"]
+        events.append({
+            "title": clean(title, 160),
+            "date": c["date"].isoformat(),
+            "time": c["time"],
+            "end_date": c["end"].isoformat() if c.get("end") else None,
+            "venue": venue,
+            "where": clean(f"{venue}{', ' + c['room'] if c['room'] else ''}, San Diego, CA", 160),
+            "url": post_url,
+            "text": c["text"],
+            "source": "YMCA",
+            "hint": [YMCA["category"]],
+            "cancelled": bool(re.search(r"\bcancel(l?ed)?\b", f"{c['title']} {c['text'][:80]}", re.I)),
+        })
+    return events
+
+
+def ymca_pool_closures(pool):
+    events = []
+    for c in pool.get("closures") or []:
+        try:
+            start = date.fromisoformat(c["from"])
+            end = date.fromisoformat(c.get("to") or c["from"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        what = "Ryan YMCA pool closed" if c.get("pool") else "Ryan YMCA closed"
+        events.append({
+            "title": what,
+            "date": start.isoformat(),
+            "time": None,
+            "end_date": end.isoformat() if end > start else None,
+            "venue": YMCA["branch_name"],
+            "where": f"{YMCA['branch_name']}, San Diego, CA",
+            "url": YMCA["pool_page"],
+            "text": clean(c.get("text"), 300),
+            "source": "YMCA",
+            "hint": [YMCA["category"]],
+            "cancelled": False,
+        })
+    return events
+
+
+def ymca_pull(fetch, today):
+    """(events, status). Each part can fail on its own; status says which did."""
+    st = {"ok": False, "found": 0, "calendar": None, "ryan_news": None, "pool": None, "errors": []}
+    events = []
+    parts_ok = []
+    try:
+        cal = [e for e in (from_ymca_ical(v) for v in ical_events(fetch.text("ymca_ical", YMCA["ical"]))) if e]
+        cal = [e for e in cal if not YMCA_SKIP_RE.search(e["title"])]
+        events += cal
+        st["calendar"] = len(cal)
+        parts_ok.append(True)
+    except Exception as ex:
+        st["errors"].append(f"Y events calendar: {str(ex)[:150]}")
+        parts_ok.append(False)
+    try:
+        page = fetch.text("ymca_branch", YMCA["branch_page"])
+        links = ymca_news_links(page)
+        news = []
+        for k, url in enumerate(links):
+            try:
+                news += ymca_branch_events(fetch.text(f"ymca_news_{k}", url), url, today)
+            except Exception as ex:
+                st["errors"].append(f"{url.rstrip('/').rsplit('/', 1)[-1]}: {str(ex)[:120]}")
+        events += news
+        st["ryan_news"] = {"posts": len(links), "events": len(news)}
+        parts_ok.append(bool(links))
+        if not links:
+            st["errors"].append("no News Center event links on the Ryan YMCA page")
+    except Exception as ex:
+        st["errors"].append(f"Ryan YMCA page: {str(ex)[:150]}")
+        parts_ok.append(False)
+    try:
+        pool = fetch.get("ymca_pool", YMCA["pool_json"], {})
+        events += ymca_pool_closures(pool)
+        st["pool"] = len(pool.get("closures") or [])
+        if pool.get("ok") is False:
+            st["errors"].append(f"pool info is stale: {str(pool.get('error') or 'unknown error')[:120]}")
+        parts_ok.append(pool.get("ok") is not False)
+    except Exception as ex:
+        st["errors"].append(f"pool closures: {str(ex)[:150]}")
+        parts_ok.append(False)
+    st["ok"] = any(parts_ok)
+    st["complete"] = all(parts_ok) and not st["errors"]
+    if not st["errors"]:
+        del st["errors"]
+    return events, st
+
+
 # ---------------------------------------------------------------------------
 # Tagging, merging, expiring
 # ---------------------------------------------------------------------------
@@ -543,7 +895,8 @@ def event_key(e):
 
 PLACE_NAMES_RE = re.compile(
     r"\b(pacific|ocean|imperial|solana|long|huntington|newport|laguna|mission|del mar) beach\b"
-    r"|\bmission (valley|hills)\b|\btorrey pines\b|\bsorrento valley\b", re.I)
+    r"|\bmission (valley|hills)\b|\btorrey pines\b|\bsorrento valley\b"
+    r"|\bfamily ymcas?\b", re.I)   # "Ryan Family YMCA" isn't a family event
 
 
 def is_music(e):
@@ -607,7 +960,7 @@ def keep(e, today):
     return True
 
 
-def merge(saved, found, today, now_iso, tm_ok=False, padres_ok=False):
+def merge(saved, found, today, now_iso, tm_ok=False, padres_ok=False, ymca_ok=False):
     """saved: {key: event}; found: list of (event, tags). Returns the new dict.
     Every event, saved or new, is re-checked against the current rules at the end."""
     out = dict(saved)
@@ -671,6 +1024,9 @@ def merge(saved, found, today, now_iso, tm_ok=False, padres_ok=False):
             continue
         # Ticketmaster and MLB re-list everything in their window on every run, so a
         # saved one they no longer list (sold out, removed, or no longer matching) goes.
+        if k not in seen_now and e.get("source") == "YMCA" and ymca_ok:
+            del out[k]       # the Y's listings are all re-read every run; gone means gone
+            continue
         if k not in seen_now and ((tm_ok and e.get("source") == "Ticketmaster") or (padres_ok and e.get("source") == "MLB")):
             days_out = (date.fromisoformat(e["date"]) - today).days
             if days_out <= (TM_DAYS_AHEAD if e.get("source") == "Ticketmaster" else PADRES["days_ahead"]):
@@ -753,7 +1109,7 @@ def load_saved():
 
 
 def todays_categories(today):
-    names = list(INTERESTS)
+    names = [c for c, spec in INTERESTS.items() if spec.get("query")]
     n = len(names)
     first = (today.toordinal() * SERPAPI_CATEGORIES_PER_DAY) % n
     return [names[(first + i) % n] for i in range(min(SERPAPI_CATEGORIES_PER_DAY, n))]
@@ -783,8 +1139,8 @@ def main(argv=None):
     status = {}
     categories_today = [c.strip() for c in (args.category or []) if c.strip()] or todays_categories(today)
     for c in categories_today:
-        if c not in INTERESTS:
-            sys.exit(f"Unknown category {c!r}. Choose from: {', '.join(INTERESTS)}")
+        if c not in INTERESTS or not INTERESTS[c].get("query"):
+            sys.exit(f"Unknown category {c!r}. Choose from: {', '.join(c for c in INTERESTS if INTERESTS[c].get('query'))}")
 
     # ---- Google Events via SerpApi --------------------------------------
     s = {"ok": False, "category": " + ".join(categories_today), "searches_used": 0, "found": 0}
@@ -862,7 +1218,19 @@ def main(argv=None):
         pd["error"] = str(ex)[:300]
     status["padres"] = pd
 
-    events = merge(saved, found, today, now_iso, tm_ok=t["ok"], padres_ok=pd["ok"])
+    # ---- YMCA of San Diego County (no key) ---------------------------------
+    y_events, y = ymca_pull(fetch, today)
+    for e in y_events:
+        if not keep(e, today):
+            continue
+        tags = final_tags(e)
+        if tags:
+            found.append((e, tags))
+            y["found"] += 1
+    status["ymca"] = y
+
+    events = merge(saved, found, today, now_iso, tm_ok=t["ok"], padres_ok=pd["ok"],
+                   ymca_ok=y.get("complete", False))
     ordered = sorted(events.values(), key=lambda e: (e["date"], e["time"] or "99", e["title"].lower()))
     categories = list(INTERESTS) + ([OTHER_CATEGORY] if OTHER_CATEGORY else [])
 
@@ -882,7 +1250,7 @@ def main(argv=None):
     else:
         SITE.mkdir(exist_ok=True)
         OUTPUT.write_text(json.dumps(out, indent=1, ensure_ascii=False) + "\n")
-        print(f"Wrote {len(ordered)} events. Google: {status['google']}. Ticketmaster: {status['ticketmaster']}")
+        print(f"Wrote {len(ordered)} events. Google: {status['google']}. Ticketmaster: {status['ticketmaster']}. YMCA: {status['ymca']}")
 
     # Fail the workflow run (so the watchdog notices) only when every source failed.
     if not any_ok and (serp_key or tm_key):

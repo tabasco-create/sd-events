@@ -64,12 +64,24 @@
       (g.searches_left_before != null ? ` · ${g.searches_left_before - g.searches_used} left this month` : "")
     : (g.error ? `Error: ${g.error}` : g.note || "not run");
   const tText = t.ok ? `OK · ${t.found} events (${t.dropped_no_interest} skipped, no matching interest)` : (t.error ? `Error: ${t.error}` : t.note || "not run");
+  function ymcaRow(y) {
+    const bits = [];
+    if (y.calendar != null) bits.push(`${y.calendar} on the Y calendar`);
+    if (y.ryan_news) bits.push(`${y.ryan_news.events} Ryan event${y.ryan_news.events === 1 ? "" : "s"} in ${y.ryan_news.posts} News Center posts`);
+    if (y.pool != null) bits.push(`${y.pool} pool closure${y.pool === 1 ? "" : "s"}`);
+    const errs = (y.errors || []).join("; ");
+    const text = y.ok
+      ? `${y.complete ? "OK" : "Partly working"} · ${y.found} events kept · ${bits.join(" · ")}${errs ? ` · Problem: ${errs}` : ""}`
+      : `Error: ${errs || "not run"}`;
+    return row("YMCA (calendar, Ryan news, pool)", text, y.complete ? "ok" : (y.ok ? "warn" : "bad"));
+  }
   const st = $("#status"); st.textContent = "";
   st.append(
     row("Last updated", ago(data.updated), data.updated && Date.now() - new Date(data.updated) < 36e5 * 36 ? "ok" : "bad"),
     row("Google Events (SerpApi)", gText, g.ok ? "ok" : (g.error ? "bad" : "warn")),
     row("Ticketmaster", tText, t.ok ? "ok" : (t.error ? "bad" : "warn")),
     ...(pd ? [row("Padres (MLB schedule)", pd.ok ? `OK · ${pd.found} home game${pd.found === 1 ? "" : "s"} in the next 3 weeks` : `Error: ${pd.error || "not run"}`, pd.ok ? "ok" : "bad")] : []),
+    ...(data.status.ymca ? [ymcaRow(data.status.ymca)] : []),
     row("Events saved", String(data.events.length)),
   );
 

@@ -17,6 +17,13 @@ day. Sources:
 - **Ticketmaster Discovery API** (free key). Everything within 25 miles for the next three
   weeks (including Gulls and San Diego FC games), about 1–3 calls a day.
 - **MLB's public schedule** (no key). Padres home games at Petco Park.
+- **YMCA of San Diego County** (no key), tagged "YMCA":
+  - the Y's events calendar (its iCal feed): county-wide events like the Bike-A-Thon.
+    Entries matching `YMCA["skip"]` (conferences, trainings) are left out.
+  - Ryan Family YMCA events from the Y's News Center posts (Halloween, Thanksgiving, ...).
+    The run follows the post links on the Ryan location page and keeps only the Ryan
+    section of each post.
+  - Ryan YMCA pool closures, read from the swim-calendar repo's `pool.json`.
 
 Events are kept in `docs/events.json` until they're over, so the list builds up across
 the week's rotation.
