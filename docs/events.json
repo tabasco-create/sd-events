@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:37:15-08:00",
- "checked": "2026-11-15T20:37:15-08:00",
+ "updated": "2026-11-16T14:18:56-08:00",
+ "checked": "2026-11-16T14:18:56-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -21,15 +21,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Balboa Park + Beach & outdoors",
+   "category": "Beach cleanups + Arts & museums",
    "searches_used": 3,
-   "found": 6,
-   "searches_left_before": 162
+   "found": 8,
+   "searches_left_before": 159
   },
   "ticketmaster": {
    "ok": true,
    "found": 106,
-   "dropped_no_interest": 130
+   "dropped_no_interest": 132
   },
   "padres": {
    "ok": true,
@@ -48,120 +48,6 @@
   }
  },
  "events": [
-  {
-   "id": "c9b5667727ce",
-   "title": "Make Your Own Gifts - A Handmade Creative Escape",
-   "date": "2026-11-15",
-   "time": "09:00",
-   "end_date": null,
-   "venue": "Expressive Arts @ 32nd & Thorn",
-   "where": "Expressive Arts @ 32nd & Thorn, North Park",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "c46f28d452cd",
-   "title": "Mindexpanse: Coastal Hike + Meaningful Connection",
-   "date": "2026-11-15",
-   "time": "09:30",
-   "end_date": null,
-   "venue": "Saigon Trailhead",
-   "where": "Saigon Trailhead, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2003294944105?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-10-24T06:00:04-07:00",
-   "last_seen": "2026-11-03T05:29:11-08:00"
-  },
-  {
-   "id": "d4fc89b3711e",
-   "title": "Booze 'n' Brains interactive drinking games",
-   "date": "2026-11-15",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Panama 66",
-   "where": "Panama 66, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-28T06:21:37-07:00"
-  },
-  {
-   "id": "ce07ca7e6507",
-   "title": "Sunset Dance Party: Sunset Sessions Vol. 26",
-   "date": "2026-11-15",
-   "time": "15:00",
-   "end_date": null,
-   "venue": "Black’s Beach Park",
-   "where": "Black’s Beach Park, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/sunset-dance-party-sunset-sessions-vol-26-registration-2003830769774",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T10:57:49-08:00"
-  },
-  {
-   "id": "a6e32fd2cd01",
-   "title": "Slothrust",
-   "date": "2026-11-15",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "San Diego California",
-   "where": "San Diego California, San Diego, CA",
-   "url": "https://www.facebook.com/events/san-diego-california/slothrust-tickets/1700534035407320/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-10-27T06:10:54-07:00"
-  },
-  {
-   "id": "dbe5c59ffda1",
-   "title": "Candlelight: Tribute to Metallica",
-   "date": "2026-11-15",
-   "time": "20:30",
-   "end_date": null,
-   "venue": "San Diego Natural History Museum",
-   "where": "San Diego Natural History Museum, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Balboa Park"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Balboa Park"
-   ],
-   "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-10-28T06:21:37-07:00"
-  },
   {
    "id": "3596715d2e52",
    "title": "Women in Business & Tech Networking Event",
@@ -221,7 +107,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "009fd653e6e2",
@@ -282,27 +168,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-28T06:21:37-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "68647fe37f67",
-   "title": "TECHSPO San Diego",
-   "date": "2026-11-17",
-   "time": null,
-   "end_date": null,
-   "venue": "Sheraton San Diego Resort",
-   "where": "Sheraton San Diego Resort, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "60612870c144",
@@ -323,7 +189,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "563c95a15f1c",
@@ -341,47 +207,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-29T06:23:24-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "cb05a4561aeb",
-   "title": "Work Smarter with AI: Non-Tech Workshop",
-   "date": "2026-11-19",
-   "time": "06:00",
-   "end_date": null,
-   "venue": "Regus",
-   "where": "Regus, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
-   "id": "f006a6b80ff6",
-   "title": "Fintech NerdCon",
-   "date": "2026-11-19",
-   "time": "09:00",
-   "end_date": null,
-   "venue": "San Diego Convention Center",
-   "where": "San Diego Convention Center, Marina",
-   "url": "https://www.fintechnerdcon.com/map",
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "fabf19d70ee4",
@@ -422,7 +248,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "6bb59eb01c09",
@@ -440,7 +266,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "b9640cb563e5",
@@ -460,7 +286,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-30T06:19:41-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "eeced87227e4",
@@ -478,7 +304,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "bc5de2fd2bdc",
@@ -499,6 +325,24 @@
    "last_seen": "2026-11-14T10:17:33-08:00"
   },
   {
+   "id": "fa85a73447e1",
+   "title": "San Diego Harbor: Gourmet Dinner Cruise with Live Entertainment",
+   "date": "2026-11-20",
+   "time": "13:45",
+   "end_date": null,
+   "venue": "San Diego Harbor",
+   "where": "San Diego Harbor, San Diego, CA",
+   "url": "https://www.facebook.com/events/san-diego-harbor-990-n-harbor-dr-san-diego-92132-san-diego-us/san-diego-harbor-2-hour-cruise-with-live-guide-tickets/1685633989791766/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-16T14:18:56-08:00",
+   "last_seen": "2026-11-16T14:18:56-08:00"
+  },
+  {
    "id": "16557fd8d6ec",
    "title": "Friday Tasting",
    "date": "2026-11-20",
@@ -514,7 +358,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "1989d9f1c90f",
@@ -533,6 +377,24 @@
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
    "last_seen": "2026-10-27T06:10:54-07:00"
+  },
+  {
+   "id": "8708ac9636e8",
+   "title": "Friday 11/20 at 5pm Painting Party",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Art Scene West",
+   "where": "Art Scene West, San Diego, CA",
+   "url": "https://www.artscenewest.com/painting-events-san-diego/p/san-diego-california",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-16T14:18:56-08:00",
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "a2e61af002e8",
@@ -571,6 +433,24 @@
    "last_seen": "2026-10-26T08:00:10-07:00"
   },
   {
+   "id": "dabea7ccaa95",
+   "title": "San Diego Environmental Film Festival",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "Digital Gym CINEMA",
+   "where": "Digital Gym CINEMA, San Diego, CA",
+   "url": "https://filmfreeway.com/SDEFF/tickets?welcome=true",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-16T14:18:56-08:00",
+   "last_seen": "2026-11-16T14:18:56-08:00"
+  },
+  {
    "id": "72fdae7be279",
    "title": "How the Grinch Stole Christmas",
    "date": "2026-11-20",
@@ -589,7 +469,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "3974def02743",
@@ -607,7 +487,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "2228f6f346a1",
@@ -627,7 +507,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "508e7394556a",
@@ -665,7 +545,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "de00d4497e41",
@@ -683,7 +563,7 @@
    "text": "Music Other Other",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "0bcb2204858d",
@@ -701,7 +581,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "bf52ca4a60eb",
@@ -719,7 +599,7 @@
    "text": "Music Dance/Electronic",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "bd4417c134ee",
@@ -760,26 +640,6 @@
    "last_seen": "2026-11-03T05:29:11-08:00"
   },
   {
-   "id": "94e7b21223ee",
-   "title": "Tree of Life's Annual Holiday Handmade Gift Faire",
-   "date": "2026-11-21",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "Tree of Life Metaphysical Books and Gifts",
-   "where": "Tree of Life Metaphysical Books and Gifts, Ocean Beach",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
-  },
-  {
    "id": "ea36686e2b22",
    "title": "How the Grinch Stole Christmas",
    "date": "2026-11-21",
@@ -798,7 +658,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "29ba80f44122",
@@ -879,7 +739,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "a039833cc417",
@@ -897,7 +757,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "bc5b72c39198",
@@ -915,7 +775,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "68aa9140652e",
@@ -956,7 +816,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "9b2cf978e11e",
@@ -976,7 +836,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "a2005468ef88",
@@ -994,7 +854,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "af43310c4b6b",
@@ -1012,27 +872,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "cdc256ddc5a4",
-   "title": "Shore and Sage Wellness Market",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "shore and sage wellness market",
-   "where": "shore and sage wellness market, Normal Heights",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "378c1791e657",
@@ -1089,7 +929,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "24f189e53731",
@@ -1109,7 +949,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "57bcc93aa234",
@@ -1128,27 +968,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "18ff31290522",
-   "title": "1-Day Hands-On GenAI Using LangChain & HF",
-   "date": "2026-11-23",
-   "time": "09:00",
-   "end_date": null,
-   "venue": "Regus",
-   "where": "Regus, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Tech meetups"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Tech meetups"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "de4853ce3675",
@@ -1166,7 +986,7 @@
    "text": "Music Rock Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "7ab4842da3c9",
@@ -1202,7 +1022,7 @@
    "text": "Music Children's Music Children's Music",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "786dd54fc2c1",
@@ -1223,7 +1043,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "2dc678597a1d",
@@ -1241,7 +1061,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "062efc15d67a",
@@ -1262,7 +1082,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "57b845ec56a7",
@@ -1280,7 +1100,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "258a79b99251",
@@ -1298,7 +1118,7 @@
    "text": "Music Alternative Electronic Pop",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "94671613503c",
@@ -1318,7 +1138,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "d06a532ea825",
@@ -1336,7 +1156,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "190c1a6d32ca",
@@ -1354,7 +1174,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "7300a319c2d5",
@@ -1390,7 +1210,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "9a33d5474dfb",
@@ -1411,27 +1231,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "5e4c06ee902c",
-   "title": "The Upcycle Fashion Show",
-   "date": "2026-11-27",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "San Diego Made Factory",
-   "where": "San Diego Made Factory, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "dd9016d8d601",
@@ -1451,7 +1251,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "2faf55bf2863",
@@ -1469,7 +1269,7 @@
    "text": "Music Dance/Electronic Amapiano",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "b1496f4d44b9",
@@ -1508,26 +1308,6 @@
    ],
    "first_seen": "2026-10-31T06:13:43-07:00",
    "last_seen": "2026-10-31T06:13:43-07:00"
-  },
-  {
-   "id": "e8d037ded7c8",
-   "title": "Ocean Beach Makers Market",
-   "date": "2026-11-28",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "OB Surf Lodge",
-   "where": "OB Surf Lodge, Ocean Beach",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
   },
   {
    "id": "4f08bd1ca070",
@@ -1602,7 +1382,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "25712b42c703",
@@ -1622,7 +1402,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "2da416a7240d",
@@ -1640,7 +1420,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "46b130fe9b70",
@@ -1658,7 +1438,7 @@
    "text": "Music Alternative Alternative Rock Music Metal Heavy Metal Music Rock Pop Music Rock Hard Rock",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "28685e5db703",
@@ -1676,7 +1456,7 @@
    "text": "Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "18b88b23693f",
@@ -1733,7 +1513,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "43a3699e1499",
@@ -1751,7 +1531,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "3778b7948d06",
@@ -1772,7 +1552,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "41bc8feb8573",
@@ -1828,7 +1608,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "8daf6f7190bb",
@@ -1849,7 +1629,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "a406217c2c1a",
@@ -1867,7 +1647,7 @@
    "text": "Music Chanson Francaise Chanson Francaise",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "8915185cc09d",
@@ -1888,7 +1668,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "12087ba19a53",
@@ -1906,7 +1686,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "47074f805b4b",
@@ -1924,7 +1704,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "6f8a0b09a17c",
@@ -1942,7 +1722,7 @@
    "text": "Music Rock Funk-Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "15ff3ff0c5a2",
@@ -1980,7 +1760,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "5ef99082bd67",
@@ -1998,7 +1778,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "52ec453ed95e",
@@ -2016,7 +1796,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "bc754c6ec688",
@@ -2036,7 +1816,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "86e4be7df910",
@@ -2056,27 +1836,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
-  },
-  {
-   "id": "e7518efefaf5",
-   "title": "Holiday Art Market",
-   "date": "2026-12-05",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "ArtReach San Diego",
-   "where": "ArtReach San Diego, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Makers & knives"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Makers & knives"
-   ],
-   "first_seen": "2026-10-25T06:00:26-07:00",
-   "last_seen": "2026-10-25T06:00:26-07:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "ab1a1e1da4d3",
@@ -2097,7 +1857,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "19811909c0bf",
@@ -2115,7 +1875,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "2596bee83995",
@@ -2133,7 +1893,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "12b17c5a52cc",
@@ -2153,7 +1913,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "f43210719c41",
@@ -2173,7 +1933,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "f67771af4fde",
@@ -2250,7 +2010,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "ec6844da2d0b",
@@ -2270,7 +2030,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "fc362156f412",
@@ -2288,7 +2048,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "da6cd6af0943",
@@ -2366,7 +2126,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-04T05:30:32-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "8ed79435215b",
@@ -2406,7 +2166,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "e73a811c7883",
@@ -2465,7 +2225,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-15T20:37:15-08:00"
+   "last_seen": "2026-11-16T14:18:56-08:00"
   },
   {
    "id": "dae45b0824c0",
