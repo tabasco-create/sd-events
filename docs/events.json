@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T11:50:53-08:00",
- "checked": "2026-11-22T11:50:53-08:00",
+ "updated": "2026-11-23T16:03:54-08:00",
+ "checked": "2026-11-23T16:03:54-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -21,15 +21,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Beach cleanups + Arts & museums",
+   "category": "Makers & knives + Tech meetups",
    "searches_used": 3,
-   "found": 19,
-   "searches_left_before": 241
+   "found": 26,
+   "searches_left_before": 238
   },
   "ticketmaster": {
    "ok": true,
-   "found": 108,
-   "dropped_no_interest": 136
+   "found": 110,
+   "dropped_no_interest": 138
   },
   "padres": {
    "ok": true,
@@ -48,300 +48,6 @@
   }
  },
  "events": [
-  {
-   "id": "0f8503e966a2",
-   "title": "Trail Tykes",
-   "date": "2026-11-22",
-   "time": "02:00",
-   "end_date": null,
-   "venue": "Mission Trails Regional Park Visitor and Interpretive Center",
-   "where": "Mission Trails Regional Park Visitor and Interpretive Center, San Diego, CA",
-   "url": "https://www.yelp.com/events/san-diego-trail-tykes-11",
-   "tags": [
-    "Family & kids",
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors",
-    "Family & kids"
-   ],
-   "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
-  },
-  {
-   "id": "af43310c4b6b",
-   "title": "Sparkling Sunshine & Wine!",
-   "date": "2026-11-22",
-   "time": "03:00",
-   "end_date": null,
-   "venue": "San Diego Beer, Wine & Spirits Tours",
-   "where": "San Diego Beer, Wine & Spirits Tours, San Diego, CA",
-   "url": "https://www.yelp.com/events/san-diego-sparkling-sunshine-wine-29",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-18T12:41:57-08:00"
-  },
-  {
-   "id": "25e023f903b6",
-   "title": "Beach Yoga",
-   "date": "2026-11-22",
-   "time": "09:30",
-   "end_date": null,
-   "venue": "Moonlight State Beach",
-   "where": "Moonlight State Beach, Encinitas, CA",
-   "url": "https://www.eventbrite.com/e/1723655844029?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
-  },
-  {
-   "id": "1a1bc8cf34fb",
-   "title": "Hoppy Yoga",
-   "date": "2026-11-22",
-   "time": "09:30",
-   "end_date": null,
-   "venue": "Societe Brewing Company",
-   "where": "Societe Brewing Company, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-20T12:31:52-08:00"
-  },
-  {
-   "id": "b9fa55133132",
-   "title": "Family Volunteer Day",
-   "date": "2026-11-22",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "San Diego Humane Society",
-   "where": "San Diego Humane Society, San Diego, CA",
-   "url": "https://sdhumane.org/event/family-volunteer-day-nov/",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-18T12:41:57-08:00"
-  },
-  {
-   "id": "ab9976d3952d",
-   "title": "Sunday Art Club | All-Ages Family Art Morning",
-   "date": "2026-11-22",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "My Good Brain",
-   "where": "My Good Brain, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/2003433552687?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-18T12:41:57-08:00"
-  },
-  {
-   "id": "318f8e8cd6ab",
-   "title": "Trail Tykes: A Program for Little Explorers",
-   "date": "2026-11-22",
-   "time": "10:00",
-   "end_date": null,
-   "venue": "Mission Trails Regional Park",
-   "where": "Mission Trails Regional Park, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Beach & outdoors"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Beach & outdoors"
-   ],
-   "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
-  },
-  {
-   "id": "004c2a1a3cdf",
-   "title": "Family Workshop",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Children's Museum of Discovery",
-   "where": "Children's Museum of Discovery, Escondido, CA",
-   "url": null,
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Family & kids"
-   ],
-   "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-18T12:41:57-08:00"
-  },
-  {
-   "id": "f251b7b7259c",
-   "title": "Girls, Gays & Theys Sundays",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Gossip Grill",
-   "where": "Gossip Grill, San Diego, CA",
-   "url": "https://gossipgrill.com/event/girls-gays-theys-sundays-2-2/2026-11-22/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
-  },
-  {
-   "id": "8cd2103a3f13",
-   "title": "San Diego Swing Dance Club Sunday Dance",
-   "date": "2026-11-22",
-   "time": "13:00",
-   "end_date": null,
-   "venue": "San Diego Dance Headquarters",
-   "where": "San Diego Dance Headquarters, San Diego, CA",
-   "url": "https://www.facebook.com/groups/222147944605267/posts/3012989468854420/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
-  },
-  {
-   "id": "26615945e454",
-   "title": "Sunday 11/22 at 5pm Painting Party",
-   "date": "2026-11-22",
-   "time": "17:00",
-   "end_date": null,
-   "venue": "Art Scene West",
-   "where": "Art Scene West, San Diego, CA",
-   "url": "https://www.artscenewest.com/painting-events-san-diego/p/san-diego-painting-fun",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-17T13:05:03-08:00"
-  },
-  {
-   "id": "b3731fc12990",
-   "title": "How the Grinch Stole Christmas",
-   "date": "2026-11-22",
-   "time": "17:30",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t_b",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
-  },
-  {
-   "id": "24f189e53731",
-   "title": "Carlos Mencia",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "The American Comedy Co.",
-   "where": "The American Comedy Co., San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xGe",
-   "tags": [
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
-  },
-  {
-   "id": "57bcc93aa234",
-   "title": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "end_date": null,
-   "venue": "Music Box",
-   "where": "Music Box, San Diego",
-   "url": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254",
-   "tags": [
-    "Family & kids",
-    "Live music"
-   ],
-   "source": "Ticketmaster",
-   "text": "Music Alternative Alternative Music Alternative Alternative Music Alternative Alternative",
-   "hint": [],
-   "first_seen": "2026-11-02T05:32:17-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
-  },
-  {
-   "id": "d8aa6d4219d8",
-   "title": "Spreckels Organ Society Concert",
-   "date": "2026-11-22",
-   "time": null,
-   "end_date": null,
-   "venue": "Spreckels Organ Pavilion",
-   "where": "Spreckels Organ Pavilion, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Balboa Park"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Balboa Park"
-   ],
-   "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
-  },
   {
    "id": "2ffe05fe86f1",
    "title": "The Hoppy Dice Game Night",
@@ -396,7 +102,7 @@
    "text": "Music Rock Indie Rock Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-03T05:29:11-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "bf0c4f692702",
@@ -440,6 +146,26 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "63825ec97e13",
+   "title": "Tinker Tuesdays @ the IDEA Lab & Makerspace",
+   "date": "2026-11-24",
+   "time": "16:30",
+   "end_date": null,
+   "venue": "San Diego Public Library - San Ysidro",
+   "where": "San Diego Public Library - San Ysidro, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "ebebc5ba0fde",
    "title": "DJ Raphi - HYPE TOUR 2.0",
    "date": "2026-11-24",
@@ -455,7 +181,7 @@
    "text": "Music Children's Music Children's Music",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "786dd54fc2c1",
@@ -476,7 +202,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "1cb04898d696",
@@ -553,7 +279,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-03T21:31:28-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "6c169871a8d9",
@@ -652,7 +378,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "57b845ec56a7",
@@ -670,7 +396,7 @@
    "text": "Music Alternative Alternative Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-05T05:36:37-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "412d3b6b0386",
@@ -708,7 +434,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "d06a532ea825",
@@ -726,7 +452,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "190c1a6d32ca",
@@ -744,7 +470,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "0d4d689fe6fa",
@@ -762,7 +488,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "9a33d5474dfb",
@@ -783,7 +509,27 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "5e4c06ee902c",
+   "title": "The Upcycle Fashion Show",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "end_date": null,
+   "venue": "San Diego Made Factory",
+   "where": "San Diego Made Factory, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "f6b0721fddf9",
@@ -821,7 +567,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "4399ae9e4e26",
@@ -875,7 +621,25 @@
    "text": "Music Dance/Electronic Amapiano",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "b81c7e928ebe",
+   "title": "San Diego Latin Nights – Fridays & Saturdays",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "end_date": null,
+   "venue": "Sevilla Nightclub of San Diego",
+   "where": "Sevilla Nightclub of San Diego, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1721734547379?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "e5d2edcd996a",
@@ -896,24 +660,6 @@
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
    "last_seen": "2026-11-20T12:31:52-08:00"
-  },
-  {
-   "id": "b1496f4d44b9",
-   "title": "Snapdragon Stadium Tours",
-   "date": "2026-11-27",
-   "time": null,
-   "end_date": null,
-   "venue": "Snapdragon Stadium",
-   "where": "Snapdragon Stadium, San Diego, CA",
-   "url": "https://www.stubhub.com/br/snapdragon-stadium-tours-san-diego-tickets-11-27-2026/event/162297864/",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
   },
   {
    "id": "cd5eabdc43e8",
@@ -978,6 +724,26 @@
    "last_seen": "2026-11-18T12:41:57-08:00"
   },
   {
+   "id": "c73f0e8fbbbe",
+   "title": "Small Business Craft Fair",
+   "date": "2026-11-28",
+   "time": "09:00",
+   "end_date": null,
+   "venue": "The Water Conservation Garden",
+   "where": "The Water Conservation Garden, El Cajon, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "d8ca6bcc7ffe",
    "title": "YOGA AT THE BEACH",
    "date": "2026-11-28",
@@ -996,6 +762,46 @@
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
    "last_seen": "2026-11-21T11:28:46-08:00"
+  },
+  {
+   "id": "a3a4eb8dd1c7",
+   "title": "Art Mart",
+   "date": "2026-11-28",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Presidents Way Lawn",
+   "where": "Presidents Way Lawn, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "e8d037ded7c8",
+   "title": "Ocean Beach Makers Market",
+   "date": "2026-11-28",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "OB Surf Lodge",
+   "where": "OB Surf Lodge, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "c3151b07c288",
@@ -1031,7 +837,27 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-13T11:51:49-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "7860dae0099f",
+   "title": "Small Biz Social",
+   "date": "2026-11-28",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "The Valley San Diego",
+   "where": "The Valley San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "79a988422c43",
@@ -1090,7 +916,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "25712b42c703",
@@ -1110,7 +936,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "2da416a7240d",
@@ -1128,7 +954,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "46b130fe9b70",
@@ -1146,7 +972,7 @@
    "text": "Music Alternative Alternative Rock Music Metal Heavy Metal Music Rock Pop Music Rock Hard Rock",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "4043a4e56fa9",
@@ -1182,7 +1008,7 @@
    "text": "Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "4c13d62f0317",
@@ -1340,7 +1166,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "25b49e38b353",
+   "title": "Salsa Bachata Sundays",
+   "date": "2026-11-29",
+   "time": "17:30",
+   "end_date": null,
+   "venue": "Queen Bee's Art and Cultural Center",
+   "where": "Queen Bee's Art and Cultural Center, San Diego, CA",
+   "url": "https://getbailar.com/events/salsa-bachata-sundays-at-queen-bees-san-diego-ca-2026-11-22-2",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "43a3699e1499",
@@ -1358,7 +1202,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "c6722e907cf9",
@@ -1399,7 +1243,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "4ba03b230920",
@@ -1457,7 +1301,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "8daf6f7190bb",
@@ -1478,7 +1322,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "a406217c2c1a",
@@ -1496,7 +1340,7 @@
    "text": "Music Chanson Francaise Chanson Francaise",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "db1d7426be77",
@@ -1519,6 +1363,24 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "a43976e305d5",
+   "title": "Dinner with Entrepreneurs: San Diego",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Coasterra",
+   "where": "Coasterra, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1988720340072?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "8915185cc09d",
    "title": "How the Grinch Stole Christmas",
    "date": "2026-12-03",
@@ -1537,7 +1399,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "7a06e42fca27",
+   "title": "Tree Lighting Ceremony",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "end_date": null,
+   "venue": "Old Town San Diego",
+   "where": "Old Town San Diego, San Diego, CA",
+   "url": "https://presidiosentinel.com/portfolio/the-old-town-christmas-tree-lighting",
+   "tags": [
+    "Family & kids"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "12087ba19a53",
@@ -1555,7 +1435,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "47074f805b4b",
@@ -1573,7 +1453,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "6f8a0b09a17c",
@@ -1591,7 +1471,7 @@
    "text": "Music Rock Funk-Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "09720386e6b3",
@@ -1689,7 +1569,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "5ef99082bd67",
@@ -1707,7 +1587,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "52ec453ed95e",
@@ -1725,7 +1605,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "bc754c6ec688",
@@ -1745,7 +1625,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "86e4be7df910",
@@ -1765,7 +1645,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "c88af7ba465a",
@@ -1802,6 +1682,26 @@
    "hint": [],
    "first_seen": "2026-11-19T12:47:51-08:00",
    "last_seen": "2026-11-19T12:47:51-08:00"
+  },
+  {
+   "id": "f20c02124ba9",
+   "title": "Annual Christmas Craft Fair",
+   "date": "2026-12-05",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "The Stein Family Farm",
+   "where": "The Stein Family Farm, National City, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "24d8d47fb2e4",
@@ -1919,7 +1819,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "19811909c0bf",
@@ -1937,7 +1837,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "2596bee83995",
@@ -1955,7 +1855,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "12b17c5a52cc",
@@ -1975,7 +1875,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "f43210719c41",
@@ -1995,7 +1895,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "5f7e60f28708",
@@ -2034,6 +1934,44 @@
    ],
    "first_seen": "2026-11-18T12:41:57-08:00",
    "last_seen": "2026-11-18T12:41:57-08:00"
+  },
+  {
+   "id": "dd5e7a3cfb1e",
+   "title": "Artisan Fair",
+   "date": "2026-12-06",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Sikes Adobe Historic Farmstead",
+   "where": "Sikes Adobe Historic Farmstead, Escondido, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "0aa6b5417b2a",
+   "title": "Harney Street Market",
+   "date": "2026-12-06",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Harney Sushi",
+   "where": "Harney Sushi, San Diego, CA",
+   "url": "https://www.outgoing.world/activity/harney-street-market-2026-c6a617c242f0",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "420b4c4e8fca",
@@ -2088,6 +2026,26 @@
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
    "last_seen": "2026-11-08T09:58:19-08:00"
+  },
+  {
+   "id": "73250a401049",
+   "title": "The Market",
+   "date": "2026-12-06",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Museum of Contemporary Art San Diego",
+   "where": "Museum of Contemporary Art San Diego, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "716c3c7bc697",
@@ -2146,7 +2104,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "e2eb156b2ccc",
@@ -2186,7 +2144,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "ea9ff1e4e030",
@@ -2204,7 +2162,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "fc362156f412",
@@ -2222,7 +2180,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "cbe7464e5a55",
@@ -2260,7 +2218,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-17T13:05:03-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "5bd3eb1a2569",
@@ -2280,7 +2238,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-17T13:05:03-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "3985760ddd7a",
@@ -2301,7 +2259,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "9d45dee92ddd",
@@ -2319,7 +2277,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "0d58bb8a84f9",
@@ -2360,7 +2318,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "4d27eba25441",
@@ -2378,7 +2336,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "7f99f97e381b",
@@ -2396,7 +2354,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "7d16d186d031",
@@ -2434,7 +2392,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "73e7958f66ee",
@@ -2455,7 +2413,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "7941e0c543a6",
@@ -2475,7 +2433,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "72862177f057",
@@ -2495,7 +2453,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "cfd39fc88e77",
@@ -2516,7 +2474,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "90292b3f12c7",
@@ -2534,7 +2492,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "93c0b3a77fd8",
@@ -2570,7 +2528,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "dc1fa204713e",
@@ -2606,7 +2564,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "e707e2586e84",
@@ -2669,6 +2627,64 @@
    "last_seen": "2026-11-22T11:50:53-08:00"
   },
   {
+   "id": "4e1a38a4e71f",
+   "title": "Harney Street Market",
+   "date": "2026-12-12",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Harney Sushi",
+   "where": "Harney Sushi, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "5a5c32257b78",
+   "title": "Makers Arcade Holiday Fair",
+   "date": "2026-12-12",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Broadway Pier/Port Pavilion",
+   "where": "Broadway Pier/Port Pavilion, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Makers & knives"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Makers & knives"
+   ],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "49ab9a553ca1",
+   "title": "San Diego SantaCon Bar Crawl",
+   "date": "2026-12-12",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Whiskey Girl",
+   "where": "Whiskey Girl, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1988122285274?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "06eb3d524f60",
    "title": "San Diego Ugly Sweater Bar Crawl 2026",
    "date": "2026-12-12",
@@ -2707,26 +2723,6 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
-   "id": "8ed79435215b",
-   "title": "Santa Paws Fundraiser - Photos w/ Santa",
-   "date": "2026-12-12",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "Fall Brewing Company",
-   "where": "Fall Brewing Company, San Diego, CA",
-   "url": "https://www.eventbrite.com/e/1998394219907?aff=ebdiglgoogleliveevents",
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-01T05:13:35-08:00",
-   "last_seen": "2026-11-01T05:13:35-08:00"
-  },
-  {
    "id": "4d98deb82db4",
    "title": "How the Grinch Stole Christmas (Touring)",
    "date": "2026-12-12",
@@ -2745,7 +2741,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "ff64623ab2ed",
@@ -2765,7 +2761,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "49624b26e409",
@@ -2783,7 +2779,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "e020fcf2febd",
@@ -2803,7 +2799,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "90e86f183ad6",
@@ -2823,7 +2819,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "668240528cc3",
@@ -2841,7 +2837,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "0c14c1d2c988",
@@ -2882,27 +2878,6 @@
    "last_seen": "2026-11-11T11:43:16-08:00"
   },
   {
-   "id": "27d98eabbc51",
-   "title": "How the Grinch Stole Christmas (Touring)",
-   "date": "2026-12-13",
-   "time": "10:30",
-   "end_date": null,
-   "venue": "Old Globe Theatre",
-   "where": "Old Globe Theatre, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvwfA",
-   "tags": [
-    "Balboa Park",
-    "Arts & museums"
-   ],
-   "source": "Ticketmaster",
-   "text": "Arts & Theatre Theatre Musical",
-   "hint": [
-    "Arts & museums"
-   ],
-   "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
-  },
-  {
    "id": "6ca9fd215fac",
    "title": "Play Day",
    "date": "2026-12-13",
@@ -2921,6 +2896,27 @@
    ],
    "first_seen": "2026-11-18T12:41:57-08:00",
    "last_seen": "2026-11-18T12:41:57-08:00"
+  },
+  {
+   "id": "27d98eabbc51",
+   "title": "How the Grinch Stole Christmas (Touring)",
+   "date": "2026-12-13",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvwfd",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Theatre Musical",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-22T11:50:53-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "0c86f7702ee2",
@@ -2943,6 +2939,42 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "fc2edf63cb90",
+   "title": "The Bobby Lees, MUTTLEE, Doc Hammer",
+   "date": "2026-12-13",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "where": "Belly Up, Solana Beach",
+   "url": "https://www.ticketweb.com/event/the-bobby-lees-muttlee-doc-belly-up-tickets/14907153",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Garage Rock Music Rock Pop Punk Music Alternative Post-Punk",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "11a71bac26eb",
+   "title": "The Linda Lindas - presented by Alt 94.9's December to Remember",
+   "date": "2026-12-13",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Music Box",
+   "where": "Music Box, San Diego",
+   "url": "https://www.ticketweb.com/event/the-linda-lindas-music-box-tickets/15053543",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Punk",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "40162f244eaa",
    "title": "Candlelight: Vivaldi's Four Seasons",
    "date": "2026-12-13",
@@ -2963,6 +2995,24 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "5d45e98d00b4",
+   "title": "Evil Island, Antioch Arrow, Lord Friday the 13th (21+)",
+   "date": "2026-12-13",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Casbah-San Diego",
+   "where": "Casbah-San Diego, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZMaU",
+   "tags": [
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Rock Punk",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
    "id": "d1151d2e3400",
    "title": "Ryan YMCA pool closed",
    "date": "2026-12-14",
@@ -2980,7 +3030,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "e766563e7672",
@@ -3216,7 +3266,25 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-22T11:50:53-08:00"
+   "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "9e6569096ad3",
+   "title": "San Diego Swing Dance Club Sunday Dance",
+   "date": "2026-12-20",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "San Diego Dance Headquarters",
+   "where": "San Diego Dance Headquarters, San Diego, CA",
+   "url": "https://activescene.org/us/event/intro-to-west-coast-swing-lesson-2026-08-09-d8024e-2026-12-20",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-23T16:03:54-08:00",
+   "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
    "id": "5be4976d7fde",
