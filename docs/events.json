@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T13:43:36-08:00",
- "checked": "2026-11-26T13:43:36-08:00",
+ "updated": "2026-11-27T13:27:45-08:00",
+ "checked": "2026-11-27T13:27:45-08:00",
  "timezone": "America/Los_Angeles",
  "categories": [
   "Family & kids",
@@ -21,15 +21,15 @@
  "status": {
   "google": {
    "ok": true,
-   "category": "Food & beer + Trivia",
+   "category": "Balboa Park + Beach & outdoors",
    "searches_used": 3,
-   "found": 44,
-   "searches_left_before": 229
+   "found": 43,
+   "searches_left_before": 226
   },
   "ticketmaster": {
    "ok": true,
    "found": 109,
-   "dropped_no_interest": 140
+   "dropped_no_interest": 145
   },
   "padres": {
    "ok": true,
@@ -37,7 +37,7 @@
   },
   "ymca": {
    "ok": true,
-   "found": 3,
+   "found": 2,
    "calendar": 3,
    "ryan_news": {
     "posts": 6,
@@ -48,103 +48,6 @@
   }
  },
  "events": [
-  {
-   "id": "94671613503c",
-   "title": "Thanksgiving rest and reset",
-   "date": "2026-11-26",
-   "time": "08:00",
-   "end_date": null,
-   "venue": "Ryan Family YMCA",
-   "where": "Ryan Family YMCA, Multipurpose Room, San Diego, CA",
-   "url": "https://www.ymcasd.org/about-y/news-center/events/thanksgiving-events/",
-   "tags": [
-    "YMCA"
-   ],
-   "source": "YMCA",
-   "text": "Start Thanksgiving morning with Rest & Reset, a restorative experience designed to help you slow down, release tension and make space for rest and gratitude. Through gentle movement, relaxation and the soothing sounds of therapeutic instruments, participants will have an opportunity to pause, rechar",
-   "hint": [
-    "YMCA"
-   ],
-   "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
-  },
-  {
-   "id": "351c3e968cb2",
-   "title": "Random Acts of Kindness Spree",
-   "date": "2026-11-26",
-   "time": "11:00",
-   "end_date": null,
-   "venue": "Waterfront Park",
-   "where": "Waterfront Park, San Diego, CA",
-   "url": "http://www.stubhub.com/co/random-acts-of-kindness-spree-san-diego-tickets-11-26-2026/event/162250198",
-   "tags": [
-    "Around town"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-24T14:36:05-08:00"
-  },
-  {
-   "id": "9fb63ccc98bc",
-   "title": "Taps & Wings",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "end_date": null,
-   "venue": "TapRoom Beer Company",
-   "where": "TapRoom Beer Company, San Diego, CA",
-   "url": null,
-   "tags": [
-    "Food & beer"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
-  },
-  {
-   "id": "bf19d56aa5d1",
-   "title": "Deft Brained Trivia on the Patio",
-   "date": "2026-11-26",
-   "time": "18:30",
-   "end_date": null,
-   "venue": "Deft Brewing",
-   "where": "Deft Brewing, San Diego, CA",
-   "url": "https://eventseeker.com/san-diego/574327132-deft-brained-trivia-on-the-patio",
-   "tags": [
-    "Food & beer",
-    "Trivia"
-   ],
-   "source": "Google",
-   "text": "",
-   "hint": [
-    "Food & beer"
-   ],
-   "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
-  },
-  {
-   "id": "190c1a6d32ca",
-   "title": "Rady Childrens Invitational 2 Day Pass",
-   "date": "2026-11-26",
-   "time": null,
-   "end_date": null,
-   "venue": "Jenny Craig Pavilion",
-   "where": "Jenny Craig Pavilion, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Vra",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Ticketmaster",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-06T05:29:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
-  },
   {
    "id": "2bca4748feb0",
    "title": "Storytime with Seadragons",
@@ -164,24 +67,6 @@
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
    "last_seen": "2026-11-24T14:36:05-08:00"
-  },
-  {
-   "id": "0d4d689fe6fa",
-   "title": "Rady Childrens Invitational *Time Subject to change",
-   "date": "2026-11-27",
-   "time": "12:00",
-   "end_date": null,
-   "venue": "Jenny Craig Pavilion",
-   "where": "Jenny Craig Pavilion, San Diego",
-   "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Vro",
-   "tags": [
-    "Family & kids"
-   ],
-   "source": "Ticketmaster",
-   "text": "",
-   "hint": [],
-   "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
   },
   {
    "id": "33256c5a0d23",
@@ -238,7 +123,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5e4c06ee902c",
@@ -276,7 +161,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "dd9016d8d601",
@@ -296,7 +181,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "4399ae9e4e26",
@@ -350,7 +235,7 @@
    "text": "Music Dance/Electronic Amapiano",
    "hint": [],
    "first_seen": "2026-11-07T05:15:18-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "da871a01cecf",
@@ -567,6 +452,26 @@
    "last_seen": "2026-11-23T16:03:54-08:00"
   },
   {
+   "id": "cd28b7a94197",
+   "title": "Nature Studio",
+   "date": "2026-11-28",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "San Diego Natural History Museum",
+   "where": "San Diego Natural History Museum, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "fef2f70c1c9e",
    "title": "Tavern Food Vendor: Backyard Boogie BBQ",
    "date": "2026-11-28",
@@ -594,7 +499,7 @@
    "end_date": null,
    "venue": "The San Diego Museum of Art",
    "where": "The San Diego Museum of Art, San Diego, CA",
-   "url": "https://www.sdmart.org/event/community-art-workshop-thurs26-2026-08-13/",
+   "url": "https://www.sdmart.org/event/family-art-adventures-sdma-2026/2026-11-28/",
    "tags": [
     "Family & kids",
     "Balboa Park"
@@ -602,10 +507,29 @@
    "source": "Google",
    "text": "",
    "hint": [
+    "Balboa Park",
     "Family & kids"
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-24T14:36:05-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "b26abf0080b0",
+   "title": "Yoga in the Park Vinyasa Flow",
+   "date": "2026-11-28",
+   "time": "10:30",
+   "end_date": null,
+   "venue": "Golden Hill Park",
+   "where": "Golden Hill Park, San Diego, CA",
+   "url": "https://www.facebook.com/events/golden-hill-park-2590-2596-golden-hill-drive-san-diego-ca-92102-us/yoga-in-the-park-vinyasa-flow-1030am/2159757784931284/",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e8d037ded7c8",
@@ -661,7 +585,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7860dae0099f",
@@ -740,7 +664,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "eeadfb124951",
@@ -758,7 +682,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-25T13:49:53-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "25712b42c703",
@@ -778,7 +702,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "2da416a7240d",
@@ -796,7 +720,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-10-27T06:10:54-07:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "c854ec08ffac",
@@ -834,7 +758,7 @@
    "text": "Music Alternative Alternative Rock Music Metal Heavy Metal Music Rock Pop Music Rock Hard Rock",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "cfb94e18eb08",
@@ -888,7 +812,7 @@
    "text": "Music Dance/Electronic Dance/Electronic",
    "hint": [],
    "first_seen": "2026-11-08T09:58:19-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "4c13d62f0317",
@@ -1070,6 +994,26 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "7acc2295cb62",
+   "title": "Spreckels Organ Society Concerts",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "end_date": null,
+   "venue": "Spreckels Organ Pavilion",
+   "where": "Spreckels Organ Pavilion, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "89866e87d278",
    "title": "Calling all San Diego peeps",
    "date": "2026-11-29",
@@ -1126,7 +1070,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "25b49e38b353",
@@ -1144,7 +1088,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-23T16:03:54-08:00",
-   "last_seen": "2026-11-25T13:49:53-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "43a3699e1499",
@@ -1162,7 +1106,7 @@
    "text": "Music Alternative Indie Rock",
    "hint": [],
    "first_seen": "2026-11-09T14:30:24-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "410d0cddf062",
@@ -1260,7 +1204,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-11T11:43:16-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "41bc8feb8573",
@@ -1396,7 +1340,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "8daf6f7190bb",
@@ -1417,7 +1361,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "a406217c2c1a",
@@ -1435,7 +1379,27 @@
    "text": "Music Chanson Francaise Chanson Francaise",
    "hint": [],
    "first_seen": "2026-11-12T12:07:13-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "e29647e65ebc",
+   "title": "Come Face to Face with T. Rex at The Nat. Explore the Films!",
+   "date": "2026-12-02",
+   "time": null,
+   "end_date": null,
+   "venue": "San Diego Natural History Museum",
+   "where": "San Diego Natural History Museum, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "9ccef2d04984",
@@ -1463,7 +1427,7 @@
    "end_date": null,
    "venue": "San Diego Natural History Museum",
    "where": "San Diego Natural History Museum, San Diego, CA",
-   "url": null,
+   "url": "https://feverup.com/m/395872?utm_source=google&utm_medium=live_events-&utm_campaign=395872_san&channel_id=FVR_MKT&session_id=462328271&date=2026-12-03&bf=itemised",
    "tags": [
     "Balboa Park"
    ],
@@ -1473,7 +1437,7 @@
     "Balboa Park"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "a43976e305d5",
@@ -1491,7 +1455,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-23T16:03:54-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "8915185cc09d",
@@ -1512,7 +1476,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "dae51b84e9b2",
@@ -1530,7 +1494,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7a06e42fca27",
@@ -1566,7 +1530,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "47074f805b4b",
@@ -1584,7 +1548,7 @@
    "text": "Music Alternative Alternative Rock Music Country Country",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "6f8a0b09a17c",
@@ -1602,7 +1566,7 @@
    "text": "Music Rock Funk-Rock Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-13T11:51:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "f5f675c92b8e",
@@ -1621,6 +1585,26 @@
    "hint": [],
    "first_seen": "2026-11-25T13:49:53-08:00",
    "last_seen": "2026-11-25T13:49:53-08:00"
+  },
+  {
+   "id": "d08461f39997",
+   "title": "Candlelight: Tribute to Metallica",
+   "date": "2026-12-03",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "San Diego Natural History Museum",
+   "where": "San Diego Natural History Museum, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "4099a6a9aebf",
@@ -1659,6 +1643,26 @@
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
    "last_seen": "2026-11-24T14:36:05-08:00"
+  },
+  {
+   "id": "f509e6354363",
+   "title": "December Nights at Mingei",
+   "date": "2026-12-04",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Mingei International Museum",
+   "where": "Mingei International Museum, San Diego, CA",
+   "url": "https://mingei.org/events/balboa-park-event/december-nights-at-mingei-4",
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "09720386e6b3",
@@ -1758,7 +1762,7 @@
     "Balboa Park"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e4eb9b64cb59",
@@ -1776,7 +1780,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5ef99082bd67",
@@ -1794,7 +1798,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "52ec453ed95e",
@@ -1812,7 +1816,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-31T06:13:43-07:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "bc754c6ec688",
@@ -1832,7 +1836,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "3f2047477f6d",
@@ -1888,11 +1892,11 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-14T10:17:33-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
-   "id": "c88af7ba465a",
-   "title": "San Diego Latin Nights",
+   "id": "7bb8bd33ec96",
+   "title": "San Diego Latin Nights – Fridays & Saturdays",
    "date": "2026-12-04",
    "time": "22:00",
    "end_date": null,
@@ -1905,8 +1909,8 @@
    "source": "Google",
    "text": "",
    "hint": [],
-   "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-20T12:31:52-08:00"
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "b76a39f6eb34",
@@ -2001,10 +2005,11 @@
    "source": "Google",
    "text": "",
    "hint": [
+    "Balboa Park",
     "Family & kids"
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-24T14:36:05-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5ee7d0f5ee8a",
@@ -2086,6 +2091,24 @@
    "last_seen": "2026-11-22T11:50:53-08:00"
   },
   {
+   "id": "b95e8ceb1a8f",
+   "title": "Mission Beach/Belmont Park Murder Mystery & Scavenger Hunt",
+   "date": "2026-12-05",
+   "time": "12:00",
+   "end_date": null,
+   "venue": "Draft South Mission",
+   "where": "Draft South Mission, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2005068164856?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "5dde6672ccb0",
    "title": "December Nights",
    "date": "2026-12-05",
@@ -2124,7 +2147,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "2bd2f2443fe0",
@@ -2162,7 +2185,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-10-26T08:00:10-07:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "2596bee83995",
@@ -2180,7 +2203,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "12b17c5a52cc",
@@ -2200,7 +2223,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e847cf3e0225",
@@ -2274,7 +2297,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "a709dd39fa6c",
@@ -2302,7 +2325,7 @@
    "end_date": null,
    "venue": "Good Night John Boy",
    "where": "Good Night John Boy, San Diego, CA",
-   "url": null,
+   "url": "https://www.eventbrite.com/e/1983869401785?aff=ebdiglgoogleliveevents",
    "tags": [
     "Around town"
    ],
@@ -2310,7 +2333,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-24T14:36:05-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "f67f947ae782",
@@ -2424,11 +2447,11 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-23T16:03:54-08:00",
-   "last_seen": "2026-11-25T13:49:53-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "420b4c4e8fca",
-   "title": "Booze 'n' Brains interactive drinking games",
+   "title": "Booze 'n' Brains Interactive Drinking Games",
    "date": "2026-12-06",
    "time": "11:00",
    "end_date": null,
@@ -2442,7 +2465,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "73e4c44f96b5",
@@ -2517,6 +2540,24 @@
    ],
    "first_seen": "2026-11-23T16:03:54-08:00",
    "last_seen": "2026-11-23T16:03:54-08:00"
+  },
+  {
+   "id": "2a5acab9325d",
+   "title": "Random Acts of Kindness Spree",
+   "date": "2026-12-06",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "Waterfront Park",
+   "where": "Waterfront Park, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/1996852933879?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "0e9e84df1f98",
@@ -2631,7 +2672,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T10:57:49-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e8d76ae29baa",
@@ -2691,7 +2732,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "ea9ff1e4e030",
@@ -2709,7 +2750,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "fc362156f412",
@@ -2727,7 +2768,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "cbe7464e5a55",
@@ -2765,7 +2806,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-17T13:05:03-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5bd3eb1a2569",
@@ -2785,7 +2826,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-17T13:05:03-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "000060b2f2d1",
@@ -2864,7 +2905,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "9d45dee92ddd",
@@ -2882,7 +2923,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-18T12:41:57-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "0d58bb8a84f9",
@@ -2941,7 +2982,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "4d27eba25441",
@@ -2959,7 +3000,7 @@
    "text": "Sports Hockey Minor League",
    "hint": [],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7f99f97e381b",
@@ -2977,7 +3018,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-19T12:47:51-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7d16d186d031",
@@ -3015,7 +3056,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "73e7958f66ee",
@@ -3036,7 +3077,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7941e0c543a6",
@@ -3056,7 +3097,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-20T12:31:52-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "b8f93c5a52d4",
+   "title": "San Diego Tech Mixer and Social",
+   "date": "2026-12-11",
+   "time": "09:30",
+   "end_date": null,
+   "venue": "Union Kitchen and Tap Gaslamp",
+   "where": "Union Kitchen and Tap Gaslamp, San Diego, CA",
+   "url": "https://www.yelp.com/events/san-diego-san-diego-tech-mixer-and-social-tech-ai-data-it-7",
+   "tags": [
+    "Tech meetups"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e8dcb6aeca2d",
@@ -3094,7 +3153,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "cfd39fc88e77",
@@ -3115,7 +3174,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "90292b3f12c7",
@@ -3133,7 +3192,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "93c0b3a77fd8",
@@ -3169,7 +3228,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "523de9c2d920",
@@ -3223,7 +3282,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "beb174836bf3",
@@ -3421,7 +3480,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "49ab9a553ca1",
@@ -3480,6 +3539,24 @@
    "last_seen": "2026-11-21T11:28:46-08:00"
   },
   {
+   "id": "0a2b0ca12324",
+   "title": "DIE HARD: A CHRISTMAS BRUNCH",
+   "date": "2026-12-12",
+   "time": "13:00",
+   "end_date": null,
+   "venue": "Mic Drop Comedy",
+   "where": "Mic Drop Comedy, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2005065669392?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "4d98deb82db4",
    "title": "How the Grinch Stole Christmas (Touring)",
    "date": "2026-12-12",
@@ -3498,7 +3575,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "f9de9b609ea6",
@@ -3538,7 +3615,7 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "6991a9bda8da",
@@ -3574,7 +3651,7 @@
    "text": "Music Rock Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "e020fcf2febd",
@@ -3594,7 +3671,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "90e86f183ad6",
@@ -3614,7 +3691,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "668240528cc3",
@@ -3632,7 +3709,7 @@
    "text": "Music Rock Pop",
    "hint": [],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "0c14c1d2c988",
@@ -3642,7 +3719,7 @@
    "end_date": null,
    "venue": "Fleet Science Center",
    "where": "Fleet Science Center, San Diego, CA",
-   "url": null,
+   "url": "https://feverup.com/m/145067?utm_source=google&utm_medium=live_events-&utm_campaign=145067_san&channel_id=FVR_MKT&session_id=462328277&date=2026-12-12&bf=itemised",
    "tags": [
     "Balboa Park"
    ],
@@ -3652,7 +3729,7 @@
     "Balboa Park"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "0714e9157e94",
@@ -3747,27 +3824,25 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-22T11:50:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
-   "id": "0c86f7702ee2",
-   "title": "Candlelight: Christmas Carols on Strings",
+   "id": "7c4a423ad37e",
+   "title": "San Diego Parade of Lights",
    "date": "2026-12-13",
-   "time": "18:15",
+   "time": "17:00",
    "end_date": null,
-   "venue": "San Diego Natural History Museum",
-   "where": "San Diego Natural History Museum, San Diego, CA",
-   "url": null,
+   "venue": "Flagship Cruises & Events",
+   "where": "Flagship Cruises & Events, San Diego, CA",
+   "url": "https://passporttosandiego.com/event-san-diego/watch-the-parade-of-lights-from-the-water-with-flagship-cruises-and-events/2026-12-13/",
    "tags": [
-    "Balboa Park"
+    "Around town"
    ],
    "source": "Google",
    "text": "",
-   "hint": [
-    "Balboa Park"
-   ],
-   "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "fc2edf63cb90",
@@ -3785,7 +3860,7 @@
    "text": "Music Rock Garage Rock Music Rock Pop Punk Music Alternative Post-Punk",
    "hint": [],
    "first_seen": "2026-11-23T16:03:54-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "b2ff75c36ecd",
@@ -3804,7 +3879,27 @@
    "text": "Music Rock Punk Music Alternative Alternative",
    "hint": [],
    "first_seen": "2026-11-24T14:36:05-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "0c86f7702ee2",
+   "title": "Candlelight: Christmas Carols on Strings",
+   "date": "2026-12-13",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "San Diego Natural History Museum",
+   "where": "San Diego Natural History Museum, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-21T11:28:46-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "40162f244eaa",
@@ -3824,7 +3919,7 @@
     "Balboa Park"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5d45e98d00b4",
@@ -3842,7 +3937,7 @@
    "text": "Music Rock Punk",
    "hint": [],
    "first_seen": "2026-11-23T16:03:54-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "42115927dc9b",
@@ -3884,7 +3979,25 @@
     "YMCA"
    ],
    "first_seen": "2026-11-15T20:37:15-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "426d43e6f6b1",
+   "title": "The San Diego Shuffle Scavenger Hunt",
+   "date": "2026-12-15",
+   "time": "11:00",
+   "end_date": null,
+   "venue": "Waterfront Park",
+   "where": "Waterfront Park, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7f3aab03c6fe",
@@ -3945,7 +4058,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-25T13:49:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "bc076728f817",
@@ -3966,7 +4079,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-25T13:49:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "ce102e639506",
@@ -3984,7 +4097,7 @@
    "text": "Music Alternative Alternative Rock",
    "hint": [],
    "first_seen": "2026-11-25T13:49:53-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "71f09089fc41",
@@ -4004,7 +4117,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "2299eb5ab688",
@@ -4046,7 +4159,7 @@
     "Arts & museums"
    ],
    "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "231ee521c9ed",
@@ -4089,6 +4202,27 @@
    "last_seen": "2026-11-26T13:43:36-08:00"
   },
   {
+   "id": "b67da1cbd032",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-12-17",
+   "time": "17:00",
+   "end_date": null,
+   "venue": "Old Globe Theatre",
+   "where": "Old Globe Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7z0O",
+   "tags": [
+    "Balboa Park",
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "aeb05d4ed41e",
    "title": "Trivia Night",
    "date": "2026-12-17",
@@ -4108,6 +4242,65 @@
    ],
    "first_seen": "2026-11-26T13:43:36-08:00",
    "last_seen": "2026-11-26T13:43:36-08:00"
+  },
+  {
+   "id": "8a1e86da609b",
+   "title": "Golden State Ballet Presents The Nutcracker",
+   "date": "2026-12-17",
+   "time": "19:30",
+   "end_date": null,
+   "venue": "San Diego Civic Theatre",
+   "where": "San Diego Civic Theatre, San Diego",
+   "url": "https://www.ticketmaster.com/golden-state-ballet-presents-the-nutcracker-san-diego-california-12-17-2026/event/0A0064B6BEA0A3B0",
+   "tags": [
+    "Arts & museums"
+   ],
+   "source": "Ticketmaster",
+   "text": "Arts & Theatre Dance Dance",
+   "hint": [
+    "Arts & museums"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "94ca6ad02e53",
+   "title": "The Milk Carton Kids - Lost Cause Lover Fool HOLIDAY TOUR w/ Rosi Golan",
+   "date": "2026-12-17",
+   "time": "20:00",
+   "end_date": null,
+   "venue": "Belly Up",
+   "where": "Belly Up, Solana Beach",
+   "url": "https://www.ticketweb.com/event/the-milk-carton-kids-belly-up-tickets/14311904",
+   "tags": [
+    "Family & kids",
+    "Live music"
+   ],
+   "source": "Ticketmaster",
+   "text": "Music Alternative Americana Music Other",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
+   "id": "fba4d4aefa6a",
+   "title": "Plant Day and Orchid Odyssey",
+   "date": "2026-12-18",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "San Diego Zoo",
+   "where": "San Diego Zoo, San Diego, CA",
+   "url": "https://zoo.sandiegozoo.org/activities/botanical-tours",
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "ab40833ad409",
@@ -4147,7 +4340,7 @@
     "Balboa Park"
    ],
    "first_seen": "2026-11-21T11:28:46-08:00",
-   "last_seen": "2026-11-21T11:28:46-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "301798f07afe",
@@ -4206,6 +4399,26 @@
    "last_seen": "2026-11-18T12:41:57-08:00"
   },
   {
+   "id": "b9465b31dc46",
+   "title": "Adults Only Holiday Scavenger Hunt: The Search For The Missing Elf",
+   "date": "2026-12-19",
+   "time": "10:00",
+   "end_date": null,
+   "venue": "Spreckels Organ Pavilion",
+   "where": "Spreckels Organ Pavilion, San Diego, CA",
+   "url": "https://www.eventbrite.com/e/2005069093634?aff=ebdiglgoogleliveevents",
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
+  },
+  {
    "id": "5380c8e2d703",
    "title": "Wingin' It: Up Close with Real Raptors",
    "date": "2026-12-19",
@@ -4245,6 +4458,26 @@
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
    "last_seen": "2026-11-24T14:36:05-08:00"
+  },
+  {
+   "id": "9a7950aed8b9",
+   "title": "Jungle Bells",
+   "date": "2026-12-19",
+   "time": "15:00",
+   "end_date": null,
+   "venue": "San Diego Zoo",
+   "where": "San Diego Zoo, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "7cdfe7aa7a9f",
@@ -4434,6 +4667,24 @@
    ],
    "first_seen": "2026-11-24T14:36:05-08:00",
    "last_seen": "2026-11-24T14:36:05-08:00"
+  },
+  {
+   "id": "c97d030b3f93",
+   "title": "Discovery Squad",
+   "date": "2026-12-21",
+   "time": "16:30",
+   "end_date": null,
+   "venue": "San Diego Central Library",
+   "where": "San Diego Central Library, San Diego, CA",
+   "url": "https://www.sandiego.gov/public-library",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "5be4976d7fde",
@@ -4729,7 +4980,7 @@
    "text": "",
    "hint": [],
    "first_seen": "2026-11-26T13:43:36-08:00",
-   "last_seen": "2026-11-26T13:43:36-08:00"
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "a66b7babbae4",
@@ -4748,6 +4999,24 @@
    "hint": [],
    "first_seen": "2026-11-24T14:36:05-08:00",
    "last_seen": "2026-11-26T13:43:36-08:00"
+  },
+  {
+   "id": "aa198aeef958",
+   "title": "SeaWorld’s Christmas Celebration",
+   "date": "2027-01-03",
+   "time": null,
+   "end_date": null,
+   "venue": "SeaWorld San Diego",
+   "where": "SeaWorld San Diego, San Diego, CA",
+   "url": "https://www.sandiegofamily.com/things-to-do/events-calendar/event/55074-seaworlds-christmas-celebration",
+   "tags": [
+    "Around town"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   },
   {
    "id": "9265e4af2011",
@@ -4788,6 +5057,26 @@
    ],
    "first_seen": "2026-11-26T13:43:36-08:00",
    "last_seen": "2026-11-26T13:43:36-08:00"
+  },
+  {
+   "id": "657408b63424",
+   "title": "Candlelight: Peaky Blinders",
+   "date": "2027-01-10",
+   "time": "20:30",
+   "end_date": null,
+   "venue": "Fleet Science Center",
+   "where": "Fleet Science Center, San Diego, CA",
+   "url": null,
+   "tags": [
+    "Balboa Park"
+   ],
+   "source": "Google",
+   "text": "",
+   "hint": [
+    "Balboa Park"
+   ],
+   "first_seen": "2026-11-27T13:27:45-08:00",
+   "last_seen": "2026-11-27T13:27:45-08:00"
   }
  ]
 }
